@@ -51,14 +51,29 @@
   },
   "files": [
     {
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
       "path": "AGENTS.md",
-      "bytes": 1527,
-      "sha256": "eb109e3a1a5758d3f718757b1e8230d463ad746463930fa8bc041a34a44d4458"
+      "bytes": 1903,
+      "sha256": "37a4047543dcc56308916b37bd4491e4b41f155913371a60eacb9588d5625b89"
     },
     {
       "path": "README.md",
-      "bytes": 2285,
-      "sha256": "eecfdd8b74057ae9bbd457adb91b724e261b1be458ed71ef198342811fc25826"
+      "bytes": 3254,
+      "sha256": "ee42bd9df9f5238fe5403bce2021d4c8579ec1f047a62b45dc6466d1560b5210"
+    },
+    {
+      "path": "assets/archive.css",
+      "bytes": 10292,
+      "sha256": "3b983d7bb1c71a484523cdb6d20be7e9c62d8f1945ea78acd24ab63416fdb8d8"
+    },
+    {
+      "path": "assets/archive.js",
+      "bytes": 20306,
+      "sha256": "cc99432733521a0c25c326ed306d45c8064424c28fa39ad2417f6c668533237e"
     },
     {
       "path": "catalog/book-experience-crosswalk.json",
@@ -226,6 +241,11 @@
       "sha256": "df1a985d7b50753fe9436b7fdd10d4fea3c3c9fa4d7b03a982b4c0e01987a7b7"
     },
     {
+      "path": "index.html",
+      "bytes": 5395,
+      "sha256": "baa37da4ada42c650401b43aab71979dc284f544dccd63418900f9ea18dde134"
+    },
+    {
       "path": "originals/books/2026-11-13/C04_Correspondencia_320_v01.json",
       "bytes": 136904,
       "sha256": "107c76962a053eb644a6bb54d5e48ace7f87b12103899d013250a1da8fa44169"
@@ -256,6 +276,11 @@
       "sha256": "bf3d71c317d5765c7f7d3a8fb1e627e671fbf04ba233eabf86079d6697ea4418"
     },
     {
+      "path": "process/implementation/2026-11-14_archive-viewer.md",
+      "bytes": 1720,
+      "sha256": "046b011ed6555542adc0469b846b514ac1c11500eaff460aab3e074c09e66a0b"
+    },
+    {
       "path": "process/implementation/2026-11-14_initial-import.md",
       "bytes": 1069,
       "sha256": "b0475a2fc84d8411e678e832bb30b03c1b930c911bb5c15a6e94f3db7c36fd2f"
@@ -266,9 +291,28 @@
       "sha256": "309baf469f9f061724b1658afce4ebc504e7c86c66c09df258826a5d89d4ebaf"
     },
     {
+      "path": "process/tests/2026-11-14_archive-viewer.md",
+      "bytes": 1557,
+      "sha256": "7cf53eaebe46229ca6f56bc211642d61e71adae7b32a5169538daf08c3d0b040"
+    },
+    {
       "path": "process/tests/README.md",
       "bytes": 172,
       "sha256": "0b2795576a1e9152a033ac325b8b54702733ad74f58ca1f69f933ac2a7e3b659"
+    },
+    {
+      "path": "tests/validate_archive.py",
+      "bytes": 2225,
+      "sha256": "aab5ee234ce2d9312450a01350180262c35c0aa453db39d651a0cc98a4210aa1"
     }
-  ]
+  ],
+  "viewer": {
+    "version": "v01",
+    "added_on": "2026-11-14",
+    "entrypoint": "index.html",
+    "hosting": "GitHub Pages; main; /(root)",
+    "deployment_status": "ACTIVATION_NOT_VERIFIED",
+    "source_data": "existing archived JSON; no duplicated catalog",
+    "unassigned_source_cards": 4
+  }
 }

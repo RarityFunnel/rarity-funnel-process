@@ -10,4 +10,4 @@ Publish only authorized public material. Keep credentials, visitor data, private
 
 Before reporting a backup as complete, validate local relationships and hashes, then retrieve and verify the actual commit contents. Use non-forced updates with an expected branch head; inspect concurrent changes rather than overwriting them. Record real coverage and unresolved mismatches. Do not create empty commits.
 
-This is an archive, not a website build. Do not enable deployments or add animations as part of archival maintenance. The policy does not itself create a background synchronization job.
+This archive includes a read-only documentation viewer, explicitly requested by David on 14 November 2026. GitHub Pages may publish this viewer from main, repository root. This authorization does not extend to the Rarity Funnel immersive website, animations, licensed media or new source material. Keep the viewer derived from the archived JSON, with no second manually maintained catalog. Test changes before publishing and distinguish code publication from confirmed Pages deployment. The update policy does not itself create a background synchronization job.

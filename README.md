@@ -4,6 +4,12 @@ An archive of Rarity Funnel’s sources, findings, and development process, orga
 
 ## Explore
 
+The repository now includes a read-only archive viewer (`index.html`) with a dark documentation interface, search, door/section navigation and tabs for sources, findings, checks, book–experience correspondences and provenance. The viewer reads the existing JSON files directly. Source wording is preserved in Spanish.
+
+**Hosting setup:** GitHub Pages → Deploy from a branch → `main` → `/(root)`. Save to activate hosting. The presence of this code is not evidence that Pages has been activated; deployment must be checked separately. No custom domain or extra data service is required. Source-data updates committed to this branch will be included in the next Pages deployment, once enabled. This does not synchronize Drive with GitHub.
+
+Viewer links use URL fragments, for example `#door=albaview&section=04&tab=sources`; individual source cards can also be linked. The immersive website can link to the published viewer after its live URL has been verified.
+
 - [AlbaView: twelve journey sections](doors/albaview/README.md)
 - [LineageMoment](doors/lineage-moment/README.md) · [PresentFront](doors/present-front/README.md) · [Sanity Portrait](doors/sanity-portrait/README.md)
 - [Global experience](global-experience/README.md)
