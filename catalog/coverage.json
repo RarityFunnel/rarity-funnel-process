@@ -5,14 +5,16 @@
     "source_cards": 87,
     "technical_flags": 4,
     "reference_occurrences": 241,
-    "deduplicated_reference_records": 143,
+    "deduplicated_reference_records": 147,
     "book_rows": 320,
     "book_source_apparatus_records": 99,
     "experience_steps": 306,
     "exact_embedded_id_matches": 287,
     "final_module_id_references": 17,
     "no_exact_id_match": 16,
-    "external_papers_copied": 0
+    "external_papers_copied": 0,
+    "embedded_card_reference_records": 143,
+    "editorial_research_reference_records": 4
   },
   "unarchived_scopes": [
     "LineageMoment source corpus",
@@ -24,5 +26,6 @@
     "External cited papers"
   ],
   "automatic_sync": "NOT_ACTIVE",
-  "consumer_rule_adoption": "NOT_YET_CONFIRMED"
+  "consumer_rule_adoption": "NOT_ATTESTED_BY_THIS_PUBLIC_DATASET",
+  "reference_scope_note": "143 original card-reference records and four external editorial-research references; 87 original source cards unchanged."
 }

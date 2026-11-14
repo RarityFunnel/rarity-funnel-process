@@ -25,6 +25,10 @@ It contains 87 source cards, 143 deduplicated reference records, 99 book source-
 
 Source cards preserve their claims, contributions, limitations and reference notes. References to papers are **not copies of the papers**. The repository does not yet contain the complete corpus for all four doors, the full book, the full script, or the website build.
 
+## Additional public references · 14 November 2026
+
+The common catalog now contains 147 records: the original 143 card-reference records and four external references for editorial research. The 87 experience cards and 320 book records are unchanged. [Public bibliographic metadata and consultation limits](originals/public-references/2026-11-14/explanation-reading-metadata.json). These references do not establish that any experience text has changed or that Rarity Funnel has been experimentally validated.
+
 ## Maintenance
 
 Every source or process change must update the relevant snapshots, catalog, section links and change record. A change counts as backed up only after the resulting commit is read back and its files verified. Books and Immersive Experience retain responsibility for their originals; RF coordinates this replica. [Full policy](process/UPDATE_POLICY.md).

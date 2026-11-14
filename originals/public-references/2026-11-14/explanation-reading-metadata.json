@@ -1,0 +1,59 @@
+{
+  "representation": "PUBLIC_BIBLIOGRAPHIC_METADATA_ONLY",
+  "consulted_on": "2026-11-14",
+  "sources": [
+    {
+      "reference_id": "RF-REF-10bd6e2bb03b6297",
+      "authors": [
+        "Tania Lombrozo"
+      ],
+      "title": "Why We Ask Why: The Science of Explanation and the Human Drive to Understand",
+      "year": 2026,
+      "url": "https://www.tanialombrozo.com/book",
+      "doi": null,
+      "consulted_scope": "Author book presentation only; full book not read.",
+      "note": "Reference on explanation-seeking. It is not evidence of outcomes in Rarity Funnel."
+    },
+    {
+      "reference_id": "RF-REF-cd467671c5f3b257",
+      "authors": [
+        "Francisco Cruz",
+        "Tania Lombrozo"
+      ],
+      "title": "How laypeople evaluate scientific explanations containing jargon",
+      "year": 2025,
+      "url": "https://cognition.princeton.edu/publications/how-laypeople-evaluate-scientific-explanations-containing-jargon",
+      "doi": "10.1038/s41562-025-02227-0",
+      "consulted_scope": "Author laboratory abstract and bibliographic record; full article not read.",
+      "note": "The reported experiments distinguish satisfaction with explanations from comprehensibility. Application to Rarity Funnel is an editorial question, not a tested effect."
+    },
+    {
+      "reference_id": "RF-REF-dcacc968a53324ac",
+      "authors": [
+        "Joseph Jay Williams",
+        "Tania Lombrozo",
+        "Bob Rehder"
+      ],
+      "title": "The hazards of explanation: overgeneralization in the face of exceptions",
+      "year": 2013,
+      "url": "https://cognition.princeton.edu/publications/hazards-explanation-overgeneralization-face-exceptions",
+      "doi": "10.1037/a0030996",
+      "consulted_scope": "Author laboratory abstract and bibliographic record; full article not read.",
+      "note": "The reported category-learning experiments show limits of generalization when exceptions matter. They do not demonstrate a causal effect of any Rarity Funnel passage."
+    },
+    {
+      "reference_id": "RF-REF-a2b0e79ced77295d",
+      "authors": [
+        "Mary Roach"
+      ],
+      "title": "Packing for Mars: The Curious Science of Life in the Void",
+      "year": 2010,
+      "url": "https://maryroach.net/packing-for-mars.html",
+      "doi": null,
+      "consulted_scope": "Author public synopsis only; full book not read.",
+      "note": "Narrative reference concerning practical and bodily aspects of space exploration; no biomedical findings are imported into AlbaView."
+    }
+  ],
+  "full_texts_copied": false,
+  "private_project_material_included": false
+}

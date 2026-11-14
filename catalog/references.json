@@ -3565,5 +3565,83 @@
       }
     ],
     "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-10bd6e2bb03b6297",
+    "identity": "url:https://www.tanialombrozo.com/book",
+    "source_card_ids": [],
+    "citation_variants": [
+      {
+        "text": "Tania Lombrozo. Why We Ask Why: The Science of Explanation and the Human Drive to Understand (2026).",
+        "urls": [
+          "https://www.tanialombrozo.com/book"
+        ],
+        "type": "public reference for editorial research; not an embedded experience citation"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED",
+    "scope": "editorial-research-context",
+    "consulted_on": "2026-11-14",
+    "consulted_scope": "Author book presentation only; full book not read.",
+    "limits": "Reference on explanation-seeking. It is not evidence of outcomes in Rarity Funnel."
+  },
+  {
+    "reference_id": "RF-REF-cd467671c5f3b257",
+    "identity": "doi:10.1038/s41562-025-02227-0",
+    "source_card_ids": [],
+    "citation_variants": [
+      {
+        "text": "Francisco Cruz; Tania Lombrozo. How laypeople evaluate scientific explanations containing jargon (2025).",
+        "urls": [
+          "https://doi.org/10.1038/s41562-025-02227-0",
+          "https://cognition.princeton.edu/publications/how-laypeople-evaluate-scientific-explanations-containing-jargon"
+        ],
+        "type": "public reference for editorial research; not an embedded experience citation"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED",
+    "scope": "editorial-research-context",
+    "consulted_on": "2026-11-14",
+    "consulted_scope": "Author laboratory abstract and bibliographic record; full article not read.",
+    "limits": "The reported experiments distinguish satisfaction with explanations from comprehensibility. Application to Rarity Funnel is an editorial question, not a tested effect."
+  },
+  {
+    "reference_id": "RF-REF-dcacc968a53324ac",
+    "identity": "doi:10.1037/a0030996",
+    "source_card_ids": [],
+    "citation_variants": [
+      {
+        "text": "Joseph Jay Williams; Tania Lombrozo; Bob Rehder. The hazards of explanation: overgeneralization in the face of exceptions (2013).",
+        "urls": [
+          "https://doi.org/10.1037/a0030996",
+          "https://cognition.princeton.edu/publications/hazards-explanation-overgeneralization-face-exceptions"
+        ],
+        "type": "public reference for editorial research; not an embedded experience citation"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED",
+    "scope": "editorial-research-context",
+    "consulted_on": "2026-11-14",
+    "consulted_scope": "Author laboratory abstract and bibliographic record; full article not read.",
+    "limits": "The reported category-learning experiments show limits of generalization when exceptions matter. They do not demonstrate a causal effect of any Rarity Funnel passage."
+  },
+  {
+    "reference_id": "RF-REF-a2b0e79ced77295d",
+    "identity": "url:https://maryroach.net/packing-for-mars.html",
+    "source_card_ids": [],
+    "citation_variants": [
+      {
+        "text": "Mary Roach. Packing for Mars: The Curious Science of Life in the Void (2010).",
+        "urls": [
+          "https://maryroach.net/packing-for-mars.html"
+        ],
+        "type": "public reference for editorial research; not an embedded experience citation"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED",
+    "scope": "editorial-research-context",
+    "consulted_on": "2026-11-14",
+    "consulted_scope": "Author public synopsis only; full book not read.",
+    "limits": "Narrative reference concerning practical and bodily aspects of space exploration; no biomedical findings are imported into AlbaView."
   }
 ]
