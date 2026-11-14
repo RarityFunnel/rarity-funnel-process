@@ -1,0 +1,434 @@
+{
+  "section": {
+    "id": "C09",
+    "title": "El largo crepúsculo",
+    "title_en": "The Long Twilight",
+    "slug": "largo-crepusculo"
+  },
+  "experience_cards": {
+    "AV-F23": {
+      "title": "Calcular un futuro no es observarlo",
+      "kind": "Ficha de AlbaView",
+      "claim": "El pasado del recorrido se reconstruye con luz, ondas gravitacionales, rocas, experimentos y modelos. El futuro se calcula prolongando leyes y condiciones, o ensayando cómo cambiaría la historia bajo supuestos diferentes. Las observaciones actuales pueden limitar esos supuestos; no muestran el desenlace futuro.",
+      "aporta": "El mapa de referencia prolonga una expansión compatible con energía oscura constante. A medida que disminuye la formación estelar, las estrellas existentes agotan su combustible. Algunas dejan enanas blancas, que se enfrían; otras producen remanentes más compactos. Los tiempos dependen de la masa y del proceso. No hay un interruptor que apague todas las estrellas a la vez.\n\nLas eras de Adams y Laughlin ordenan procesos por potencias de diez. Su rama más remota incorpora hipótesis adicionales, como la desintegración del protón y la evaporación de agujeros negros. Si cambia uno de esos supuestos, cambia el mapa. La era oscura no es una nada absoluta: contempla materia muy dispersa y radiación, sin una fecha de apagado total.",
+      "limites": "",
+      "paras": [
+        "El pasado del recorrido se reconstruye con luz, ondas gravitacionales, rocas, experimentos y modelos. El futuro se calcula prolongando leyes y condiciones, o ensayando cómo cambiaría la historia bajo supuestos diferentes. Las observaciones actuales pueden limitar esos supuestos; no muestran el desenlace futuro.",
+        "El mapa de referencia prolonga una expansión compatible con energía oscura constante. A medida que disminuye la formación estelar, las estrellas existentes agotan su combustible. Algunas dejan enanas blancas, que se enfrían; otras producen remanentes más compactos. Los tiempos dependen de la masa y del proceso. No hay un interruptor que apague todas las estrellas a la vez.",
+        "Las eras de Adams y Laughlin ordenan procesos por potencias de diez. Su rama más remota incorpora hipótesis adicionales, como la desintegración del protón y la evaporación de agujeros negros. Si cambia uno de esos supuestos, cambia el mapa. La era oscura no es una nada absoluta: contempla materia muy dispersa y radiación, sin una fecha de apagado total."
+      ],
+      "fecha": "1997 · 2020",
+      "fig": null,
+      "sec": null,
+      "refs": [
+        {
+          "n": null,
+          "internal": false,
+          "text": "Adams y Laughlin, A dying universe: the long-term fate and evolution of astrophysical objects (1997)",
+          "urls": [
+            "https://doi.org/10.1103/RevModPhys.69.337"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "§I ec.1.1; §II.D ec.2.18; §III/IV supuestos; §V evaporación",
+          "lim": "Modelo condicional; formación residual, decaimiento del protón y escala de masa importan. 10¹⁴ y 10¹⁰⁰ no son fechas finales observadas.",
+          "key": "Ada97",
+          "year": "1997"
+        },
+        {
+          "n": null,
+          "internal": false,
+          "text": "Planck Collaboration, Planck 2018 results VI. Cosmological parameters (A&A 641, A6, 2020)",
+          "urls": [
+            "https://doi.org/10.1051/0004-6361/201833910"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "Resumen; resultados base ΛCDM: H₀=67,4±0,5 km/s/Mpc; Ωm=0,315±0,007; Ωbh²≈0,0224",
+          "lim": "Inferencia dependiente de ΛCDM; no observación directa de la edad ni de la sustancia de la energía oscura.",
+          "key": "Agh18",
+          "year": "2020"
+        },
+        {
+          "n": null,
+          "internal": false,
+          "text": "Chandra/NASA, Stellar Evolution",
+          "urls": [
+            "https://chandra.si.edu/stellarev/"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "Ramas de remanentes y dependencia de masa inicial",
+          "lim": "Esquema general; no toda estrella de una categoría tiene el mismo destino, ni toda estrella deja remanente.",
+          "key": "STARS",
+          "year": ""
+        }
+      ],
+      "origin": "dictamen AlbaView 1oAUCFEWu_hxHl1dlfzrP48tbD01BXujS §4 · F23"
+    },
+    "crepusculo": {
+      "title": "El largo crepúsculo",
+      "kind": "Escenario condicionado y restos observados",
+      "claim": "En el escenario de referencia disminuye la formación estelar y predominan progresivamente los remanentes.",
+      "aporta": "Conservar la nota 57 para evolución futura. Para el tamaño de una estrella de neutrones, Dittmann et al. 2024: en PSR J0740+6620 se infiere R = 12,92 +2,09/−1,13 km (68 %). La comparación con una ciudad alude a un diámetro de pocas decenas de kilómetros.",
+      "limites": "No son radios universales de 10–14 km ni una fecha exacta de la última estrella. Remanentes observados y evolución futura tienen estatutos diferentes.",
+      "fecha": "Adams y Laughlin 1997; Dittmann v2, 30-jun-2024; cotejo 22-oct-2026",
+      "fig": null,
+      "sec": "III.7",
+      "refs": [
+        {
+          "n": 57,
+          "internal": false,
+          "text": "Adams y Laughlin, «A dying universe» (apagado gradual, franja η ≈ 12–14; calificación 1 del sello S-η, marco firme sin rótulo condicional).",
+          "urls": [
+            "https://doi.org/10.1103/RevModPhys.69.337"
+          ],
+          "type": "fuente académica o institucional"
+        },
+        {
+          "n": null,
+          "internal": false,
+          "type": "fuente académica o institucional",
+          "text": "Alexander J. Dittmann et al., «A more precise measurement of the radius of PSR J0740+6620 using updated NICER data», The Astrophysical Journal (2024), https://arxiv.org/abs/2406.14467.",
+          "urls": [
+            "https://arxiv.org/abs/2406.14467"
+          ]
+        }
+      ]
+    },
+    "horizonte-estelar": {
+      "title": "Cien billones de años",
+      "kind": "Modelo",
+      "claim": "En el escenario elegido, 10¹⁴ años es un horizonte convencional para el final de la era estelar, no la fecha exacta de la última estrella.",
+      "aporta": "Adams y Laughlin ordenan la evolución futura en eras. Las estrellas de menor masa pueden durar billones de años; el horizonte orienta el recorrido, no certifica un último encendido.",
+      "limites": "10¹⁴ años es un horizonte convencional condicionado para la era estelar. No fecha la última estrella ni el Big Freeze. No es el Big Freeze ni el final del universo. «Cien billones» usa la escala larga: 10¹⁴. Las etapas posteriores conservan sus condiciones.",
+      "fecha": "Adams y Laughlin, 1997",
+      "fig": null,
+      "sec": "III.7",
+      "refs": [
+        {
+          "n": 13,
+          "internal": false,
+          "text": "Fred C. Adams y Gregory Laughlin, «A dying universe: the long-term fate and evolution of astrophysical objects», Reviews of Modern Physics 69 (1997): 337–372, https://doi.org/10.1103/RevModPhys.69.337. La década cosmológica η es la convención de notación de esta fuente.",
+          "urls": [
+            "https://doi.org/10.1103/RevModPhys.69.337"
+          ],
+          "type": "fuente académica o institucional"
+        },
+        {
+          "n": 57,
+          "internal": false,
+          "text": "Adams y Laughlin, «A dying universe» (apagado gradual, franja η ≈ 12–14; calificación 1 del sello S-η, marco firme sin rótulo condicional).",
+          "urls": [
+            "https://doi.org/10.1103/RevModPhys.69.337"
+          ],
+          "type": "fuente académica o institucional"
+        }
+      ]
+    },
+    "AV-F24": {
+      "title": "Restos estelares y horizontes",
+      "kind": "Ficha de AlbaView",
+      "claim": "El destino de una estrella depende de su masa, composición, pérdida de materia e interacciones. No existe una regla universal por la que todas las estrellas grandes produzcan una estrella de neutrones y todas las aún mayores un agujero negro. Algunas pueden perder tanta materia, o sufrir procesos tan violentos, que su resultado cambia.",
+      "aporta": "Una estrella de neutrones concentra una masa comparable o superior a la del Sol en una esfera del tamaño de una ciudad. Algunos de estos objetos producen señales periódicas al girar: son los púlsares. El faro es una analogía de la dirección de la señal, no una lámpara material instalada en la superficie.\n\nUn horizonte de sucesos es una frontera causal: desde su interior no puede enviarse una señal hacia el exterior distante. No es una pared sólida. El Event Horizon Telescope publicó en 2019 la imagen de M87* y en 2022 la de Sagittarius A*. Las imágenes reconstruyen emisión de gas alrededor de una región oscura compatible con la sombra de un agujero negro. No fotografían el interior ni hacen visible el horizonte como una superficie que emite luz. Son observaciones en radio reconstruidas a partir de una red de telescopios.",
+      "limites": "",
+      "paras": [
+        "El destino de una estrella depende de su masa, composición, pérdida de materia e interacciones. No existe una regla universal por la que todas las estrellas grandes produzcan una estrella de neutrones y todas las aún mayores un agujero negro. Algunas pueden perder tanta materia, o sufrir procesos tan violentos, que su resultado cambia.",
+        "Una estrella de neutrones concentra una masa comparable o superior a la del Sol en una esfera del tamaño de una ciudad. Algunos de estos objetos producen señales periódicas al girar: son los púlsares. El faro es una analogía de la dirección de la señal, no una lámpara material instalada en la superficie.",
+        "Un horizonte de sucesos es una frontera causal: desde su interior no puede enviarse una señal hacia el exterior distante. No es una pared sólida. El Event Horizon Telescope publicó en 2019 la imagen de M87* y en 2022 la de Sagittarius A*. Las imágenes reconstruyen emisión de gas alrededor de una región oscura compatible con la sombra de un agujero negro. No fotografían el interior ni hacen visible el horizonte como una superficie que emite luz. Son observaciones en radio reconstruidas a partir de una red de telescopios."
+      ],
+      "fecha": "2019 · 2022",
+      "fig": null,
+      "sec": null,
+      "refs": [
+        {
+          "n": null,
+          "internal": false,
+          "text": "Chandra/NASA, Stellar Evolution",
+          "urls": [
+            "https://chandra.si.edu/stellarev/"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "Ramas de remanentes y dependencia de masa inicial",
+          "lim": "Esquema general; no toda estrella de una categoría tiene el mismo destino, ni toda estrella deja remanente.",
+          "key": "STARS",
+          "year": ""
+        },
+        {
+          "n": null,
+          "internal": false,
+          "text": "EHT/ESO, Astronomers Capture First Image of a Black Hole (10-abr-2019)",
+          "urls": [
+            "https://www.eso.org/public/news/eso1907/"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "Imagen M87*, anillo y sombra",
+          "lim": "Reconstrucción de emisión circundante; no imagen del interior ni superficie material del horizonte.",
+          "key": "EHT19",
+          "year": "2019"
+        },
+        {
+          "n": null,
+          "internal": false,
+          "text": "EHT/ESO, Astronomers reveal first image of the black hole at the heart of our galaxy (12-may-2022)",
+          "urls": [
+            "https://www.eso.org/public/news/eso2208-eht-mw/"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "Imagen Sgr A*, anillo y sombra",
+          "lim": "Imagen en radio reconstruida, no fotografía óptica del interior.",
+          "key": "EHT22",
+          "year": "2022"
+        }
+      ],
+      "origin": "dictamen AlbaView 1oAUCFEWu_hxHl1dlfzrP48tbD01BXujS §4 · F24"
+    },
+    "AV-F25": {
+      "title": "El protón y una desintegración todavía no observada",
+      "kind": "Ficha de AlbaView",
+      "claim": "El protón es un objeto cuántico compuesto. Tiene tres quarks de valencia —dos de tipo up y uno down—, además de gluones y pares quark-antiquark. Dibujarlo como tres piezas ayuda a reconocer su composición, pero no representa tres bolitas que puedan salir sueltas: la interacción fuerte confina los quarks.",
+      "aporta": "Algunas teorías de gran unificación predicen procesos que transformarían un protón en otras partículas. No todas predicen los mismos canales ni los mismos tiempos. No se ha confirmado una desintegración del protón. Super-Kamiokande publicó en 2020 límites inferiores de vida media parcial de 2,4 × 10³⁴ años para p → e⁺π⁰ y 1,6 × 10³⁴ años para p → μ⁺π⁰, al 90 % de confianza.\n\nEsos límites se obtienen vigilando muchísimos protones y buscando sucesos característicos. No significan que cada protón tenga garantizado un tiempo mínimo de espera. Hyper-Kamiokande está en construcción; la planificación oficial cotejada apunta al inicio de operación en 2028, no a una observación ya realizada.\n\nSi el protón decae, la materia de muchos remanentes acabaría transformándose. Si es estable, esa parte del futuro sería distinta. La campana mantiene visible esta condición.",
+      "limites": "",
+      "paras": [
+        "El protón es un objeto cuántico compuesto. Tiene tres quarks de valencia —dos de tipo up y uno down—, además de gluones y pares quark-antiquark. Dibujarlo como tres piezas ayuda a reconocer su composición, pero no representa tres bolitas que puedan salir sueltas: la interacción fuerte confina los quarks.",
+        "Algunas teorías de gran unificación predicen procesos que transformarían un protón en otras partículas. No todas predicen los mismos canales ni los mismos tiempos. No se ha confirmado una desintegración del protón. Super-Kamiokande publicó en 2020 límites inferiores de vida media parcial de 2,4 × 10³⁴ años para p → e⁺π⁰ y 1,6 × 10³⁴ años para p → μ⁺π⁰, al 90 % de confianza.",
+        "Esos límites se obtienen vigilando muchísimos protones y buscando sucesos característicos. No significan que cada protón tenga garantizado un tiempo mínimo de espera. Hyper-Kamiokande está en construcción; la planificación oficial cotejada apunta al inicio de operación en 2028, no a una observación ya realizada.",
+        "Si el protón decae, la materia de muchos remanentes acabaría transformándose. Si es estable, esa parte del futuro sería distinta. La campana mantiene visible esta condición."
+      ],
+      "fecha": "1997 · 2020",
+      "fig": null,
+      "sec": null,
+      "refs": [
+        {
+          "n": null,
+          "internal": false,
+          "text": "CMS/CERN, How are the quarks moving?",
+          "urls": [
+            "https://cmsexperiment.web.cern.ch/news/how-are-quarks-moving"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "Descripción de tres quarks de valencia, gluones y pares quark-antiquark",
+          "lim": "El protón no consta solo de tres bolitas; no deducir desintegración como liberación de quarks sueltos.",
+          "key": "PROTON",
+          "year": ""
+        },
+        {
+          "n": null,
+          "internal": false,
+          "text": "Takenaka et al., Search for proton decay via p→e⁺π⁰ and p→μ⁺π⁰… (2020)",
+          "urls": [
+            "https://doi.org/10.1103/PhysRevD.102.112011"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "Resumen: τ/B>2,4×10³⁴ y>1,6×10³⁴ años,90%CL",
+          "lim": "Límites inferiores de vida media parcial por canal; no tiempo mínimo garantizado de cada protón.",
+          "key": "Tak20c",
+          "year": "2020"
+        },
+        {
+          "n": null,
+          "internal": false,
+          "text": "ICRR/Universidad de Tokio, Hyper-Kamiokande Overview",
+          "urls": [
+            "https://www-sk.icrr.u-tokyo.ac.jp/en/hk/about/outline/"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "Construcción; objetivo de operación 2028",
+          "lim": "Es un calendario previsto, no operación ya iniciada; no usar 2027 como fecha vigente de observación.",
+          "key": "HK26",
+          "year": ""
+        },
+        {
+          "n": null,
+          "internal": false,
+          "text": "Adams y Laughlin, A dying universe: the long-term fate and evolution of astrophysical objects (1997)",
+          "urls": [
+            "https://doi.org/10.1103/RevModPhys.69.337"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "§I ec.1.1; §II.D ec.2.18; §III/IV supuestos; §V evaporación",
+          "lim": "Modelo condicional; formación residual, decaimiento del protón y escala de masa importan. 10¹⁴ y 10¹⁰⁰ no son fechas finales observadas.",
+          "key": "Ada97",
+          "year": "1997"
+        }
+      ],
+      "origin": "dictamen AlbaView 1oAUCFEWu_hxHl1dlfzrP48tbD01BXujS §4 · F25"
+    },
+    "proton-supuesto": {
+      "title": "El supuesto del protón",
+      "kind": "Supuesto de este escenario",
+      "claim": "Para desarrollar esta rama más allá del crepúsculo se supone que los protones pueden desintegrarse.",
+      "aporta": "El final de la Era Degenerada se dibuja con una vida del protón de unos 10³⁷ años, el supuesto que adoptan Adams y Laughlin.",
+      "limites": "10³⁷ años es un supuesto teórico de vida media, no una medición ni caducidad individual. Si el protón es estable, hay que reconsiderar esta rama y sus duraciones. Ilustración 14: un protón tiene tres quarks de valencia; los puntos y los muelles son recursos del esquema.",
+      "fecha": "Adams y Laughlin, 1997",
+      "fig": "proton",
+      "sec": "III.7",
+      "refs": [
+        {
+          "n": 61,
+          "internal": false,
+          "text": "Adams y Laughlin, «A dying universe» (τ_p ~ 10³⁷ años adoptado como supuesto; calificación 2 del sello S-η: nunca se imprime como medición).",
+          "urls": [
+            "https://doi.org/10.1103/RevModPhys.69.337"
+          ],
+          "type": "fuente académica o institucional"
+        }
+      ]
+    },
+    "proton-cota": {
+      "title": "Lo que dicen los experimentos",
+      "kind": "Límite experimental por canal",
+      "claim": "Para p → e⁺π⁰, Super-Kamiokande establece τ/B > 2,4 × 10³⁴ años al 90 % de confianza.",
+      "aporta": "Es una cota inferior de vida media parcial: no se observó una señal significativa del canal buscado.",
+      "limites": "Cota de vida parcial τ/B por canal y nivel de confianza; no vida total medida ni tiempo mínimo individual de desintegración. No es una vida total medida, una detección ni un tiempo mínimo garantizado para cada protón. No convertirla en cuenta atrás.",
+      "fecha": "Takenaka et al. (Super-Kamiokande), 2020",
+      "fig": "proton",
+      "sec": "III.7",
+      "refs": [
+        {
+          "n": 59,
+          "internal": false,
+          "text": "A. Takenaka et al. (Super-Kamiokande Collaboration), «Search for proton decay via p→e⁺π⁰ and p→μ⁺π⁰ with an enlarged fiducial volume in Super-Kamiokande I-IV», Physical Review D 102 (2020): 112011, https://doi.org/10.1103/physrevd.102.112011. Cota inferior de vida parcial (τ/B), no vida total.",
+          "urls": [
+            "https://doi.org/10.1103/physrevd.102.112011"
+          ],
+          "type": "fuente académica o institucional"
+        }
+      ]
+    },
+    "era-estelar": {
+      "title": "La era de las estrellas",
+      "kind": "Modelo",
+      "claim": "La era estelar es la etapa de brillo estelar sostenido que habitamos. Antes y después también existe radiación. Muchos elementos de nuestro cuerpo se formaron en estrellas y sus explosiones.",
+      "aporta": "Adams y Laughlin usan para la era estelar el intervalo convencional η ≈ 6…14. Hoy, η₀ ≈ 10,14. El extremo inferior de esa clasificación no fecha una primera estrella observada.",
+      "limites": "Era de brillo estelar sostenido, no único tramo con radiación. Su comienzo convencional no fecha la primera estrella observada. Las posiciones de los hitos del recorrido son posiciones declaradas del artefacto, sin sello propio. El primer encendido no se afirma como observado. El hierro se forma sobre todo en supernovas; la frase resume la nucleosíntesis estelar, no la historia de cada átomo.",
+      "fecha": "Adams y Laughlin, 1997 · Planck, 2018 · Burbidge et al., 1957",
+      "fig": null,
+      "sec": "III.5",
+      "refs": [
+        {
+          "n": 46,
+          "internal": false,
+          "text": "Adams y Laughlin, «A dying universe» (Era Estelar, 6 < η < 14); η₀ = 10,14 derivado de la edad de Planck 2018 VI.",
+          "urls": [
+            "https://doi.org/10.1051/0004-6361/201833910",
+            "https://doi.org/10.1103/RevModPhys.69.337"
+          ],
+          "type": "fuente académica o institucional"
+        },
+        {
+          "n": null,
+          "internal": false,
+          "text": "E. Margaret Burbidge, Geoffrey R. Burbidge, William A. Fowler y Fred Hoyle, «Synthesis of the Elements in Stars», Reviews of Modern Physics 29 (1957): 547–650.",
+          "urls": [
+            "https://doi.org/10.1103/RevModPhys.29.547"
+          ],
+          "type": "referencia externa al libro"
+        }
+      ]
+    }
+  },
+  "book_source_apparatus": [
+    {
+      "row_id": "C09.say.hacia-adelante-ya",
+      "book_locator": "AV-A-214",
+      "section": "09",
+      "section_title": "El largo crepúsculo",
+      "recorded_state": "ACTIVA",
+      "source_apparatus": {
+        "Verificaciones AlbaView (estado · qué verificar · fuente concreta vía Undermind · veredicto)": "PENDIENTE · Verificar: que las proyecciones del futuro cósmico se basan en extrapolar el modelo actual (ΛCDM con energía oscura constante), no en observaciones. · Fuente: — · Veredicto: —",
+        "Ampliar con el icono de Fuentes (libro abierto) · qué explicar cuando la voz dice «el modelo», «la teoría», «hipótesis»…": "FUENTES (libro abierto) ACTIVO · Cómo se calcula el futuro cósmico: qué se supone (energía oscura constante) y qué cambiaría si no lo es (remite a los finales de C11)."
+      }
+    },
+    {
+      "row_id": "C09.say.si-todo-sigue",
+      "book_locator": "AV-A-215",
+      "section": "09",
+      "section_title": "El largo crepúsculo",
+      "recorded_state": "ACTIVA",
+      "source_apparatus": {
+        "Verificaciones AlbaView (estado · qué verificar · fuente concreta vía Undermind · veredicto)": "PENDIENTE · Verificar: declive de la formación estelar por agotamiento del gas (la tasa ya cae desde hace ≈ 10.000 millones de años). · Fuente: — · Veredicto: —"
+      }
+    },
+    {
+      "row_id": "C09.say.pequenas-arden-durante",
+      "book_locator": "AV-A-216",
+      "section": "09",
+      "section_title": "El largo crepúsculo",
+      "recorded_state": "ACTIVA",
+      "source_apparatus": {
+        "Verificaciones AlbaView (estado · qué verificar · fuente concreta vía Undermind · veredicto)": "PENDIENTE · Verificar: enanas rojas con vidas de billones de años (hasta ≈ 10¹³ años); fin de la era estelar ≈ 10¹⁴ años como horizonte (Adams y Laughlin 1997). · Fuente: — · Veredicto: —"
+      }
+    },
+    {
+      "row_id": "C09.say.quedan-restos-enanas",
+      "book_locator": "AV-A-219",
+      "section": "09",
+      "section_title": "El largo crepúsculo",
+      "recorded_state": "ACTIVA",
+      "source_apparatus": {
+        "Verificaciones AlbaView (estado · qué verificar · fuente concreta vía Undermind · veredicto)": "PENDIENTE · Verificar: estrellas de masa como la del Sol terminan como enanas blancas (núcleo degenerado expuesto) que se enfrían durante tiempos muy largos (billones de años o más). · Fuente: — · Veredicto: —"
+      }
+    },
+    {
+      "row_id": "C09.say.estrellas-neutrones-queda",
+      "book_locator": "AV-A-221",
+      "section": "09",
+      "section_title": "El largo crepúsculo",
+      "recorded_state": "ACTIVA",
+      "source_apparatus": {
+        "Verificaciones AlbaView (estado · qué verificar · fuente concreta vía Undermind · veredicto)": "PENDIENTE · Verificar: estrellas de neutrones (≈ 1,4–2 masas solares en ≈ 20–25 km de diámetro); densidad: una cucharadita ≈ miles de millones de toneladas (comparable a una montaña); los púlsares como estrellas de neutrones que giran y emiten haces. Ajustar «muchas giran… como un faro» si AlbaView prefiere «algunas». · Fuente: — · Veredicto: —"
+      }
+    },
+    {
+      "row_id": "C09.say.agujeros-negros",
+      "book_locator": "AV-A-223",
+      "section": "09",
+      "section_title": "El largo crepúsculo",
+      "recorded_state": "ACTIVA",
+      "source_apparatus": {
+        "Verificaciones AlbaView (estado · qué verificar · fuente concreta vía Undermind · veredicto)": "PENDIENTE · Verificar: formación de agujeros negros estelares por colapso de los núcleos de las estrellas más masivas; horizonte de sucesos del que ni la luz escapa; que un agujero negro no es un vacío sino una concentración extrema de masa. · Fuente: — · Veredicto: —",
+        "Ampliar con el icono de Fuentes (libro abierto) · qué explicar cuando la voz dice «el modelo», «la teoría», «hipótesis»…": "FUENTES (libro abierto) ACTIVO · Qué es el horizonte de sucesos; imagen real de un agujero negro (Event Horizon Telescope, M87* 2019 y Sgr A* 2022)."
+      }
+    },
+    {
+      "row_id": "C09.say.seguir-alla-hay",
+      "book_locator": "AV-A-225",
+      "section": "09",
+      "section_title": "El largo crepúsculo",
+      "recorded_state": "ACTIVA",
+      "source_apparatus": {
+        "Verificaciones AlbaView (estado · qué verificar · fuente concreta vía Undermind · veredicto)": "PENDIENTE · Verificar: el escenario de la era de los agujeros negros requiere la desintegración del protón (hipotética, no observada); el protón como núcleo del hidrógeno y componente de todo núcleo atómico. · Fuente: — · Veredicto: —",
+        "Ampliar con el icono de Fuentes (libro abierto) · qué explicar cuando la voz dice «el modelo», «la teoría», «hipótesis»…": "FUENTES (libro abierto) ACTIVO · Qué es un protón (tres quarks), y por qué su posible desintegración importa para el futuro lejano."
+      }
+    },
+    {
+      "row_id": "C09.say.pero-algunas-teorias",
+      "book_locator": "AV-A-226",
+      "section": "09",
+      "section_title": "El largo crepúsculo",
+      "recorded_state": "ACTIVA",
+      "source_apparatus": {
+        "Verificaciones AlbaView (estado · qué verificar · fuente concreta vía Undermind · veredicto)": "PENDIENTE · Verificar: teorías de gran unificación predicen la desintegración del protón; Super-Kamiokande y otros no la han observado; límites de vida media > 10³⁴ años para canales como p → e⁺π⁰ (frente a ≈ 1,4 × 10¹⁰ años de edad del universo). · Fuente: — · Veredicto: —",
+        "Ampliar con el icono de Fuentes (libro abierto) · qué explicar cuando la voz dice «el modelo», «la teoría», «hipótesis»…": "FUENTES (libro abierto) ACTIVO · «Algunas teorías»: cuáles (teorías de gran unificación) y cómo se busca la desintegración del protón (Super-Kamiokande, Hyper-Kamiokande en construcción)."
+      }
+    }
+  ],
+  "book_rows": [
+    "C09.show.largo-crepusculo",
+    "C09.cue.clear",
+    "C09.cue.descend-future",
+    "C09.say.hacia-adelante-ya",
+    "C09.say.si-todo-sigue",
+    "C09.say.pequenas-arden-durante",
+    "C09.act.mira-crepusculo",
+    "C09.cue.twilight",
+    "C09.say.quedan-restos-enanas",
+    "C09.cue.remnant-2",
+    "C09.say.estrellas-neutrones-queda",
+    "C09.cue.remnant-3",
+    "C09.say.agujeros-negros",
+    "C09.cue.proton-fade",
+    "C09.say.seguir-alla-hay",
+    "C09.say.pero-algunas-teorias",
+    "C09.recap.estrellas-apagan-muy",
+    "C09.act.ve-agujeros-negros"
+  ]
+}

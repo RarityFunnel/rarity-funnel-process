@@ -1,0 +1,943 @@
+{
+  "section": {
+    "id": "C11",
+    "title": "El otro extremo",
+    "title_en": "The Other End",
+    "slug": "ultimo-borde"
+  },
+  "experience_cards": {
+    "AV-F23": {
+      "title": "Calcular un futuro no es observarlo",
+      "kind": "Ficha de AlbaView",
+      "claim": "El pasado del recorrido se reconstruye con luz, ondas gravitacionales, rocas, experimentos y modelos. El futuro se calcula prolongando leyes y condiciones, o ensayando cómo cambiaría la historia bajo supuestos diferentes. Las observaciones actuales pueden limitar esos supuestos; no muestran el desenlace futuro.",
+      "aporta": "El mapa de referencia prolonga una expansión compatible con energía oscura constante. A medida que disminuye la formación estelar, las estrellas existentes agotan su combustible. Algunas dejan enanas blancas, que se enfrían; otras producen remanentes más compactos. Los tiempos dependen de la masa y del proceso. No hay un interruptor que apague todas las estrellas a la vez.\n\nLas eras de Adams y Laughlin ordenan procesos por potencias de diez. Su rama más remota incorpora hipótesis adicionales, como la desintegración del protón y la evaporación de agujeros negros. Si cambia uno de esos supuestos, cambia el mapa. La era oscura no es una nada absoluta: contempla materia muy dispersa y radiación, sin una fecha de apagado total.",
+      "limites": "",
+      "paras": [
+        "El pasado del recorrido se reconstruye con luz, ondas gravitacionales, rocas, experimentos y modelos. El futuro se calcula prolongando leyes y condiciones, o ensayando cómo cambiaría la historia bajo supuestos diferentes. Las observaciones actuales pueden limitar esos supuestos; no muestran el desenlace futuro.",
+        "El mapa de referencia prolonga una expansión compatible con energía oscura constante. A medida que disminuye la formación estelar, las estrellas existentes agotan su combustible. Algunas dejan enanas blancas, que se enfrían; otras producen remanentes más compactos. Los tiempos dependen de la masa y del proceso. No hay un interruptor que apague todas las estrellas a la vez.",
+        "Las eras de Adams y Laughlin ordenan procesos por potencias de diez. Su rama más remota incorpora hipótesis adicionales, como la desintegración del protón y la evaporación de agujeros negros. Si cambia uno de esos supuestos, cambia el mapa. La era oscura no es una nada absoluta: contempla materia muy dispersa y radiación, sin una fecha de apagado total."
+      ],
+      "fecha": "1997 · 2020",
+      "fig": null,
+      "sec": null,
+      "refs": [
+        {
+          "n": null,
+          "internal": false,
+          "text": "Adams y Laughlin, A dying universe: the long-term fate and evolution of astrophysical objects (1997)",
+          "urls": [
+            "https://doi.org/10.1103/RevModPhys.69.337"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "§I ec.1.1; §II.D ec.2.18; §III/IV supuestos; §V evaporación",
+          "lim": "Modelo condicional; formación residual, decaimiento del protón y escala de masa importan. 10¹⁴ y 10¹⁰⁰ no son fechas finales observadas.",
+          "key": "Ada97",
+          "year": "1997"
+        },
+        {
+          "n": null,
+          "internal": false,
+          "text": "Planck Collaboration, Planck 2018 results VI. Cosmological parameters (A&A 641, A6, 2020)",
+          "urls": [
+            "https://doi.org/10.1051/0004-6361/201833910"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "Resumen; resultados base ΛCDM: H₀=67,4±0,5 km/s/Mpc; Ωm=0,315±0,007; Ωbh²≈0,0224",
+          "lim": "Inferencia dependiente de ΛCDM; no observación directa de la edad ni de la sustancia de la energía oscura.",
+          "key": "Agh18",
+          "year": "2020"
+        },
+        {
+          "n": null,
+          "internal": false,
+          "text": "Chandra/NASA, Stellar Evolution",
+          "urls": [
+            "https://chandra.si.edu/stellarev/"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "Ramas de remanentes y dependencia de masa inicial",
+          "lim": "Esquema general; no toda estrella de una categoría tiene el mismo destino, ni toda estrella deja remanente.",
+          "key": "STARS",
+          "year": ""
+        }
+      ],
+      "origin": "dictamen AlbaView 1oAUCFEWu_hxHl1dlfzrP48tbD01BXujS §4 · F23"
+    },
+    "AV-F28": {
+      "title": "Tres futuros y sus condiciones",
+      "kind": "Ficha de AlbaView",
+      "claim": "La Gran Congelación es el escenario de referencia al prolongar ΛCDM con una constante cosmológica positiva. La expansión continúa, la formación de estrellas disminuye y los procesos se vuelven cada vez más dispersos. No tiene una fecha de apagado total. Las etapas más remotas añaden supuestos sobre protones y agujeros negros.",
+      "aporta": "El Gran Desgarramiento —también llamado Big Rip— aparece en algunos modelos de energía oscura con una dinámica particular. En el ejemplo clásico de Caldwell y colaboradores, una ecuación de estado w < −1 mantenida lleva a una expansión que termina destruyendo estructuras ligadas. No toda energía oscura variable produce ese final, y una preferencia estadística por dinámica no lo confirma.\n\nLa Gran Implosión requiere que la expansión pueda detenerse y convertirse en contracción. Reducir una energía oscura que sigue siendo positiva no basta por sí solo. Existen modelos con una evolución del campo y su potencial que permiten el cambio de signo o de régimen necesario. Andrei, Ijjas y Steinhardt mostraron en 2022 un ejemplo con transición a contracción muy próxima en términos cosmológicos; era una posibilidad compatible con los datos examinados entonces, no una predicción confirmada ni un ajuste revalidado aquí con todos los datos de 2026.\n\nNo hay un calendario universal que obligue a todos estos modelos a comenzar sus cambios después de la muerte del Sol. Tampoco hay probabilidades establecidas para repartir entre tres dibujos. Las observaciones actuales limitan modelos y condiciones; el desenlace sigue abierto.",
+      "limites": "",
+      "paras": [
+        "La Gran Congelación es el escenario de referencia al prolongar ΛCDM con una constante cosmológica positiva. La expansión continúa, la formación de estrellas disminuye y los procesos se vuelven cada vez más dispersos. No tiene una fecha de apagado total. Las etapas más remotas añaden supuestos sobre protones y agujeros negros.",
+        "El Gran Desgarramiento —también llamado Big Rip— aparece en algunos modelos de energía oscura con una dinámica particular. En el ejemplo clásico de Caldwell y colaboradores, una ecuación de estado w < −1 mantenida lleva a una expansión que termina destruyendo estructuras ligadas. No toda energía oscura variable produce ese final, y una preferencia estadística por dinámica no lo confirma.",
+        "La Gran Implosión requiere que la expansión pueda detenerse y convertirse en contracción. Reducir una energía oscura que sigue siendo positiva no basta por sí solo. Existen modelos con una evolución del campo y su potencial que permiten el cambio de signo o de régimen necesario. Andrei, Ijjas y Steinhardt mostraron en 2022 un ejemplo con transición a contracción muy próxima en términos cosmológicos; era una posibilidad compatible con los datos examinados entonces, no una predicción confirmada ni un ajuste revalidado aquí con todos los datos de 2026.",
+        "No hay un calendario universal que obligue a todos estos modelos a comenzar sus cambios después de la muerte del Sol. Tampoco hay probabilidades establecidas para repartir entre tres dibujos. Las observaciones actuales limitan modelos y condiciones; el desenlace sigue abierto."
+      ],
+      "fecha": "1997 · 2003 · 2020 · 2022 · 2025",
+      "fig": null,
+      "sec": null,
+      "refs": [
+        {
+          "n": null,
+          "internal": false,
+          "text": "Planck Collaboration, Planck 2018 results VI. Cosmological parameters (A&A 641, A6, 2020)",
+          "urls": [
+            "https://doi.org/10.1051/0004-6361/201833910"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "Resumen; resultados base ΛCDM: H₀=67,4±0,5 km/s/Mpc; Ωm=0,315±0,007; Ωbh²≈0,0224",
+          "lim": "Inferencia dependiente de ΛCDM; no observación directa de la edad ni de la sustancia de la energía oscura.",
+          "key": "Agh18",
+          "year": "2020"
+        },
+        {
+          "n": null,
+          "internal": false,
+          "text": "Adams y Laughlin, A dying universe: the long-term fate and evolution of astrophysical objects (1997)",
+          "urls": [
+            "https://doi.org/10.1103/RevModPhys.69.337"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "§I ec.1.1; §II.D ec.2.18; §III/IV supuestos; §V evaporación",
+          "lim": "Modelo condicional; formación residual, decaimiento del protón y escala de masa importan. 10¹⁴ y 10¹⁰⁰ no son fechas finales observadas.",
+          "key": "Ada97",
+          "year": "1997"
+        },
+        {
+          "n": null,
+          "internal": false,
+          "text": "Caldwell, Kamionkowski y Weinberg, Phantom energy… (2003)",
+          "urls": [
+            "https://doi.org/10.1103/PhysRevLett.91.071301"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "Resumen; modelo fantasma con w<−1 sostenido",
+          "lim": "No toda energía oscura dinámica o creciente causa un Big Rip; no reloj universal.",
+          "key": "Cal03",
+          "year": "2003"
+        },
+        {
+          "n": null,
+          "internal": false,
+          "text": "Andrei, Ijjas y Steinhardt, Rapidly descending dark energy and the end of cosmic expansion (2022)",
+          "urls": [
+            "https://doi.org/10.1073/pnas.2200539119"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "Ecs.4/6; Fig.4; Results and Discussion",
+          "lim": "Contramodelo de calendario universal: transición a contracción, no fecha establecida de colapso final; compatibilidad declarada con datos de 2022, no revalidación global 2026.",
+          "key": "And22d",
+          "year": "2022"
+        },
+        {
+          "n": null,
+          "internal": false,
+          "text": "DESI Collaboration, DESI DR2 Results II… (2025)",
+          "urls": [
+            "https://arxiv.org/abs/2503.14738v3"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "Resumen; v3,9-oct-2025; DOI10.1103/tr6y-kpc6",
+          "lim": "Preferencias dependientes de combinación y parametrización CPL; no probabilidad de destino.",
+          "key": "Kar25d",
+          "year": "2025"
+        }
+      ],
+      "origin": "dictamen AlbaView 1oAUCFEWu_hxHl1dlfzrP48tbD01BXujS §4 · F28"
+    },
+    "era-oscura": {
+      "title": "Después de 10¹⁰⁰ años",
+      "kind": "Modelo",
+      "claim": "En este escenario condicionado, situamos más allá de unos 10¹⁰⁰ años el comienzo de la era oscura; no el final del tiempo.",
+      "aporta": "La clasificación de eras deja η > 100 abierto. Pueden quedar partículas y radiación aunque hayan desaparecido las grandes fuentes luminosas.",
+      "limites": "Etapa condicionada del recorrido; no supone la desaparición de todos los fotones ni el final del tiempo. Es el comienzo de una era en un escenario condicionado, no una frontera universal ni una fecha final.",
+      "fecha": "Adams y Laughlin, 1997",
+      "fig": null,
+      "sec": "III.9",
+      "refs": [
+        {
+          "n": 72,
+          "internal": false,
+          "text": "Adams y Laughlin, «A dying universe» (Era Oscura, η > 100, abierta por arriba; tabla E4 del sello S-η).",
+          "urls": [
+            "https://doi.org/10.1103/RevModPhys.69.337"
+          ],
+          "type": "fuente académica o institucional"
+        },
+        {
+          "n": 15,
+          "internal": false,
+          "text": "Adams y Laughlin, «A dying universe» (calificación 3 del sello S-η del proyecto: 10¹⁰⁰ años como comienzo de la Era Oscura, no frontera universal).",
+          "urls": [
+            "https://doi.org/10.1103/RevModPhys.69.337"
+          ],
+          "type": "fuente académica o institucional"
+        }
+      ],
+      "_before_r15v03": {
+        "limites": "Etapa condicionada del mapa; no desaparición de todos los fotones ni final del tiempo. Es el comienzo de una era en un escenario condicionado, no una frontera universal ni una fecha final."
+      }
+    },
+    "dato-desconocido": {
+      "title": "Dato Desconocido",
+      "kind": "Texto de autor",
+      "claim": "Dato Desconocido nombra, en la propuesta del autor, interrogantes en los extremos de este recorrido: el origen absoluto no tiene una reconstrucción comprobada y el futuro se explora con modelos.",
+      "aporta": "El nombre es de David Martán. Su alcance operativo sigue siendo una formulación candidata: una plantilla editorial no constituye una medición ni certifica una frontera física.",
+      "limites": "No afirma que nada haya dejado huellas ni que toda observación futura sea imposible. No demuestra un comienzo o final del mundo. Conservar C-4/WNE/B3 y sus resoluciones vigentes, sin adjudicar aquí un cierre nuevo.",
+      "fecha": "Asiento del autor, 17-ago-2026",
+      "fig": null,
+      "sec": "III.10.2",
+      "refs": [
+        {
+          "n": 81,
+          "internal": true,
+          "text": "Documentación del proyecto · Asiento del nombre Unknown Datum: , 17-ago-2026. Nivel A (palabra del autor): el nombre y la tesis de los dos interrogantes. Nivel C (propuesta del carril, no contradicha): plantilla y disciplina de uso.",
+          "urls": [],
+          "type": "documentación autoral/editorial"
+        }
+      ]
+    },
+    "w-clasificacion": {
+      "title": "Lo que decide los finales",
+      "kind": "Modelo",
+      "claim": "El futuro lejano depende de cómo se comporte la energía oscura.",
+      "aporta": "Se resume en el parámetro w, la razón entre su presión y su densidad: w = −1 es una constante cosmológica; w < −1, el régimen «fantasma»; un w que cambia deja el destino abierto.",
+      "limites": "La clasificación ordena escenarios posibles; no dice cuál se cumplirá.",
+      "fecha": "Chiba, Takahashi y Sugiyama, 2005",
+      "fig": "w",
+      "sec": "III.10.4",
+      "refs": [
+        {
+          "n": 133,
+          "internal": false,
+          "text": "Takeshi Chiba, Ryuichi Takahashi y Naoshi Sugiyama, «Classifying the future of universes with dark energy», Classical and Quantum Gravity 22 (2005): 3745–3758, https://doi.org/10.1088/0264-9381/22/17/023.",
+          "urls": [
+            "https://doi.org/10.1088/0264-9381/22/17/023"
+          ],
+          "type": "fuente académica o institucional"
+        }
+      ]
+    },
+    "gran-congelacion": {
+      "title": "Gran Congelación (Big Freeze)",
+      "kind": "Modelo",
+      "claim": "Si la energía oscura se comporta como una constante cosmológica positiva y se prolongan los demás supuestos, la expansión acelerada continúa: es el escenario de Gran Congelación.",
+      "aporta": "Las fuentes estelares se agotan y se reducen las diferencias que permiten obtener trabajo. La composición remanente depende de la evolución de la materia y de los agujeros negros en la rama elegida.",
+      "limites": "Escenario al prolongar el modelo de referencia con constante cosmológica positiva; no consenso cuantificado ni certeza sobre el destino. Es un futuro de referencia condicionado, no un destino observado ni una probabilidad de consenso. No fija una fecha de apagado total. La ausencia de un oyente es una imagen autoral, no un resultado físico demostrado. Ilustración 17: el negro cierra la representación: no significa que hayan desaparecido todas las partículas y la radiación. Los segundos de esta animación no corresponden a una duración cosmológica.",
+      "fecha": "Adams y Laughlin, 1997 · Planck, 2018",
+      "fig": null,
+      "sec": "III.9 · LE1",
+      "refs": [
+        {
+          "n": 73,
+          "internal": false,
+          "text": "Adams y Laughlin, «A dying universe» (contenido de la era: fotones, neutrinos, pares electrón-positrón en dilución).",
+          "urls": [
+            "https://doi.org/10.1103/RevModPhys.69.337"
+          ],
+          "type": "fuente académica o institucional"
+        },
+        {
+          "n": 75,
+          "internal": true,
+          "text": "Documentación del proyecto · Nota científica. La ausencia de un oyente es imagen narrativa del proyecto, no un resultado demostrado: la física de la era describe el agotamiento de los gradientes capaces de producir trabajo, bajo los condicionales de toda la rama (w = −1, estabilidad del protón no asumida, horizonte abierto).",
+          "urls": [],
+          "type": "documentación autoral/editorial"
+        },
+        {
+          "n": 134,
+          "internal": false,
+          "text": "Escenario de referencia: Planck 2018 VI (parámetros); Adams y Laughlin, «A dying universe» (desarrollo de la dilución).",
+          "urls": [
+            "https://doi.org/10.1051/0004-6361/201833910",
+            "https://doi.org/10.1103/RevModPhys.69.337"
+          ],
+          "type": "fuente académica o institucional"
+        },
+        {
+          "n": null,
+          "internal": false,
+          "text": "William Thomson, 1852: disipación de energía mecánica como antecedente de muerte térmica; no acuñación del nombre Big Freeze.",
+          "urls": [
+            "https://www.informationphilosopher.com/solutions/scientists/thomson/universal_tendency.html"
+          ],
+          "type": "atribución histórica documentada"
+        }
+      ]
+    },
+    "w-medida": {
+      "title": "La medida actual de w",
+      "kind": "Medición",
+      "claim": "Las medidas son compatibles con una energía oscura constante.",
+      "aporta": "Planck con supernovas y BAO, suponiendo w constante, da w = −1,028 ± 0,031: compatible con −1.",
+      "limites": "Compatible hoy no garantiza el mismo comportamiento para siempre. Ilustración 16: a gran escala, las distancias entre regiones no ligadas aumentan con la expansión. La energía oscura es el nombre del componente que, en el modelo, explica su aceleración; su naturaleza sigue abierta. La retícula se estira y sus referencias se separan; no hay un centro privilegiado.",
+      "fecha": "Planck Collaboration, 2018, §7.4",
+      "fig": "w",
+      "sec": "III.9 · LE1",
+      "refs": [
+        {
+          "n": 76,
+          "internal": false,
+          "text": "Planck 2018 VI, §7.4, ecuación 50 (cotejo primario del expediente): en la extensión wCDM con w constante y w_a = 0, TT,TE,EE+lowE+lensing+SNe+BAO da w = −1,028 ± 0,031; compatible con w = −1, que ΛCDM fija.",
+          "urls": [
+            "https://doi.org/10.1051/0004-6361/201833910"
+          ],
+          "type": "fuente académica o institucional"
+        },
+        {
+          "n": 135,
+          "internal": false,
+          "text": "Planck 2018 VI, §7.4, ecuación 50.",
+          "urls": [
+            "https://doi.org/10.1051/0004-6361/201833910"
+          ],
+          "type": "fuente académica o institucional"
+        }
+      ]
+    },
+    "big-rip": {
+      "title": "Gran Desgarramiento (Big Rip)",
+      "kind": "Escenario condicional",
+      "claim": "Si la energía oscura entrara en un régimen fantasma persistente, la expansión separaría galaxias, estrellas y átomos en un tiempo finito.",
+      "aporta": "La fórmula de Caldwell, Kamionkowski y Weinberg calcula el tiempo restante para cada w constante menor que −1: por ejemplo, unos 23.400 millones de años si w fuera −1,5.",
+      "limites": "Es un cálculo condicional, no un pronóstico. Las mediciones son compatibles con w = −1. La tabla omite a propósito valores indistinguibles de la medición.",
+      "fecha": "Caldwell, Kamionkowski y Weinberg, 2003",
+      "fig": "w",
+      "sec": "III.10.4 · LE2",
+      "refs": [
+        {
+          "n": 137,
+          "internal": false,
+          "text": "Caldwell, Kamionkowski y Weinberg, «Phantom energy» (fórmula y ejemplo histórico). Nota editorial del método: una consulta automática devolvió un homónimo de 2019 sin DOI para el título; fue descartado y la fila carga sobre el artículo real de 2003.",
+          "urls": [
+            "https://doi.org/10.1103/PhysRevLett.91.071301"
+          ],
+          "type": "fuente académica o institucional"
+        },
+        {
+          "n": 138,
+          "internal": true,
+          "text": "Documentación del proyecto · Recálculo propio documentado del expediente (C23–C26, 15-oct-2026) con H₀ = 67,4 km/s/Mpc, Ω_DE = 0,685 y año de 365,25 días, sobre la fórmula de Caldwell et al. (2003).",
+          "urls": [
+            "https://doi.org/10.1051/0004-6361/201833910",
+            "https://doi.org/10.1103/PhysRevLett.91.071301"
+          ],
+          "type": "documentación autoral/editorial"
+        },
+        {
+          "n": null,
+          "internal": false,
+          "text": "Caldwell, Kamionkowski y Weinberg, Phantom Energy and Cosmic Doomsday, 2003; uso del término Big Rip.",
+          "urls": [
+            "https://arxiv.org/abs/astro-ph/0302506"
+          ],
+          "type": "atribución histórica documentada"
+        }
+      ]
+    },
+    "big-crunch": {
+      "title": "Gran Implosión (Big Crunch)",
+      "kind": "Pregunta abierta",
+      "claim": "Con los datos actuales no hay una trayectoria de recolapso respaldada; por eso se dibuja punteada.",
+      "aporta": "Un recolapso exigiría geometría cerrada, una constante cosmológica negativa o una energía oscura que cambie de signo. La curvatura medida es compatible con un universo plano (Ω_k = 0,0007 ± 0,0019).",
+      "limites": "Ausencia marcada, no escenario refutado: un colapso por dinámica de campos sigue siendo lógicamente posible y el pasado no determina por completo el futuro. Decisión del autor: el nodo se conserva sin trayectoria; en la experiencia se dibuja con línea punteada.",
+      "fecha": "Planck, 2018 · Kallosh y Linde, 2003",
+      "fig": null,
+      "sec": "III.10.4 · LE3",
+      "refs": [
+        {
+          "n": 140,
+          "internal": false,
+          "text": "Planck 2018 VI (Ω_k = 0,0007 ± 0,0019).",
+          "urls": [
+            "https://doi.org/10.1051/0004-6361/201833910"
+          ],
+          "type": "fuente académica o institucional"
+        },
+        {
+          "n": 141,
+          "internal": false,
+          "text": "Renata Kallosh y Andrei Linde, «Dark energy and the fate of the Universe», Journal of Cosmology and Astroparticle Physics 2003, n.º 02 (2003): 002, https://doi.org/10.1088/1475-7516/2003/02/002; límites de la extrapolación del cono de luz pasado: Paul H. Frampton y Tomo Takahashi, «The fate of dark energy», Physics Letters B (2003): 135–138, https://doi.org/10.1016/S0370-2693(03)00208-9.",
+          "urls": [
+            "https://doi.org/10.1088/1475-7516/2003/02/002",
+            "https://doi.org/10.1016/S0370-2693(03)00208-9"
+          ],
+          "type": "fuente académica o institucional"
+        },
+        {
+          "n": 142,
+          "internal": true,
+          "text": "Documentación del proyecto · Asiento 19W19_… , punto 6: el Big Crunch conserva su nodo; su geometría no se traza; el hueco de evidencia se produce legible, sobrio y distinguible de un fallo técnico, sujeto a revisión anual. Formulación del autor: ausencia marcada, no espacio olvidado ni escenario refutado definitivamente.",
+          "urls": [],
+          "type": "documentación autoral/editorial"
+        }
+      ]
+    },
+    "desi": {
+      "title": "Una señal que se mueve",
+      "kind": "Investigación en curso",
+      "claim": "Algunos análisis sugieren que la energía oscura podría cambiar con el tiempo; un análisis de julio de 2026 acercó el valor central a la constante.",
+      "aporta": "DESI DR2 (bosque Lyman-α, full-shape): preferencia de 2,7σ combinando con el fondo de microondas y 3,2σ al añadir supernovas DES con calibración Dovekie. Antes, con BAO, era 3,1σ y hasta 4,2σ según el catálogo de supernovas.",
+      "limites": "Es un preprint, sin revisión por pares. Los resultados comparten datos y no se promedian. El ajuste describe el rango observado: extrapolarlo al futuro remoto o a la fórmula del Gran Desgarramiento no es legítimo. Ilustración 18: esquema de la incertidumbre · no muestra mediciones en directo.",
+      "fecha": "DESI Collaboration, preprint 29-jul-2026 (v3, 4-ago-2026)",
+      "fig": "desi",
+      "sec": "III.10.4 · frente vivo",
+      "refs": [
+        {
+          "n": 143,
+          "internal": false,
+          "text": "DESI Collaboration (A. G. Adame et al.), «DESI DR2 Results IV: Alcock-Paczyński Measurements from the Lyman Alpha Forest and Cosmological Constraints», preprint, 29-jul-2026, https://arxiv.org/abs/2607.27410; revisión v3 del 4-ago-2026: https://arxiv.org/pdf/2607.27410v3 — tabla IV y §VI D: 2,7σ (DESI+CMB) y 3,2σ (DESI+CMB+DES-Dovekie); la conclusión imprime 3,1σ; la discrepancia interna se conserva. Sin publicación revisada por pares al corte del expediente (15-oct-2026); el documento no certifica una búsqueda…",
+          "urls": [
+            "https://arxiv.org/abs/2607.27410",
+            "https://arxiv.org/pdf/2607.27410v3"
+          ],
+          "type": "preprint / fuente de investigación"
+        },
+        {
+          "n": 145,
+          "internal": false,
+          "text": "DESI Collaboration (M. Abdul-Karim et al.), «DESI DR2 results. II. Measurements of baryon acoustic oscillations and cosmological constraints», Physical Review D (2025), https://doi.org/10.1103/tr6y-kpc6 (3,1σ con CMB); las tres exclusiones nominales con supernovas: Marina Cortês y Andrew R. Liddle, «On DESI’s DR2 exclusion of ΛCDM», MNRAS Letters (2025), https://doi.org/10.1093/mnrasl/slaf108.",
+          "urls": [
+            "https://doi.org/10.1103/tr6y-kpc6",
+            "https://doi.org/10.1093/mnrasl/slaf108"
+          ],
+          "type": "fuente académica o institucional"
+        },
+        {
+          "n": 147,
+          "internal": false,
+          "text": "Alcance declarado del ajuste w₀–w_a: Abdul-Karim et al., «DESI DR2 results. II». Límites de extrapolación: Artyom V. Astashenok et al., «Scalar dark energy models mimicking ΛCDM with arbitrary future evolution», Physics Letters B (2012): 145–153, https://doi.org/10.1016/j.physletb.2012.06.017; Frampton y Takahashi, «The fate of dark energy». Decisión del autor sobre w = −0,948: no se imprime — la fuente consta, desde v02, en la bibliografía citada de este manuscrito (DES Collaboration, Physical Review D , 2025,…",
+          "urls": [
+            "https://doi.org/10.1016/j.physletb.2012.06.017",
+            "https://doi.org/10.1103/z2q4-qcdq"
+          ],
+          "type": "fuente académica o institucional"
+        }
+      ]
+    },
+    "AV-F29": {
+      "title": "Qué dice DESI y qué no dice",
+      "kind": "Ficha de AlbaView",
+      "claim": "DESI construye un mapa tridimensional con posiciones y corrimientos al rojo de millones de objetos. Su distribución conserva una escala característica originada en ondas del plasma temprano: las oscilaciones acústicas bariónicas, o BAO. No son anillos visibles alrededor de cada galaxia. Son una señal estadística que permite comparar distancias y expansión entre épocas.",
+      "aporta": "Los resultados DR2 publicados en 2025 muestran preferencias por una energía oscura dinámica cuando se combinan con otros datos y se ajustan determinados modelos. La combinación BAO y fondo de microondas da una significancia de alrededor de 3,1σ; al añadir distintos conjuntos de supernovas, los valores son aproximadamente 2,8σ, 3,8σ o 4,2σ. Esas cifras pertenecen a combinaciones concretas, no a pruebas independientes que puedan sumarse.\n\nEl primer conjunto, DR1 de 2024, ya apuntaba a esta posibilidad, con cifras distintas: alrededor de 2,6σ para BAO y fondo de microondas, y 2,5σ, 3,5σ o 3,9σ al sumar los tres conjuntos de supernovas. No se intercambian los números de una edición con los de otra.\n\nLa lectura divulgativa de una energía oscura que podría estar debilitándose en épocas recientes es admisible como indicio dentro de esos ajustes. No demuestra una causa física ni permite extrapolar la parametrización sin límite hacia el futuro.\n\nLa ampliación de fuentes incluye los resultados Lyman-alpha anunciados en julio de 2026, cuya nueva medida queda más cerca del modelo de constante cosmológica. El expediente conserva una diferencia histórica de 3,2σ en una tabla y 3,1σ en la conclusión de una versión del análisis: no se funden ni se presentan como dos detecciones. Esta ficha no necesita llevar esa disputa de versión a la voz; mantiene el resultado general como no concluyente. Un rótulo «2024–2025» debe leerse como corte histórico, no como inventario completo del estado de 2026.\n\nDESI restringe cómo calculamos el futuro. No asigna una probabilidad a Gran Congelación, Gran Desgarramiento y Gran Implosión como tres opciones cerradas.",
+      "limites": "",
+      "paras": [
+        "DESI construye un mapa tridimensional con posiciones y corrimientos al rojo de millones de objetos. Su distribución conserva una escala característica originada en ondas del plasma temprano: las oscilaciones acústicas bariónicas, o BAO. No son anillos visibles alrededor de cada galaxia. Son una señal estadística que permite comparar distancias y expansión entre épocas.",
+        "Los resultados DR2 publicados en 2025 muestran preferencias por una energía oscura dinámica cuando se combinan con otros datos y se ajustan determinados modelos. La combinación BAO y fondo de microondas da una significancia de alrededor de 3,1σ; al añadir distintos conjuntos de supernovas, los valores son aproximadamente 2,8σ, 3,8σ o 4,2σ. Esas cifras pertenecen a combinaciones concretas, no a pruebas independientes que puedan sumarse.",
+        "El primer conjunto, DR1 de 2024, ya apuntaba a esta posibilidad, con cifras distintas: alrededor de 2,6σ para BAO y fondo de microondas, y 2,5σ, 3,5σ o 3,9σ al sumar los tres conjuntos de supernovas. No se intercambian los números de una edición con los de otra.",
+        "La lectura divulgativa de una energía oscura que podría estar debilitándose en épocas recientes es admisible como indicio dentro de esos ajustes. No demuestra una causa física ni permite extrapolar la parametrización sin límite hacia el futuro.",
+        "La ampliación de fuentes incluye los resultados Lyman-alpha anunciados en julio de 2026, cuya nueva medida queda más cerca del modelo de constante cosmológica. El expediente conserva una diferencia histórica de 3,2σ en una tabla y 3,1σ en la conclusión de una versión del análisis: no se funden ni se presentan como dos detecciones. Esta ficha no necesita llevar esa disputa de versión a la voz; mantiene el resultado general como no concluyente. Un rótulo «2024–2025» debe leerse como corte histórico, no como inventario completo del estado de 2026.",
+        "DESI restringe cómo calculamos el futuro. No asigna una probabilidad a Gran Congelación, Gran Desgarramiento y Gran Implosión como tres opciones cerradas."
+      ],
+      "fecha": "2024 · 2025 · 2026",
+      "fig": null,
+      "sec": null,
+      "refs": [
+        {
+          "n": null,
+          "internal": false,
+          "text": "DESI Collaboration, DESI 2024 VI: Cosmological Constraints from the Measurements of Baryon Acoustic Oscillations",
+          "urls": [
+            "https://arxiv.org/abs/2404.03002v3"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "Resumen; v3,4-nov-2024; JCAP02(2025)021; DOI10.1088/1475-7516/2025/02/021",
+          "lim": "DR1: 2,6σ BAO+CMB; 2,5/3,5/3,9σ con las tres muestras SN. No atribuirle los valores DR2 de 2025.",
+          "key": "DESI24",
+          "year": "2024"
+        },
+        {
+          "n": null,
+          "internal": false,
+          "text": "DESI Collaboration, DESI DR2 Results II… (2025)",
+          "urls": [
+            "https://arxiv.org/abs/2503.14738v3"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "Resumen; v3,9-oct-2025; DOI10.1103/tr6y-kpc6",
+          "lim": "Preferencias dependientes de combinación y parametrización CPL; no probabilidad de destino.",
+          "key": "Kar25d",
+          "year": "2025"
+        },
+        {
+          "n": null,
+          "internal": false,
+          "text": "DESI Collaboration, DESI DR2 Results IV… (2026)",
+          "urls": [
+            "https://arxiv.org/abs/2607.27410v3"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "Resumen; tablaIV y conclusión de la versión registrada en expediente; anuncio30-jul-2026",
+          "lim": "No promediar análisis con datos compartidos; nueva comprobación no recertifica íntegramente la tabla del preprint.",
+          "key": "DESI26",
+          "year": "2026"
+        },
+        {
+          "n": null,
+          "internal": false,
+          "text": "DESI, New DR2 Lyman-alpha Results Shed Light on Dark Energy (30-jul-2026)",
+          "urls": [
+            "https://www.desi.lbl.gov/2026/07/30/new-desi-dr2-lyman-alpha-results-shed-light-on-dark-energy/"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "Sección Results: nueva medida más cercana aΛCDM",
+          "lim": "No significa confirmación ni refutación concluyente de energía oscura dinámica.",
+          "key": "DESI26-NEWS",
+          "year": "2026"
+        }
+      ],
+      "origin": "dictamen AlbaView 1oAUCFEWu_hxHl1dlfzrP48tbD01BXujS §4 · F29"
+    },
+    "alternativos": {
+      "title": "Otros finales imaginables",
+      "kind": "Pregunta abierta",
+      "claim": "Rebote, ciclos, cambio del vacío y eones conformes: posibles, no probables.",
+      "aporta": "Rebote: en ciertas teorías de gravedad cuántica una contracción da paso a otra expansión. Ciclos: la secuencia se repite. Vacío: el estado de reposo podría ser metaestable. Eones (Penrose): el final helado de uno sería el comienzo del siguiente.",
+      "limites": "Física no comprobada. «Metaestable» no significa «decaerá»; no se afirma que el universo decaiga tras 10¹⁰⁰ años; el vacío de Higgs no es la energía oscura. Ninguna cifra viaja sin su modelo.",
+      "fecha": "Bojowald, 2001 · Steinhardt y Turok, 2002 · Coleman, 1977 · Penrose, 2014 y otros",
+      "fig": null,
+      "sec": "III.10.4 · LE-ab",
+      "refs": [
+        {
+          "n": 148,
+          "internal": false,
+          "text": "Síntesis de la celda con las fuentes de las notas siguientes; estatuto común: especulativo, condicional, nunca pronóstico.",
+          "urls": [
+            "https://doi.org/10.1103/PhysRevLett.86.5227",
+            "https://doi.org/10.1103/PhysRevD.74.084003",
+            "https://doi.org/10.1016/j.physrep.2014.12.004"
+          ],
+          "type": "fuente académica o institucional"
+        },
+        {
+          "n": 149,
+          "internal": false,
+          "text": "Martin Bojowald, «Absence of a singularity in loop quantum cosmology», Physical Review Letters 86 (2001): 5227–5230, https://doi.org/10.1103/PhysRevLett.86.5227; Abhay Ashtekar, Tomasz Pawłowski y Parampreet Singh, «Quantum Nature of the Big Bang: Improved dynamics», Physical Review D 74 (2006): 084003, https://doi.org/10.1103/PhysRevD.74.084003.",
+          "urls": [
+            "https://doi.org/10.1103/PhysRevLett.86.5227",
+            "https://doi.org/10.1103/PhysRevD.74.084003"
+          ],
+          "type": "fuente académica o institucional"
+        },
+        {
+          "n": 150,
+          "internal": false,
+          "text": "Diana Battefeld y Patrick Peter, «A Critical Review of Classical Bouncing Cosmologies», Physics Reports (2015), https://doi.org/10.1016/j.physrep.2014.12.004; Robert Brandenberger y Patrick Peter, «Bouncing Cosmologies: Progress and Problems», Foundations of Physics 47 (2017): 797–850, https://doi.org/10.1007/s10701-016-0057-0.",
+          "urls": [
+            "https://doi.org/10.1016/j.physrep.2014.12.004",
+            "https://doi.org/10.1007/s10701-016-0057-0"
+          ],
+          "type": "fuente académica o institucional"
+        },
+        {
+          "n": 151,
+          "internal": false,
+          "text": "Paul J. Steinhardt y Neil Turok, «Cosmic Evolution in a Cyclic Universe», Physical Review D 65 (2002): 126003, https://doi.org/10.1103/PhysRevD.65.126003; Justin Khoury et al., «From big crunch to big bang», Physical Review D 65 (2002): 086007, https://doi.org/10.1103/PhysRevD.65.086007; Jean-Luc Lehners, «Ekpyrotic and cyclic cosmology», Physics Reports (2008): 223–263, https://doi.org/10.1016/j.physrep.2008.06.001; Anna Ijjas y Paul J. Steinhardt, «A new kind of cyclic universe», Physics Letters B (2019),…",
+          "urls": [
+            "https://doi.org/10.1103/PhysRevD.65.126003",
+            "https://doi.org/10.1103/PhysRevD.65.086007",
+            "https://doi.org/10.1016/j.physrep.2008.06.001"
+          ],
+          "type": "fuente académica o institucional"
+        },
+        {
+          "n": 152,
+          "internal": false,
+          "text": "Sidney Coleman, «The Fate of the False Vacuum. 1. Semiclassical Theory», Physical Review D 15 (1977): 2929–2936, https://doi.org/10.1103/PhysRevD.15.2929; Curtis G. Callan y Sidney Coleman, «Fate of the false vacuum. II. First quantum corrections», Physical Review D 16 (1977): 1762–1768, https://doi.org/10.1103/PhysRevD.16.1762; Sidney Coleman y Frank De Luccia, «Gravitational Effects on and of Vacuum Decay», Physical Review D 21 (1980): 3305–3315, https://doi.org/10.1103/PhysRevD.21.3305.",
+          "urls": [
+            "https://doi.org/10.1103/PhysRevD.15.2929",
+            "https://doi.org/10.1103/PhysRevD.16.1762",
+            "https://doi.org/10.1103/PhysRevD.21.3305"
+          ],
+          "type": "fuente académica o institucional"
+        },
+        {
+          "n": 153,
+          "internal": false,
+          "text": "Giuseppe Degrassi et al., «Higgs mass and vacuum stability in the Standard Model at NNLO», Journal of High Energy Physics 2012, n.º 08 (2012): 098, https://doi.org/10.1007/JHEP08(2012)098; Dario Buttazzo et al., «Investigating the near-criticality of the Higgs boson», Journal of High Energy Physics 2013, n.º 12 (2013): 089, https://doi.org/10.1007/JHEP12(2013)089 (vidas calculadas muy superiores a la edad cósmica, algunas mayores que 10¹⁰⁰ años); contexto cosmológico: Tommi Markkanen, Arttu Rajantie y Stephen…",
+          "urls": [
+            "https://doi.org/10.1007/JHEP08(2012)098",
+            "https://doi.org/10.1007/JHEP12(2013)089",
+            "https://doi.org/10.3389/fspas.2018.00040"
+          ],
+          "type": "fuente académica o institucional"
+        },
+        {
+          "n": 154,
+          "internal": false,
+          "text": "Vincenzo Branchina, Emanuele Messina y Marc Sher, «Lifetime of the electroweak vacuum and sensitivity to Planck scale physics», Physical Review D 91 (2015): 013003, https://doi.org/10.1103/PhysRevD.91.013003.",
+          "urls": [
+            "https://doi.org/10.1103/PhysRevD.91.013003"
+          ],
+          "type": "fuente académica o institucional"
+        },
+        {
+          "n": 155,
+          "internal": false,
+          "text": "Roger Penrose, «On the Gravitization of Quantum Mechanics 2: Conformal Cyclic Cosmology», Foundations of Physics (2014): 873–890, https://doi.org/10.1007/s10701-013-9763-z; Oliver Markwell y Chris Stevens, «Toward fixing a framework for conformal cyclic cosmology», General Relativity and Gravitation (2023), https://doi.org/10.1007/s10714-023-03142-3.",
+          "urls": [
+            "https://doi.org/10.1007/s10701-013-9763-z",
+            "https://doi.org/10.1007/s10714-023-03142-3"
+          ],
+          "type": "fuente académica o institucional"
+        }
+      ]
+    },
+    "AV-F14": {
+      "title": "Un rebote y otras preguntas sobre el comienzo",
+      "kind": "Ficha de AlbaView",
+      "claim": "Preguntar por un «antes» presupone que el tiempo puede prolongarse a través del límite que estamos examinando. Algunas propuestas lo permiten; otras cambian el sentido de esa pregunta. Las tres escenas de AlbaView presentan familias de hipótesis, no tres acontecimientos conocidos anteriores a la inflación.",
+      "aporta": "En ciertos modelos de cosmología cuántica de lazos, estudiados por Ashtekar, Pawlowski y Singh, una fase de contracción da paso a una fase de expansión mediante un rebote. El cálculo se realiza en modelos cosmológicos con supuestos y simetrías concretos. No demuestra que nuestro universo haya rebotado ni exige imaginar otro universo separado contra el que habría chocado.\n\nLa inflación eterna, revisada por Alan Guth, propone que la expansión inflacionaria puede continuar en unas regiones mientras termina en otras. «Eterna» en ese contexto no prueba que haya durado siempre hacia el pasado. Su inclusión aquí amplía las fuentes; no añade una cuarta escena ni establece un origen confirmado.",
+      "limites": "",
+      "paras": [
+        "Preguntar por un «antes» presupone que el tiempo puede prolongarse a través del límite que estamos examinando. Algunas propuestas lo permiten; otras cambian el sentido de esa pregunta. Las tres escenas de AlbaView presentan familias de hipótesis, no tres acontecimientos conocidos anteriores a la inflación.",
+        "En ciertos modelos de cosmología cuántica de lazos, estudiados por Ashtekar, Pawlowski y Singh, una fase de contracción da paso a una fase de expansión mediante un rebote. El cálculo se realiza en modelos cosmológicos con supuestos y simetrías concretos. No demuestra que nuestro universo haya rebotado ni exige imaginar otro universo separado contra el que habría chocado.",
+        "La inflación eterna, revisada por Alan Guth, propone que la expansión inflacionaria puede continuar en unas regiones mientras termina en otras. «Eterna» en ese contexto no prueba que haya durado siempre hacia el pasado. Su inclusión aquí amplía las fuentes; no añade una cuarta escena ni establece un origen confirmado."
+      ],
+      "fecha": "1983 · 2006 · 2007",
+      "fig": null,
+      "sec": null,
+      "refs": [
+        {
+          "n": null,
+          "internal": false,
+          "text": "Ashtekar, Pawlowski y Singh, Quantum Nature of the Big Bang: Improved dynamics (2006)",
+          "urls": [
+            "https://doi.org/10.1103/PhysRevD.74.084003"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "Resumen: modelo plano e isótropo con campo escalar sin masa",
+          "lim": "Rebote en modelo de cosmología cuántica de lazos; no observado, ni universal a toda gravedad cuántica.",
+          "key": "Ash06b",
+          "year": "2006"
+        },
+        {
+          "n": null,
+          "internal": false,
+          "text": "Guth, Eternal inflation and its implications (2007)",
+          "urls": [
+            "https://doi.org/10.1088/1751-8113/40/25/S25"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "Resumen: mecanismos, probabilidades y pasado incompleto",
+          "lim": "Eterna hacia el futuro no demuestra eternidad hacia el pasado; no obliga a añadir una cuarta escena.",
+          "key": "Gut07",
+          "year": "2007"
+        },
+        {
+          "n": null,
+          "internal": false,
+          "text": "Hartle y Hawking, Wave Function of the Universe (1983)",
+          "urls": [
+            "https://doi.org/10.1103/PhysRevD.28.2960"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "Resumen: integral sobre geometrías compactas de signatura positiva",
+          "lim": "Propuesta cuántica de condiciones iniciales; tiempo imaginario no significa transformación observada del tiempo en espacio.",
+          "key": "Har83",
+          "year": "1983"
+        }
+      ],
+      "origin": "dictamen AlbaView 1oAUCFEWu_hxHl1dlfzrP48tbD01BXujS §4 · F14"
+    },
+    "AV-F15": {
+      "title": "Universos cíclicos",
+      "kind": "Ficha de AlbaView",
+      "claim": "Los modelos cíclicos estudian historias cosmológicas con fases repetidas. Steinhardt y Turok desarrollaron una propuesta en la que expansión, evolución lenta y contracción se conectan a través de transiciones que requieren física adicional. Repetición no significa que cada ciclo reproduzca exactamente las mismas galaxias ni que el tamaño global deba volver siempre al mismo valor.",
+      "aporta": "Estas propuestas intentan explicar propiedades del universo temprano mediante mecanismos diferentes de los modelos inflacionarios más simples. Sus condiciones de transición, estabilidad y predicciones dependen del modelo concreto. No hay una observación que confirme una cadena de ciclos anteriores.\n\nUn universo que se contrae no rebota automáticamente. Tampoco hay que confundir esta familia con la cosmología cíclica conforme de Penrose: esa propuesta relaciona un futuro muy diluido con un nuevo comienzo mediante una construcción diferente.",
+      "limites": "",
+      "paras": [
+        "Los modelos cíclicos estudian historias cosmológicas con fases repetidas. Steinhardt y Turok desarrollaron una propuesta en la que expansión, evolución lenta y contracción se conectan a través de transiciones que requieren física adicional. Repetición no significa que cada ciclo reproduzca exactamente las mismas galaxias ni que el tamaño global deba volver siempre al mismo valor.",
+        "Estas propuestas intentan explicar propiedades del universo temprano mediante mecanismos diferentes de los modelos inflacionarios más simples. Sus condiciones de transición, estabilidad y predicciones dependen del modelo concreto. No hay una observación que confirme una cadena de ciclos anteriores.",
+        "Un universo que se contrae no rebota automáticamente. Tampoco hay que confundir esta familia con la cosmología cíclica conforme de Penrose: esa propuesta relaciona un futuro muy diluido con un nuevo comienzo mediante una construcción diferente."
+      ],
+      "fecha": "2002",
+      "fig": null,
+      "sec": null,
+      "refs": [
+        {
+          "n": null,
+          "internal": false,
+          "text": "Steinhardt y Turok, A Cyclic Model of the Universe (Science 296,1436–1439,2002)",
+          "urls": [
+            "https://doi.org/10.1126/science.1070462"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "Resumen: expansión y contracción cíclicas",
+          "lim": "Modelo cíclico distinto de CCC; no prueba de ciclos reales.",
+          "key": "Ste01",
+          "year": "2002"
+        }
+      ],
+      "origin": "dictamen AlbaView 1oAUCFEWu_hxHl1dlfzrP48tbD01BXujS §4 · F15"
+    },
+    "AV-F30": {
+      "title": "Un vacío que podría ser metaestable",
+      "kind": "Ficha de AlbaView",
+      "claim": "En física, el vacío contiene campos y tiene una energía asociada. Un estado puede parecer estable frente a pequeñas perturbaciones sin ser el mínimo absoluto: se llama falso vacío o estado metaestable. La pelota en un escalón es una analogía de esa diferencia, no una representación literal del campo de Higgs.",
+      "aporta": "Al extrapolar el Modelo Estándar con las masas y acoplamientos medidos, ciertos cálculos sitúan el vacío electrodébil en una región metaestable. El resultado es muy sensible a parámetros como la masa del quark top y a la posible física que no está incluida en la extrapolación.\n\nLas estimaciones centrales publicadas dan vidas medias inmensamente superiores a la edad del universo. Una vida media describe una probabilidad bajo supuestos; no es una fecha programada ni garantiza que un suceso individual solo pueda ocurrir después de ese tiempo. Este escenario sigue siendo una posibilidad teórica, no una alarma observacional ni un destino establecido.",
+      "limites": "",
+      "paras": [
+        "En física, el vacío contiene campos y tiene una energía asociada. Un estado puede parecer estable frente a pequeñas perturbaciones sin ser el mínimo absoluto: se llama falso vacío o estado metaestable. La pelota en un escalón es una analogía de esa diferencia, no una representación literal del campo de Higgs.",
+        "Al extrapolar el Modelo Estándar con las masas y acoplamientos medidos, ciertos cálculos sitúan el vacío electrodébil en una región metaestable. El resultado es muy sensible a parámetros como la masa del quark top y a la posible física que no está incluida en la extrapolación.",
+        "Las estimaciones centrales publicadas dan vidas medias inmensamente superiores a la edad del universo. Una vida media describe una probabilidad bajo supuestos; no es una fecha programada ni garantiza que un suceso individual solo pueda ocurrir después de ese tiempo. Este escenario sigue siendo una posibilidad teórica, no una alarma observacional ni un destino establecido."
+      ],
+      "fecha": "2012 · 2018",
+      "fig": null,
+      "sec": null,
+      "refs": [
+        {
+          "n": null,
+          "internal": false,
+          "text": "Degrassi et al., Higgs mass and vacuum stability in the Standard Model at NNLO (2012)",
+          "urls": [
+            "https://doi.org/10.1007/JHEP08(2012)098"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "Resumen: dependencia de parámetros del Modelo Estándar",
+          "lim": "Extrapolación teórica; no presentar vida media como fecha cierta.",
+          "key": "Deg12b",
+          "year": "2012"
+        },
+        {
+          "n": null,
+          "internal": false,
+          "text": "Andreassen, Frost y Schwartz, Scale-invariant instantons and the complete lifetime of the standard model (2018)",
+          "urls": [
+            "https://doi.org/10.1103/PhysRevD.97.056006"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "Resumen: estimación central~10¹³⁹ años y enorme sensibilidad paramétrica",
+          "lim": "Estimación probabilística condicionada, no garantía de ausencia de decaimiento durante todo intervalo menor.",
+          "key": "And17",
+          "year": "2018"
+        }
+      ],
+      "origin": "dictamen AlbaView 1oAUCFEWu_hxHl1dlfzrP48tbD01BXujS §4 · F30"
+    },
+    "AV-F31": {
+      "title": "La propuesta de Penrose",
+      "kind": "Ficha de AlbaView",
+      "claim": "La cosmología cíclica conforme de Roger Penrose propone relacionar el futuro remoto de una etapa cósmica con el comienzo de otra mediante una transformación conforme. Esa transformación conserva relaciones angulares y causales mientras cambia la escala con la que se comparan distancias.",
+      "aporta": "La propuesta requiere supuestos físicos adicionales: en particular, que dejen de existir las escalas de masa que permitirían distinguir físicamente un universo muy grande de uno muy pequeño. Que no haya observadores o relojes disponibles no basta para producir ese resultado. El enfriamiento por sí solo tampoco demuestra una continuación hacia un nuevo comienzo.\n\nLa imagen de dos campanas que se conectan ayuda a representar la hipótesis. No muestra un proceso observado ni convierte la Gran Congelación en un rebote confirmado. Es una posibilidad discutida, diferente de los modelos de contracción y rebote presentados antes.",
+      "limites": "",
+      "paras": [
+        "La cosmología cíclica conforme de Roger Penrose propone relacionar el futuro remoto de una etapa cósmica con el comienzo de otra mediante una transformación conforme. Esa transformación conserva relaciones angulares y causales mientras cambia la escala con la que se comparan distancias.",
+        "La propuesta requiere supuestos físicos adicionales: en particular, que dejen de existir las escalas de masa que permitirían distinguir físicamente un universo muy grande de uno muy pequeño. Que no haya observadores o relojes disponibles no basta para producir ese resultado. El enfriamiento por sí solo tampoco demuestra una continuación hacia un nuevo comienzo.",
+        "La imagen de dos campanas que se conectan ayuda a representar la hipótesis. No muestra un proceso observado ni convierte la Gran Congelación en un rebote confirmado. Es una posibilidad discutida, diferente de los modelos de contracción y rebote presentados antes."
+      ],
+      "fecha": "",
+      "fig": null,
+      "sec": null,
+      "refs": [
+        {
+          "n": null,
+          "internal": false,
+          "text": "Penrose, Before the Big Bang… EPAC2006",
+          "urls": [
+            "https://www.jacow.org/e06/PAPERS/THESPA01.PDF"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "pp.2759–2762, razonamiento conforme y presupuestos físicos",
+          "lim": "CCC requiere supuestos adicionales sobre masa y continuación conforme; no se deduce solo de no tener observadores o instrumentos.",
+          "key": "Pen06",
+          "year": ""
+        }
+      ],
+      "origin": "dictamen AlbaView 1oAUCFEWu_hxHl1dlfzrP48tbD01BXujS §4 · F31"
+    }
+  },
+  "book_source_apparatus": [
+    {
+      "row_id": "C11.say.alla-diez-elevado",
+      "book_locator": "AV-A-255",
+      "section": "11",
+      "section_title": "El último borde",
+      "recorded_state": "ACTIVA",
+      "source_apparatus": {
+        "Verificaciones AlbaView (estado · qué verificar · fuente concreta vía Undermind · veredicto)": "PENDIENTE · Verificar: «era oscura» tras la evaporación de los agujeros negros (> 10¹⁰⁰ años; Adams y Laughlin 1997): fotones, neutrinos, electrones y positrones muy diluidos; el tiempo no termina en ese escenario. · Fuente: — · Veredicto: —"
+      }
+    },
+    {
+      "row_id": "C11.dd.nada-posterior-borde",
+      "book_locator": "AV-A-256",
+      "section": "11",
+      "section_title": "El último borde",
+      "recorded_state": "ACTIVA",
+      "source_apparatus": {
+        "Verificaciones AlbaView (estado · qué verificar · fuente concreta vía Undermind · veredicto)": "PENDIENTE · Verificar: que los escenarios del futuro cósmico no pueden comprobarse observacionalmente hoy. · Fuente: — · Veredicto: —"
+      }
+    },
+    {
+      "row_id": "C11.say.todo-depende-energia",
+      "book_locator": "AV-A-259",
+      "section": "11",
+      "section_title": "El último borde",
+      "recorded_state": "ACTIVA",
+      "source_apparatus": {
+        "Verificaciones AlbaView (estado · qué verificar · fuente concreta vía Undermind · veredicto)": "PENDIENTE · Verificar: que el destino del universo depende principalmente de la naturaleza y evolución de la energía oscura (y, en menor medida, de otros supuestos). · Fuente: — · Veredicto: —",
+        "Ampliar con el icono de Fuentes (libro abierto) · qué explicar cuando la voz dice «el modelo», «la teoría», «hipótesis»…": "FUENTES (libro abierto) ACTIVO · Escenarios del final del universo y su apoyo observacional (Gran Congelación, Gran Desgarramiento, Gran Implosión, otros); remite al texto de la energía oscura de la fila 202."
+      }
+    },
+    {
+      "row_id": "C11.say.si-empuje-mantiene",
+      "book_locator": "AV-A-262",
+      "section": "11",
+      "section_title": "El último borde",
+      "recorded_state": "ACTIVA",
+      "source_apparatus": {
+        "Verificaciones AlbaView (estado · qué verificar · fuente concreta vía Undermind · veredicto)": "PENDIENTE · Verificar: con energía oscura constante (Λ), expansión acelerada indefinida y «muerte térmica» / Gran Congelación como enfriamiento gradual (no un instante final). · Fuente: — · Veredicto: —"
+      }
+    },
+    {
+      "row_id": "C11.say.final-respaldado-fisicos",
+      "book_locator": "AV-A-264",
+      "section": "11",
+      "section_title": "El último borde",
+      "recorded_state": "ACTIVA",
+      "source_apparatus": {
+        "Ampliar con el icono de Fuentes (libro abierto) · qué explicar cuando la voz dice «el modelo», «la teoría», «hipótesis»…": "FUENTES (libro abierto) ACTIVO · Por qué la Gran Congelación es el escenario de referencia (ΛCDM prolongado) y qué podría cambiarlo."
+      }
+    },
+    {
+      "row_id": "C11.say.si-empuje-creciera",
+      "book_locator": "AV-A-267",
+      "section": "11",
+      "section_title": "El último borde",
+      "recorded_state": "ACTIVA",
+      "source_apparatus": {
+        "Verificaciones AlbaView (estado · qué verificar · fuente concreta vía Undermind · veredicto)": "PENDIENTE · Verificar: Gran Desgarramiento con energía oscura «fantasma» (w < −1; Caldwell et al. 2003); los datos actuales no lo favorecen. · Fuente: — · Veredicto: —",
+        "Ampliar con el icono de Fuentes (libro abierto) · qué explicar cuando la voz dice «el modelo», «la teoría», «hipótesis»…": "FUENTES (libro abierto) ACTIVO · «Algunos modelos»: energía oscura fantasma (w < −1), qué la distingue de una constante y qué dicen las observaciones."
+      }
+    },
+    {
+      "row_id": "C11.say.si-diera-vuelta",
+      "book_locator": "AV-A-270",
+      "section": "11",
+      "section_title": "El último borde",
+      "recorded_state": "ACTIVA",
+      "source_apparatus": {
+        "Verificaciones AlbaView (estado · qué verificar · fuente concreta vía Undermind · veredicto)": "PENDIENTE · Verificar: (1) Gran Implosión si la energía oscura decae o cambia de signo (modelos con recolapso); las observaciones no lo establecen; (2) que los tres escenarios, de ocurrir, lo harían mucho después del final del Sol como estrella (≈ 5.000 millones de años): Gran Desgarramiento ≥ decenas de miles de millones de años (Caldwell et al. 2003); recolapso, en los modelos que lo permiten, también a decenas de miles de millones de años o más. Ajustar la frase si algún modelo serio da un tiempo menor. · Fuente: — · Veredicto: —",
+        "Ampliar con el icono de Fuentes (libro abierto) · qué explicar cuando la voz dice «el modelo», «la teoría», «hipótesis»…": "FUENTES (libro abierto) ACTIVO · «Hay modelos»: cuáles permiten un recolapso y qué indicios recientes hay de energía oscura variable (p. ej., DESI)."
+      }
+    },
+    {
+      "row_id": "C11.say.frontera-mueve-algunos",
+      "book_locator": "AV-A-273",
+      "section": "11",
+      "section_title": "El último borde",
+      "recorded_state": "ACTIVA",
+      "source_apparatus": {
+        "Verificaciones AlbaView (estado · qué verificar · fuente concreta vía Undermind · veredicto)": "PENDIENTE · PRIORITARIO · Verificar y citar fuente concreta: DESI (Dark Energy Spectroscopic Instrument), resultados de BAO DR1 (abril de 2024) y DR2 (marzo de 2025): preferencia por energía oscura dinámica (w₀ > −1, wₐ < 0), con significancia ≈ 2,8–4,2 σ según la combinación de datos, no concluyente; «debilitándose» como lectura divulgativa aceptable. · Fuente: — · Veredicto: —",
+        "Ampliar con el icono de Fuentes (libro abierto) · qué explicar cuando la voz dice «el modelo», «la teoría», «hipótesis»…": "FUENTES (libro abierto) ACTIVO · Qué es DESI, qué son las oscilaciones acústicas bariónicas (los «anillos»), qué encontraron en 2024–2025 y por qué aún no es concluyente."
+      }
+    },
+    {
+      "row_id": "C11.say.hay-otras-ideas",
+      "book_locator": "AV-A-276",
+      "section": "11",
+      "section_title": "El último borde",
+      "recorded_state": "ACTIVA",
+      "source_apparatus": {
+        "Ampliar con el icono de Fuentes (libro abierto) · qué explicar cuando la voz dice «el modelo», «la teoría», «hipótesis»…": "Fuentes activo («hipótesis»). Fichas AV F30 «Un vacío que podría ser metaestable» y F31 «La propuesta de Penrose» (dictamen AlbaView 1oAUCFEWu_hxHl1dlfzrP48tbD01BXujS §4): qué otras hipótesis hay más allá de las tres posibilidades y en qué física aún no comprobada se apoyan. Aprobado por David 05-nov."
+      }
+    },
+    {
+      "row_id": "C11.say.vacio-podria-cambiar",
+      "book_locator": "AV-A-282",
+      "section": "11",
+      "section_title": "El último borde",
+      "recorded_state": "ACTIVA",
+      "source_apparatus": {
+        "Verificaciones AlbaView (estado · qué verificar · fuente concreta vía Undermind · veredicto)": "PENDIENTE · Verificar: metaestabilidad del vacío electrodébil (masas del bosón de Higgs y del quark top; p. ej., Degrassi et al. 2012; Andreassen, Frost y Schwartz 2018): vida media estimada muchísimo mayor que la edad del universo (≈ 10¹⁰⁰ años o más, según el cálculo); la burbuja se expandiría a casi la velocidad de la luz (no se dice en voz). · Fuente: — · Veredicto: —",
+        "Ampliar con el icono de Fuentes (libro abierto) · qué explicar cuando la voz dice «el modelo», «la teoría», «hipótesis»…": "FUENTES (libro abierto) ACTIVO · Qué es el vacío falso y la metaestabilidad del vacío del Higgs, explicado de forma divulgativa."
+      }
+    },
+    {
+      "row_id": "C11.say.final-tan-vacio",
+      "book_locator": "AV-A-284",
+      "section": "11",
+      "section_title": "El último borde",
+      "recorded_state": "ACTIVA",
+      "source_apparatus": {
+        "Verificaciones AlbaView (estado · qué verificar · fuente concreta vía Undermind · veredicto)": "PENDIENTE · Verificar: cosmología cíclica conforme (Penrose, «Cycles of Time», 2010): en un futuro lejano sin partículas con masa no hay «relojes» ni escala, y el final puede identificarse con un nuevo comienzo; hipótesis minoritaria y no confirmada. · Fuente: — · Veredicto: —",
+        "Ampliar con el icono de Fuentes (libro abierto) · qué explicar cuando la voz dice «el modelo», «la teoría», «hipótesis»…": "FUENTES (libro abierto) ACTIVO · Qué es la cosmología cíclica conforme de Roger Penrose y por qué es una hipótesis discutida."
+      }
+    },
+    {
+      "row_id": "C11.say.algunas-ya-aparecieron",
+      "book_locator": "AV-A-286",
+      "section": "11",
+      "section_title": "El último borde",
+      "recorded_state": "ACTIVA",
+      "source_apparatus": {
+        "Ampliar con el icono de Fuentes (libro abierto) · qué explicar cuando la voz dice «el modelo», «la teoría», «hipótesis»…": "Fuentes activo («hipótesis teóricas»). Fichas AV F15 «Universos cíclicos» y F31 «La propuesta de Penrose» (dictamen AlbaView 1oAUCFEWu_hxHl1dlfzrP48tbD01BXujS §4): en qué hipótesis el final y el principio se tocan, con qué supuestos, y por qué hoy no se puede decir cuál es más probable. Aprobado por David 05-nov."
+      }
+    },
+    {
+      "row_id": "C11.recap.no-sabemos-termina",
+      "book_locator": "AV-A-287",
+      "section": "11",
+      "section_title": "El último borde",
+      "recorded_state": "ACTIVA",
+      "source_apparatus": {
+        "Verificaciones AlbaView (estado · qué verificar · fuente concreta vía Undermind · veredicto)": "PENDIENTE · Verificar: formulación de lo sabido y lo no sabido sobre el futuro del universo. · Fuente: — · Veredicto: —"
+      }
+    },
+    {
+      "row_id": "C11.say.visto-silencio-tramo",
+      "book_locator": "AV-A-290",
+      "section": "11",
+      "section_title": "El último borde",
+      "recorded_state": "ACTIVA",
+      "source_apparatus": {
+        "Verificaciones AlbaView (estado · qué verificar · fuente concreta vía Undermind · veredicto)": "PENDIENTE · Verificar: que «solo conocemos un tramo» con seres capaces de preguntar es una formulación justa (no hay evidencia de vida inteligente fuera de la Tierra; no se afirma que no exista). · Fuente: — · Veredicto: —"
+      }
+    }
+  ],
+  "book_rows": [
+    "C11.cue.open-mouth",
+    "C11.show.ultimo-borde",
+    "C11.cue.clear",
+    "C11.q.termina-todo",
+    "C11.say.alla-diez-elevado",
+    "C11.dd.nada-posterior-borde",
+    "C11.say.aqui-no-reconstruyen",
+    "C11.cue.de-push",
+    "C11.say.todo-depende-energia",
+    "C11.cue.fate-freeze",
+    "C11.show.gran-congelacion-big",
+    "C11.say.si-empuje-mantiene",
+    "C11.show.modelo-cosmologico-estandar",
+    "C11.say.final-respaldado-fisicos",
+    "C11.cue.fate-rip",
+    "C11.show.gran-desgarramiento-big",
+    "C11.say.si-empuje-creciera",
+    "C11.cue.fate-crunch",
+    "C11.show.gran-implosion-big",
+    "C11.say.si-diera-vuelta",
+    "C11.act.mira-cambia",
+    "C11.cue.needle",
+    "C11.say.frontera-mueve-algunos",
+    "C11.say.indicio-asi-no",
+    "C11.cue.alt-0",
+    "C11.say.hay-otras-ideas",
+    "C11.cue.alt-1",
+    "C11.say.universo-contrae-rebota",
+    "C11.cue.alt-2",
+    "C11.say.universo-repite-ciclos",
+    "C11.cue.alt-3",
+    "C11.say.vacio-podria-cambiar",
+    "C11.cue.alt-4",
+    "C11.say.final-tan-vacio",
+    "C11.cue.alt-all",
+    "C11.say.algunas-ya-aparecieron",
+    "C11.recap.no-sabemos-termina",
+    "C11.act.entra-oscuro",
+    "C11.cue.to-dark",
+    "C11.say.visto-silencio-tramo",
+    "C11.cue.void"
+  ]
+}

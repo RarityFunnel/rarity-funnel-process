@@ -1,0 +1,3569 @@
+[
+  {
+    "reference_id": "RF-REF-a9efd2556fc89a91",
+    "identity": "citation:09d5eedacfa10167493ed0c4996fcf525fcdf6a2c6480c5332f74753b889b658",
+    "source_card_ids": [
+      "autor-frases"
+    ],
+    "citation_variants": [
+      {
+        "n": 21,
+        "internal": true,
+        "text": "Documentación del proyecto · Martán, AlbaView , iter18, frases de aproximación y tarjeta semilla, texto de autor verbatim · extracto , §§1 y 3.",
+        "urls": [],
+        "type": "documentación autoral/editorial"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-3ece2798336c3780",
+    "identity": "citation:e8442f0aa04697d938771d17b12c6eff1dac913efc3919982a1a1d78c70ea9f0",
+    "source_card_ids": [
+      "autor-frases",
+      "campana"
+    ],
+    "citation_variants": [
+      {
+        "n": 16,
+        "internal": true,
+        "text": "Documentación del proyecto · David Martán, AlbaView , artefacto interactivo, iteración 18 (HTML), obra propia, The Invisible Line · nota de altura (heightNote): la altura del cono es dispositivo de visualización declarado. Corpus textual verbatim en .",
+        "urls": [],
+        "type": "documentación autoral/editorial"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-48151b9a7a9b9b0f",
+    "identity": "url:https://iauarchive.eso.org/static/resolutions/IAU2012_English.pdf",
+    "source_card_ids": [
+      "ua"
+    ],
+    "citation_variants": [
+      {
+        "n": 165,
+        "internal": false,
+        "text": "IAU, Resolución B2 de la XXVIII Asamblea General (2012): la unidad astronómica queda redefinida como unidad convencional de longitud de valor exacto 149 597 870 700 m, con símbolo único «au», https://iauarchive.eso.org/static/resolutions/IAU2012_English.pdf (cotejo en el texto oficial, 16-oct-2026). Al ser una definición, no lleva incertidumbre. (Incorporada por búsqueda focal v03, V02-04.)",
+        "urls": [
+          "https://iauarchive.eso.org/static/resolutions/IAU2012_English.pdf"
+        ],
+        "type": "fuente académica o institucional"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-de67832caadc3dac",
+    "identity": "doi:10.1051/0004-6361/201935656",
+    "source_card_ids": [
+      "sgra"
+    ],
+    "citation_variants": [
+      {
+        "n": 167,
+        "internal": false,
+        "text": "GRAVITY Collaboration (R. Abuter et al.), «A geometric distance measurement to the Galactic center black hole with 0.3% uncertainty», Astronomy & Astrophysics 625 (2019): L10, https://doi.org/10.1051/0004-6361/201935656 (resumen cotejado, 16-oct-2026): R₀ = 8.178 ± 13 (estad.) ± 22 (sist.) pc, por la órbita de la estrella S2 alrededor de Sgr A* con astrometría interferométrica, óptica adaptativa y velocidades radiales, con correcciones relativistas. La equivalencia ≈ 26.700 años luz es conversión declarada (1…",
+        "urls": [
+          "https://doi.org/10.1051/0004-6361/201935656"
+        ],
+        "type": "fuente académica o institucional"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-e7d69477498982fe",
+    "identity": "doi:10.3847/1538-4357/ac1597",
+    "source_card_ids": [
+      "m31"
+    ],
+    "citation_variants": [
+      {
+        "n": 168,
+        "internal": false,
+        "text": "Siyang Li, Adam G. Riess, Michael P. Busch, Stefano Casertano, Lucas M. Macri y Wenlong Yuan, «A Sub-2% Distance to M31 from Photometrically Homogeneous Near-infrared Cepheid Period–Luminosity Relations Measured with the Hubble Space Telescope», The Astrophysical Journal (2021), https://doi.org/10.3847/1538-4357/ac1597 (resumen cotejado, 16-oct-2026): módulo de distancia μ₀ = 24,407 ± 0,032, equivalente a 761 ± 11 kpc (incertidumbre total 1,49 %), con 55 cefeidas medidas por el Hubble en infrarrojo cercano y…",
+        "urls": [
+          "https://doi.org/10.3847/1538-4357/ac1597"
+        ],
+        "type": "fuente académica o institucional"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-6c2386ef5015d00e",
+    "identity": "citation:08672fedee9a117269d54ddac1f3890af4c2c133936abba5e45e34b77194f039",
+    "source_card_ids": [
+      "escala-cosmica"
+    ],
+    "citation_variants": [
+      {
+        "n": 163,
+        "internal": true,
+        "text": "Documentación del proyecto · Texto Canónico v06-2 (escala cósmica: la escalera planeta → estrella → galaxia → cúmulo → universo observable; «el gesto del punto azul pálido, hecho recorrible» es formulación del proyecto, no cita externa).",
+        "urls": [],
+        "type": "documentación autoral/editorial"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-40f17a636b509e69",
+    "identity": "citation:ec7bde0fbf2c7819520e33cfb949ba082ac7cdb15443e83eed22417671dcc6b3",
+    "source_card_ids": [
+      "escala-cosmica"
+    ],
+    "citation_variants": [
+      {
+        "n": 164,
+        "internal": true,
+        "text": "Documentación del proyecto · Nota editorial. El expediente consolidado (Investigación Unificada v03, §4.1.2) no aporta para Cósmica y Energía tabla de hitos con fuente por cifra. Los hitos de estas dos escalas fueron incorporados en la v03 por búsqueda focal autorizada por el cotejo de AlbaView (V02-04) : cada cifra se cotejó en su fuente el 16-oct-2026 y sus entradas constan en la bibliografía citada (sección de incorporaciones v03). La selección es propuesta de este manuscrito, pendiente de ratificación editorial (registro de pendientes,…",
+        "urls": [],
+        "type": "documentación autoral/editorial"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-93fe081c7f4d4fba",
+    "identity": "citation:359bddf4f173508fdb608b65b3f34b4a4b41463cf76b9512b529386f4ab87d20",
+    "source_card_ids": [
+      "observable"
+    ],
+    "citation_variants": [
+      {
+        "n": 169,
+        "internal": true,
+        "text": "Documentación del proyecto · Nota científica. Se trata del radio comóvil del horizonte de partículas actual, con a₀ = 1, no del tamaño total del universo ni del radio de Hubble. Su valor es dependiente de modelo, no una medición directa. Para hacer reproducible el orden impreso se añade el control aproximado de AlbaView (16-oct-2026): en un modelo plano de radiación, materia y Λ, R = (c/H₀) ∫₀¹ da / √(Ωr + Ωm·a + ΩΛ·a⁴). Se usan H₀ = 67,4 km/s/Mpc y Ωm = 0,315 de Planck 2018 (Aghanim et al., la misma fuente del recorrido), Ωr = 9,2×10⁻⁵…",
+        "urls": [],
+        "type": "documentación autoral/editorial"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-1cc9d2e509318136",
+    "identity": "doi:10.1051/0004-6361/201833910",
+    "source_card_ids": [
+      "observable",
+      "cmb",
+      "cmb-temperatura",
+      "bigbang",
+      "bbn-densidad",
+      "inflacion",
+      "campana",
+      "edad",
+      "era-estelar",
+      "inventario",
+      "h0-planck",
+      "h0-tension",
+      "gran-congelacion",
+      "w-medida",
+      "big-rip",
+      "big-crunch",
+      "reloj-vivo",
+      "AV-F01",
+      "AV-F18",
+      "AV-F19",
+      "AV-F20",
+      "AV-F23",
+      "AV-F28"
+    ],
+    "citation_variants": [
+      {
+        "n": 30,
+        "internal": false,
+        "text": "Planck Collaboration (N. Aghanim et al.), «Planck 2018 results. VI. Cosmological parameters», Astronomy & Astrophysics 641 (2020): A6, https://doi.org/10.1051/0004-6361/201833910.",
+        "urls": [
+          "https://doi.org/10.1051/0004-6361/201833910"
+        ],
+        "type": "fuente académica o institucional"
+      },
+      {
+        "n": 33,
+        "internal": false,
+        "text": "Planck 2018 VI (z* = 1089,92 ± 0,25).",
+        "urls": [
+          "https://doi.org/10.1051/0004-6361/201833910"
+        ],
+        "type": "fuente académica o institucional"
+      },
+      {
+        "n": 34,
+        "internal": false,
+        "text": "Planck 2018 VI (edad en z*: redondeo de la fuente ~380.000 años). Nota científica. El valor integrado ~371.000 años es derivado y declarado: Planck no publica incertidumbre separada para esa edad; la propagación, del orden de 4.000–5.000 años, es estimación.",
+        "urls": [
+          "https://doi.org/10.1051/0004-6361/201833910"
+        ],
+        "type": "fuente académica o institucional"
+      },
+      {
+        "n": 84,
+        "internal": false,
+        "text": "Densidad bariónica: Planck 2018 VI (Ω_b h² ≈ 0,02237). Formulación del alcance: corrección C19 del expediente — fijados los restantes supuestos y tasas nucleares, la densidad bariónica determina las abundancias predichas; usar la densidad de Planck permite el contraste, no elimina incertidumbres nucleares ni discrepancias entre elementos.",
+        "urls": [
+          "https://doi.org/10.1051/0004-6361/201833910"
+        ],
+        "type": "fuente académica o institucional"
+      },
+      {
+        "n": 128,
+        "internal": false,
+        "text": "Planck 2018 VI (n_s ≈ 0,965).",
+        "urls": [
+          "https://doi.org/10.1051/0004-6361/201833910"
+        ],
+        "type": "fuente académica o institucional"
+      },
+      {
+        "n": 127,
+        "internal": false,
+        "text": "Planck 2018 VI (Ω_k = 0,0007 ± 0,0019, Planck+BAO).",
+        "urls": [
+          "https://doi.org/10.1051/0004-6361/201833910"
+        ],
+        "type": "fuente académica o institucional"
+      },
+      {
+        "n": 22,
+        "internal": true,
+        "text": "Documentación del proyecto · Martán, AlbaView , iter18, tarjeta semilla de la parada 02, texto de autor verbatim. Nota editorial. La tarjeta dice «según WMAP»; la cronología del sistema ancla en Planck 2018. La reconciliación artefacto–canónico está registrada como pendiente; la semilla no se edita sin palabra del autor.",
+        "urls": [
+          "https://doi.org/10.1051/0004-6361/201833910"
+        ],
+        "type": "documentación autoral/editorial"
+      },
+      {
+        "n": 54,
+        "internal": false,
+        "text": "Planck 2018 VI, tabla 2, p. 16 (cotejo primario del expediente): 13,797 ± 0,023 Gyr (TT,TE,EE+lowE+lensing) y 13,787 ± 0,020 Gyr (añadiendo BAO). Nota editorial. La diferencia corresponde a conjuntos de datos distintos de la misma fuente; no son estimaciones intercambiables ni una errata. En pantalla va solo el redondeo canónico; otras combinaciones del expediente, no impresas: ACT DR6 + WMAP 13,788 ± 0,019; ACT + Planck + DESI DR2 13,767 ± 0,014 (Louis et al. 2025).",
+        "urls": [
+          "https://doi.org/10.1051/0004-6361/201833910"
+        ],
+        "type": "fuente académica o institucional"
+      },
+      {
+        "n": 46,
+        "internal": false,
+        "text": "Adams y Laughlin, «A dying universe» (Era Estelar, 6 < η < 14); η₀ = 10,14 derivado de la edad de Planck 2018 VI.",
+        "urls": [
+          "https://doi.org/10.1051/0004-6361/201833910",
+          "https://doi.org/10.1103/RevModPhys.69.337"
+        ],
+        "type": "fuente académica o institucional"
+      },
+      {
+        "n": 49,
+        "internal": false,
+        "text": "Planck 2018 VI (Ω_Λ = 0,6847 ± 0,0073; Ω_m = 0,3153 ± 0,0073).",
+        "urls": [
+          "https://doi.org/10.1051/0004-6361/201833910"
+        ],
+        "type": "fuente académica o institucional"
+      },
+      {
+        "n": 51,
+        "internal": false,
+        "text": "Planck 2018 VI (H₀ = 67,36 ± 0,54 km/s/Mpc; en pantalla, 67,4 ± 0,5).",
+        "urls": [
+          "https://doi.org/10.1051/0004-6361/201833910"
+        ],
+        "type": "fuente académica o institucional"
+      },
+      {
+        "n": 134,
+        "internal": false,
+        "text": "Escenario de referencia: Planck 2018 VI (parámetros); Adams y Laughlin, «A dying universe» (desarrollo de la dilución).",
+        "urls": [
+          "https://doi.org/10.1051/0004-6361/201833910",
+          "https://doi.org/10.1103/RevModPhys.69.337"
+        ],
+        "type": "fuente académica o institucional"
+      },
+      {
+        "n": 76,
+        "internal": false,
+        "text": "Planck 2018 VI, §7.4, ecuación 50 (cotejo primario del expediente): en la extensión wCDM con w constante y w_a = 0, TT,TE,EE+lowE+lensing+SNe+BAO da w = −1,028 ± 0,031; compatible con w = −1, que ΛCDM fija.",
+        "urls": [
+          "https://doi.org/10.1051/0004-6361/201833910"
+        ],
+        "type": "fuente académica o institucional"
+      },
+      {
+        "n": 135,
+        "internal": false,
+        "text": "Planck 2018 VI, §7.4, ecuación 50.",
+        "urls": [
+          "https://doi.org/10.1051/0004-6361/201833910"
+        ],
+        "type": "fuente académica o institucional"
+      },
+      {
+        "n": 138,
+        "internal": true,
+        "text": "Documentación del proyecto · Recálculo propio documentado del expediente (C23–C26, 15-oct-2026) con H₀ = 67,4 km/s/Mpc, Ω_DE = 0,685 y año de 365,25 días, sobre la fórmula de Caldwell et al. (2003).",
+        "urls": [
+          "https://doi.org/10.1051/0004-6361/201833910",
+          "https://doi.org/10.1103/PhysRevLett.91.071301"
+        ],
+        "type": "documentación autoral/editorial"
+      },
+      {
+        "n": 140,
+        "internal": false,
+        "text": "Planck 2018 VI (Ω_k = 0,0007 ± 0,0019).",
+        "urls": [
+          "https://doi.org/10.1051/0004-6361/201833910"
+        ],
+        "type": "fuente académica o institucional"
+      },
+      {
+        "n": 156,
+        "internal": false,
+        "text": "Cifra del reloj de pie cerrada por el autor, 13-ago-2026: mensaje de Rarity Funnel a Arquitectura Web, . Base de la medida: Planck 2018 VI; redondeo canónico declarado, dependiente de modelo.",
+        "urls": [
+          "https://doi.org/10.1051/0004-6361/201833910"
+        ],
+        "type": "fuente académica o institucional"
+      },
+      {
+        "n": null,
+        "internal": false,
+        "text": "Planck Collaboration, Planck 2018 results VI. Cosmological parameters (A&A 641, A6, 2020)",
+        "urls": [
+          "https://doi.org/10.1051/0004-6361/201833910"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "Resumen; resultados base ΛCDM: H₀=67,4±0,5 km/s/Mpc; Ωm=0,315±0,007; Ωbh²≈0,0224",
+        "lim": "Inferencia dependiente de ΛCDM; no observación directa de la edad ni de la sustancia de la energía oscura.",
+        "key": "Agh18",
+        "year": "2020"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-b212545e4b0964f3",
+    "identity": "doi:10.1088/0004-637x/707/2/916",
+    "source_card_ids": [
+      "cmb-temperatura"
+    ],
+    "citation_variants": [
+      {
+        "n": 35,
+        "internal": false,
+        "text": "D. J. Fixsen, «The Temperature of the Cosmic Microwave Background», The Astrophysical Journal 707 (2009): 916–920, https://doi.org/10.1088/0004-637X/707/2/916. Valor T₀ = 2,72548 ± 0,00057 K cotejado en la tabla 2, p. 5 del manuscrito. La propagación ±0,9 K para T(z ) presupone independencia de los errores de T₀ y z .",
+        "urls": [
+          "https://doi.org/10.1088/0004-637X/707/2/916"
+        ],
+        "type": "fuente académica o institucional"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-818634bd12278fe6",
+    "identity": "doi:10.1103/revmodphys.69.337",
+    "source_card_ids": [
+      "bigbang",
+      "campana",
+      "horizonte-estelar",
+      "regla-log",
+      "crepusculo",
+      "proton-supuesto",
+      "era-agujeros",
+      "masa-cubo",
+      "era-oscura",
+      "gran-congelacion",
+      "reloj-vivo",
+      "AV-F20",
+      "AV-F23",
+      "AV-F25",
+      "AV-F26",
+      "AV-F28"
+    ],
+    "citation_variants": [
+      {
+        "n": 27,
+        "internal": false,
+        "text": "Véase la nota al eje η de la parada 02; regla dura del proyecto: el η de J1 no se imprime.",
+        "urls": [
+          "https://doi.org/10.1103/RevModPhys.69.337"
+        ],
+        "type": "fuente académica o institucional"
+      },
+      {
+        "n": 13,
+        "internal": false,
+        "text": "Fred C. Adams y Gregory Laughlin, «A dying universe: the long-term fate and evolution of astrophysical objects», Reviews of Modern Physics 69 (1997): 337–372, https://doi.org/10.1103/RevModPhys.69.337. La década cosmológica η es la convención de notación de esta fuente.",
+        "urls": [
+          "https://doi.org/10.1103/RevModPhys.69.337"
+        ],
+        "type": "fuente académica o institucional"
+      },
+      {
+        "n": 57,
+        "internal": false,
+        "text": "Adams y Laughlin, «A dying universe» (apagado gradual, franja η ≈ 12–14; calificación 1 del sello S-η, marco firme sin rótulo condicional).",
+        "urls": [
+          "https://doi.org/10.1103/RevModPhys.69.337"
+        ],
+        "type": "fuente académica o institucional"
+      },
+      {
+        "n": 23,
+        "internal": false,
+        "text": "Adams y Laughlin, «A dying universe», 337–372.",
+        "urls": [
+          "https://doi.org/10.1103/RevModPhys.69.337"
+        ],
+        "type": "fuente académica o institucional"
+      },
+      {
+        "n": 61,
+        "internal": false,
+        "text": "Adams y Laughlin, «A dying universe» (τ_p ~ 10³⁷ años adoptado como supuesto; calificación 2 del sello S-η: nunca se imprime como medición).",
+        "urls": [
+          "https://doi.org/10.1103/RevModPhys.69.337"
+        ],
+        "type": "fuente académica o institucional"
+      },
+      {
+        "n": 64,
+        "internal": false,
+        "text": "Adams y Laughlin, «A dying universe» (Era de Agujeros Negros, 38 < η < 100; condicional a J5, estatuto visible).",
+        "urls": [
+          "https://doi.org/10.1103/RevModPhys.69.337"
+        ],
+        "type": "fuente académica o institucional"
+      },
+      {
+        "n": 66,
+        "internal": false,
+        "text": "Adams y Laughlin, «A dying universe» (tiempos por masa; relación η_BH ≈ 83 + 3·log₁₀(M/10⁶ M☉)).",
+        "urls": [
+          "https://doi.org/10.1103/RevModPhys.69.337"
+        ],
+        "type": "fuente académica o institucional"
+      },
+      {
+        "n": 72,
+        "internal": false,
+        "text": "Adams y Laughlin, «A dying universe» (Era Oscura, η > 100, abierta por arriba; tabla E4 del sello S-η).",
+        "urls": [
+          "https://doi.org/10.1103/RevModPhys.69.337"
+        ],
+        "type": "fuente académica o institucional"
+      },
+      {
+        "n": 15,
+        "internal": false,
+        "text": "Adams y Laughlin, «A dying universe» (calificación 3 del sello S-η del proyecto: 10¹⁰⁰ años como comienzo de la Era Oscura, no frontera universal).",
+        "urls": [
+          "https://doi.org/10.1103/RevModPhys.69.337"
+        ],
+        "type": "fuente académica o institucional"
+      },
+      {
+        "n": 73,
+        "internal": false,
+        "text": "Adams y Laughlin, «A dying universe» (contenido de la era: fotones, neutrinos, pares electrón-positrón en dilución).",
+        "urls": [
+          "https://doi.org/10.1103/RevModPhys.69.337"
+        ],
+        "type": "fuente académica o institucional"
+      },
+      {
+        "n": 157,
+        "internal": false,
+        "text": "Adams y Laughlin, «A dying universe» (calificación 3 del sello S-η).",
+        "urls": [
+          "https://doi.org/10.1103/RevModPhys.69.337"
+        ],
+        "type": "fuente académica o institucional"
+      },
+      {
+        "n": null,
+        "internal": false,
+        "text": "Adams y Laughlin, A dying universe: the long-term fate and evolution of astrophysical objects (1997)",
+        "urls": [
+          "https://doi.org/10.1103/RevModPhys.69.337"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "§I ec.1.1; §II.D ec.2.18; §III/IV supuestos; §V evaporación",
+        "lim": "Modelo condicional; formación residual, decaimiento del protón y escala de masa importan. 10¹⁴ y 10¹⁰⁰ no son fechas finales observadas.",
+        "key": "Ada97",
+        "year": "1997"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-74389d5fac03a194",
+    "identity": "citation:657964396584d8e604c3a398a51b543bde0a6fb2cc80359045ad88533efa8dfa",
+    "source_card_ids": [
+      "bigbang"
+    ],
+    "citation_variants": [
+      {
+        "n": 14,
+        "internal": true,
+        "text": "Documentación del proyecto · Nota científica. Consecuencia matemática de la definición η = log₁₀(t/1 año): el logaritmo no converge en t = 0, de modo que el vértice no tiene coordenada; regla del sello S-2η del proyecto ( , , que cubre el η de la parada 04 y solo ese.",
+        "urls": [],
+        "type": "documentación autoral/editorial"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-c2ae6533fef6a3f9",
+    "identity": "url:https://esahubble.org/wordbank/big-bang/",
+    "source_card_ids": [
+      "bigbang"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "text": "Fred Hoyle, BBC, 1949: atribución documentada; no afirmar intención de burla.",
+        "urls": [
+          "https://esahubble.org/wordbank/big-bang/"
+        ],
+        "type": "atribución histórica documentada"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-255f9f2e412f4913",
+    "identity": "citation:899ee795bdc59a867b757f03a829956de4da34729f6851a2aea5b6bc7e98da88",
+    "source_card_ids": [
+      "dato-desconocido"
+    ],
+    "citation_variants": [
+      {
+        "n": 81,
+        "internal": true,
+        "text": "Documentación del proyecto · Asiento del nombre Unknown Datum: , 17-ago-2026. Nivel A (palabra del autor): el nombre y la tesis de los dos interrogantes. Nivel C (propuesta del carril, no contradicha): plantilla y disciplina de uso.",
+        "urls": [],
+        "type": "documentación autoral/editorial"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-556013368aed397b",
+    "identity": "doi:10.1103/revmodphys.97.025002",
+    "source_card_ids": [
+      "planck-t",
+      "planck-limite"
+    ],
+    "citation_variants": [
+      {
+        "n": 28,
+        "internal": false,
+        "text": "NIST, tabla CODATA 2022, verbatim: «Planck time · 5.391 247 e-44 · 0.000 060 e-44 · s». Documentación del ajuste: Peter J. Mohr, David B. Newell, Barry N. Taylor y Eite Tiesinga, «CODATA recommended values of the fundamental physical constants: 2022», Reviews of Modern Physics 97 (2025): 025002, https://doi.org/10.1103/revmodphys.97.025002 — orden de autoría y año editorial comprobados en NIST: publicación 30-abr-2025; «2022» es el año del ajuste. Derivación t_P = √(ħG/c⁵): c y h exactas por definición del SI;…",
+        "urls": [
+          "https://doi.org/10.1103/revmodphys.97.025002"
+        ],
+        "type": "fuente académica o institucional"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-9266f4fcdfb15a7a",
+    "identity": "url:https://physics.nist.gov/cuu/Constants/Table/allascii.txt",
+    "source_card_ids": [
+      "planck-t"
+    ],
+    "citation_variants": [
+      {
+        "n": 24,
+        "internal": false,
+        "text": "NIST, Fundamental Physical Constants — Complete Listing, 2022 CODATA adjustment , https://physics.nist.gov/cuu/Constants/Table/allascii.txt (consultado 14-ago-2026; reverificado 15-oct-2026). Cuando la superficie muestre una sola fuente para esta cifra, es esta tabla abierta del NIST.",
+        "urls": [
+          "https://physics.nist.gov/cuu/Constants/Table/allascii.txt"
+        ],
+        "type": "fuente académica o institucional"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-bb3cc5ce6d4e0a00",
+    "identity": "citation:13c412584fca0f06dbd17ee37fec1706e839ab47066ad96928be6602ec8b7955",
+    "source_card_ids": [
+      "planck-t"
+    ],
+    "citation_variants": [
+      {
+        "n": 26,
+        "internal": true,
+        "text": "Documentación del proyecto · Nota editorial. Corrección visible del 14-ago-2026 : «~10⁻⁴³ s» es 1,85 veces el valor real; la cifra se imprime como 5,39×10⁻⁴⁴ s y el orden de magnitud queda solo para prosa declarada. Las piezas web de las paradas 03 y 08 releídas el 15-oct conservaban la formulación anterior: verificar qué versión se vierte (pendiente B-1 del registro editorial).",
+        "urls": [],
+        "type": "documentación autoral/editorial"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-6731d021e7a6ee50",
+    "identity": "url:https://planck.bbaw.de/schriften.pdf",
+    "source_card_ids": [
+      "planck-t"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "text": "Max Planck: propuesta de unidades naturales de 1899; desarrollo del autor en 1900, §26. El valor moderno usa ħ.",
+        "urls": [
+          "https://planck.bbaw.de/schriften.pdf"
+        ],
+        "type": "atribución histórica documentada"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-09d692683ae13ecf",
+    "identity": "citation:f5d37c7a3c2ebe7acb56ee75e247e42b728954aaf253eb9591a5110a323e5764",
+    "source_card_ids": [
+      "planck-limite"
+    ],
+    "citation_variants": [
+      {
+        "n": 29,
+        "internal": true,
+        "text": "Documentación del proyecto · Nota científica. Formulación corregida C07/C08 del expediente (15-oct-2026): el tiempo de Planck no demuestra un comienzo absoluto ni que «toda la física deje de operar»; a esas escalas se espera que la descripción clásica del espacio-tiempo sea insuficiente y que los efectos de gravedad cuántica importen, sin teoría de gravedad cuántica confirmada experimentalmente.",
+        "urls": [],
+        "type": "documentación autoral/editorial"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-39cfca0adb8048dd",
+    "identity": "doi:10.1103/revmodphys.88.015004",
+    "source_card_ids": [
+      "bbn"
+    ],
+    "citation_variants": [
+      {
+        "n": 83,
+        "internal": false,
+        "text": "Richard H. Cyburt, Brian D. Fields, Keith A. Olive y Tsung-Han Yeh, «Big bang nucleosynthesis: Present status», Reviews of Modern Physics 88 (2016): 015004, https://doi.org/10.1103/RevModPhys.88.015004; ventana temporal: Anne-Katherine Burns, Tim M. P. Tait y Mauro Valli, «PRyMordial: the first three minutes, within and beyond the standard model», The European Physical Journal C (2024), https://doi.org/10.1140/epjc/s10052-024-12442-0. Nota editorial. La temperatura del horno (10⁹–10⁷ K) está retirada hasta…",
+        "urls": [
+          "https://doi.org/10.1103/RevModPhys.88.015004",
+          "https://doi.org/10.1140/epjc/s10052-024-12442-0"
+        ],
+        "type": "fuente académica o institucional"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-f8a6e3228f7dd349",
+    "identity": "doi:10.3847/1538-4357/aaab53",
+    "source_card_ids": [
+      "deuterio",
+      "AV-F03"
+    ],
+    "citation_variants": [
+      {
+        "n": 87,
+        "internal": false,
+        "text": "Ryan J. Cooke, Max Pettini y Charles C. Steidel, «One Percent Determination of the Primordial Deuterium Abundance», The Astrophysical Journal 855 (2018): 102, https://doi.org/10.3847/1538-4357/aaab53 (cotejo en resumen: D/H = (2,527 ± 0,030)×10⁻⁵).",
+        "urls": [
+          "https://doi.org/10.3847/1538-4357/aaab53"
+        ],
+        "type": "fuente académica o institucional"
+      },
+      {
+        "n": 88,
+        "internal": true,
+        "text": "Documentación del proyecto · Nota editorial. Corrección C18 del expediente: la precisión ~1,2 % es de la determinación observacional del deuterio (Cooke et al. 2018), no una afirmación de «acuerdo teoría-observación al 1 %».",
+        "urls": [
+          "https://doi.org/10.3847/1538-4357/aaab53"
+        ],
+        "type": "documentación autoral/editorial"
+      },
+      {
+        "n": null,
+        "internal": false,
+        "text": "Cooke, Pettini y Steidel, One Percent Determination of the Primordial Deuterium Abundance (ApJ 855,102, 2018)",
+        "urls": [
+          "https://doi.org/10.3847/1538-4357/aaab53"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "Resumen; D/H=(2,527±0,030)×10⁻⁵",
+        "lim": "Es una inferencia observacional de 2018; no la predicción de Planck ni la media actual de todos los sistemas.",
+        "key": "Coo17b",
+        "year": "2018"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-fac862ed30ceef51",
+    "identity": "doi:10.1146/annurev-nucl-102010-130445",
+    "source_card_ids": [
+      "litio",
+      "AV-F03"
+    ],
+    "citation_variants": [
+      {
+        "n": 90,
+        "internal": false,
+        "text": "Cyburt et al., «Big bang nucleosynthesis: Present status»; panorama del problema: Brian D. Fields, «The Primordial Lithium Problem», Annual Review of Nuclear and Particle Science (2011): 47–68, https://doi.org/10.1146/.",
+        "urls": [
+          "https://doi.org/10.1146/annurev-nucl-102010-130445",
+          "https://doi.org/10.1103/RevModPhys.88.015004"
+        ],
+        "type": "fuente académica o institucional"
+      },
+      {
+        "n": null,
+        "internal": false,
+        "text": "Fields, The Primordial Lithium Problem (2011)",
+        "urls": [
+          "https://doi.org/10.1146/annurev-nucl-102010-130445"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "Resumen: discrepancia de factor 3–4",
+        "lim": "Abundancias estelares y su interpretación primordial; no todo el litio del universo.",
+        "key": "Fie11",
+        "year": "2011"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-39aba5b5aefc2750",
+    "identity": "doi:10.1088/1475-7516/2008/11/012",
+    "source_card_ids": [
+      "litio"
+    ],
+    "citation_variants": [
+      {
+        "n": 92,
+        "internal": false,
+        "text": "El problema empeora con mejoras del cálculo: Richard H. Cyburt, Brian D. Fields y Keith A. Olive, JCAP 2008, n.º 11 (2008): 012, https://doi.org/10.1088/1475-7516/2008/11/012. La no observación de ⁶Li restringe soluciones: Brian D. Fields y Keith A. Olive, JCAP 2022, n.º 10 (2022): 078, https://doi.org/10.1088/1475-7516/2022/10/078.",
+        "urls": [
+          "https://doi.org/10.1088/1475-7516/2008/11/012",
+          "https://doi.org/10.1088/1475-7516/2022/10/078",
+          "https://doi.org/10.1103/RevModPhys.88.015004"
+        ],
+        "type": "fuente académica o institucional"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-2bf4b3f761753f9c",
+    "identity": "doi:10.1088/0034-4885/76/11/112901",
+    "source_card_ids": [
+      "pop3",
+      "edad-oscura"
+    ],
+    "citation_variants": [
+      {
+        "n": 40,
+        "internal": false,
+        "text": "Volker Bromm, «Formation of the first stars», Reports on Progress in Physics 76 (2013): 112901, https://doi.org/10.1088/0034-4885/76/11/112901; Naoki Yoshida et al., «Simulations of Early Structure Formation: Primordial Gas Clouds», The Astrophysical Journal (2003): 645–663, https://doi.org/10.1086/375810; sobre rareza y continuación según entorno: Sahil Hegde y Steven R. Furlanetto, MNRAS (2023), https://doi.org/10.1093/mnras/stad2308; Thomas H. Greif et al., The Astrophysical Journal 736 (2011): 147,…",
+        "urls": [
+          "https://doi.org/10.1088/0034-4885/76/11/112901",
+          "https://doi.org/10.1086/375810",
+          "https://doi.org/10.1093/mnras/stad2308"
+        ],
+        "type": "fuente académica o institucional"
+      },
+      {
+        "n": 93,
+        "internal": false,
+        "text": "Véanse las fuentes de la parada 05 (Bromm 2013; Yoshida et al. 2003; Hegde y Furlanetto 2023; Greif et al. 2011; Kulkarni et al. 2021).",
+        "urls": [
+          "https://doi.org/10.1088/0034-4885/76/11/112901",
+          "https://doi.org/10.1086/375810",
+          "https://doi.org/10.1093/mnras/stad2308"
+        ],
+        "type": "fuente académica o institucional"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-41fc772bb113b485",
+    "identity": "url:https://arxiv.org/abs/2603.20362",
+    "source_card_ids": [
+      "pop3-candidata"
+    ],
+    "citation_variants": [
+      {
+        "n": 41,
+        "internal": false,
+        "text": "Roberto Maiolino et al., «The search for Population III: Confirmation of a HeII emitter with no metal lines at z=10.6», preprint (2026), https://arxiv.org/abs/2603.20362. Inferencia, no confirmación; caso más fuerte vigente al corte del expediente.",
+        "urls": [
+          "https://arxiv.org/abs/2603.20362"
+        ],
+        "type": "preprint / fuente de investigación"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-852f029fe340b880",
+    "identity": "doi:10.33232/001c.156033",
+    "source_card_ids": [
+      "momz14"
+    ],
+    "citation_variants": [
+      {
+        "n": 43,
+        "internal": false,
+        "text": "Rohan P. Naidu et al., «A Cosmic Miracle: A Remarkably Luminous Galaxy at z_spec = 14.44 Confirmed with JWST», The Open Journal of Astrophysics (30-ene-2026), https://doi.org/10.33232/001c.156033 — publicado; primicia reclamada por la fuente. Preprint previo: https://arxiv.org/abs/2505.11263. Nota editorial: una versión anterior del expediente lo rotuló preprint estando publicado; errata declarada y corregida a la vista.",
+        "urls": [
+          "https://doi.org/10.33232/001c.156033",
+          "https://arxiv.org/abs/2505.11263"
+        ],
+        "type": "artículo publicado con preprint asociado"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-02914db7417afa2d",
+    "identity": "doi:10.1016/j.precamres.2019.01.001",
+    "source_card_ids": [
+      "vida-evidencia"
+    ],
+    "citation_variants": [
+      {
+        "n": 105,
+        "internal": false,
+        "text": "Marco general: Ben K. D. Pearce et al., «Constraining the Time Interval for the Origin of Life on Earth», Astrobiology 18 (2018): 343–364, https://doi.org/10.1089/ast.2017.1674; Frances Westall et al., «Setting the geological scene for the origin of life and continuing open questions about its emergence», Frontiers in Astronomy and Space Sciences 9 (2023), https://doi.org/10.3389/fspas.2022.1095701. Jack Hills: Elizabeth A. Bell et al., «Potentially biogenic carbon preserved in a 4.1 billion-year-old zircon», PNAS (2015), https://doi.org/10.1073/pnas.1517557112. Labrador, 3.950 Ma: Tashiro et al. 2017, https://doi.org/10.1038/nature24019; reserva sobre la edad: Whitehouse et al. 2019, https://doi.org/10.1016/J.PRECAMRES.2019.01.001. Isua, 3.700 Ma: Nutman et al. 2016, https://doi.org/10.1038/nature19355; reanálisis tectónico: Zawaski et al. 2020, https://doi.org/10.1016/j.epsl.2020.116409. Pilbara: Allwood et al. 2006, https://doi.org/10.1038/nature04764; Noffke et al. 2013, https://doi.org/10.1089/ast.2013.1030; Djokic et al. 2017, https://doi.org/10.1038/ncomms15263. LUCA, inferencia dependiente de modelo: nota 106; Westall 2025, https://doi.org/10.1098/rstb.2024.0106.",
+        "urls": [
+          "https://doi.org/10.1016/J.PRECAMRES.2019.01.001",
+          "https://doi.org/10.1016/j.epsl.2020.116409",
+          "https://doi.org/10.1038/nature04764",
+          "https://doi.org/10.1038/nature19355",
+          "https://doi.org/10.1038/nature24019",
+          "https://doi.org/10.1038/ncomms15263",
+          "https://doi.org/10.1073/pnas.1517557112",
+          "https://doi.org/10.1089/ast.2013.1030",
+          "https://doi.org/10.1089/ast.2017.1674",
+          "https://doi.org/10.1098/rstb.2024.0106",
+          "https://doi.org/10.3389/fspas.2022.1095701"
+        ],
+        "type": "fuente académica o institucional",
+        "_before_r15v03": "Marco general: Ben K. D. Pearce et al., «Constraining the Time Interval for the Origin of Life on Earth», Astrobiology 18 (2018): 343–364, https://doi.org/10.1089/ast.2017.1674; Frances Westall et al., «Setting the geological scene for the origin of life and continuing open questions about its emergence», Frontiers in Astronomy and Space Sciences 9 (2023), https://doi.org/10.3389/fspas.2022.1095701. Jack Hills: Elizabeth A. Bell et al., «Potentially biogenic carbon preserved in a 4.1 billion-year-old zircon»,…"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-c012adc1b1fdd5db",
+    "identity": "doi:10.1098/rstb.2024.0106",
+    "source_card_ids": [
+      "vida-evidencia"
+    ],
+    "citation_variants": [
+      {
+        "n": 106,
+        "internal": false,
+        "text": "Frances Westall, «What the earliest evidence for life tells us about the early evolution of the biosphere», Philosophical Transactions of the Royal Society B 380 (2025), https://doi.org/10.1098/rstb.2024.0106 (LUCA por relojes moleculares, 4.330–4.090 Ma; inferencia dependiente de modelo).",
+        "urls": [
+          "https://doi.org/10.1098/rstb.2024.0106"
+        ],
+        "type": "fuente académica o institucional"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-6c5d35cef5a6e42a",
+    "identity": "doi:10.1089/ast.2015.1406",
+    "source_card_ids": [
+      "vida-hipotesis",
+      "AV-F06",
+      "AV-F07"
+    ],
+    "citation_variants": [
+      {
+        "n": 107,
+        "internal": false,
+        "text": "1 · hidrotermal alcalina: Víctor Sojo et al., «The Origin of Life in Alkaline Hydrothermal Vents», Astrobiology (2016): 181–197, https://doi.org/10.1089/ast.2015.1406; reducción de CO₂ por gradiente de pH: Reuben Hudson et al., PNAS (2020): 22873–22879, https://doi.org/10.1073/pnas.2002659117. 2 · pozas y fuentes termales: Bruce Damer y David Deamer, «The Hot Spring Hypothesis for an Origin of Life», Astrobiology 20(4), 2020, 429–452; publicación anticipada 16-dic-2019, https://doi.org/10.1089/ast.2019.2045; Djokic et al. (2017), https://doi.org/10.1038/ncomms15263. 3 · mundo de ARN: Michael P. Robertson y Gerald F. Joyce, «The origins of the RNA world», Cold Spring Harbor Perspectives in Biology (2012), https://doi.org/10.1101/cshperspect.a003608; Matthew W. Powner, Béatrice Gerland y John D. Sutherland, «Synthesis of activated pyrimidine ribonucleotides in prebiotically plausible conditions», Nature (2009): 239–242, https://doi.org/10.1038/nature08013. 4 · metabolismo primero: Kamila B. Muchowska, Sreejith J. Varma y Joseph Moran, «Nonenzymatic Metabolic Reactions and Life’s Origins», Chemical Reviews (2020), https://doi.org/10.1021/acs.chemrev.0c00191. 5 · protocélula primero: Jason P. Schrum, Ting F. Zhu y Jack W. Szostak, «The origins of cellular life», Cold Spring Harbor Perspectives in Biology (2010): a002212, https://doi.org/10.1101/cshperspect.a002212. 6 · química de sistemas: Bhavesh H. Patel et al., «Common origins of RNA, protein and lipid precursors in a cyanosulfidic protometabolism», Nature Chemistry 7 (2015): 301–307, https://doi.org/10.1038/nchem.2202; Martina Preiner et al., «The Future of Origin of Life Research: Bridging Decades-Old Divisions», Life (2020), https://doi.org/10.3390/life10030020.",
+        "urls": [
+          "https://doi.org/10.1089/ast.2015.1406",
+          "https://doi.org/10.1073/pnas.2002659117",
+          "https://doi.org/10.1089/ast.2019.2045",
+          "https://doi.org/10.1101/cshperspect.a003608",
+          "https://doi.org/10.1038/nature08013",
+          "https://doi.org/10.1021/acs.chemrev.0c00191",
+          "https://doi.org/10.1101/cshperspect.a002212",
+          "https://doi.org/10.1038/nchem.2202",
+          "https://doi.org/10.3390/life10030020"
+        ],
+        "type": "fuente académica o institucional"
+      },
+      {
+        "n": null,
+        "internal": false,
+        "text": "Sojo et al., The Origin of Life in Alkaline Hydrothermal Vents (2016)",
+        "urls": [
+          "https://doi.org/10.1089/ast.2015.1406"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "Resumen: gradientes geoquímicos",
+        "lim": "Hipótesis sobre ambientes; no demostración del lugar histórico del origen.",
+        "key": "Soj16",
+        "year": "2016"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-1f9bca6c51f16d7c",
+    "identity": "doi:10.1038/s41467-023-37206-4",
+    "source_card_ids": [
+      "vida-hipotesis"
+    ],
+    "citation_variants": [
+      {
+        "n": 126,
+        "internal": false,
+        "text": "Barreras acopladas en microambientes del Hadeano: Annalena Salditt et al., «Ribozyme-mediated RNA synthesis and replication in a model Hadean microenvironment», Nature Communications 14 (2023), https://doi.org/10.1038/s41467-023-37206-4; Salditt et al., Physical Review Letters 125 (2020): 048104, https://doi.org/10.1103/physrevlett.125.048104.",
+        "urls": [
+          "https://doi.org/10.1038/s41467-023-37206-4",
+          "https://doi.org/10.1103/physrevlett.125.048104"
+        ],
+        "type": "fuente académica o institucional"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-90e34970d36fe39f",
+    "identity": "doi:10.1051/0004-6361/201321096",
+    "source_card_ids": [
+      "kit-cosmico"
+    ],
+    "citation_variants": [
+      {
+        "n": 114,
+        "internal": false,
+        "text": "Inventario de moléculas orgánicas complejas en Sgr B2: Arnaud Belloche et al., «Complex organic molecules in the interstellar medium: IRAM 30 m line survey of Sagittarius B2(N) and (M)», Astronomy & Astrophysics (2013), https://doi.org/10.1051/0004-6361/201321096; Juan Li et al., The Astrophysical Journal (2017), https://doi.org/10.3847/1538-4357/aa9069; panorama: Sun Kwok, The Astronomy and Astrophysics Review (2016), https://doi.org/10.1007/s00159-016-0093-y. Detecciones específicas identificadas en la…",
+        "urls": [
+          "https://doi.org/10.1051/0004-6361/201321096",
+          "https://doi.org/10.3847/1538-4357/aa9069",
+          "https://doi.org/10.1007/s00159-016-0093-y"
+        ],
+        "type": "fuente académica o institucional"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-692053f1d9debec5",
+    "identity": "doi:10.1039/c2cs35109a",
+    "source_card_ids": [
+      "kit-cosmico"
+    ],
+    "citation_variants": [
+      {
+        "n": 115,
+        "internal": false,
+        "text": "Aaron S. Burton et al., «Understanding prebiotic chemistry through the analysis of extraterrestrial amino acids and nucleobases in meteorites», Chemical Society Reviews (2012): 5459–5472, https://doi.org/10.1039/c2cs35109a; Alyssa K. Cobb y Ralph E. Pudritz, «Nature’s Starships. I.», The Astrophysical Journal 783 (2014): 140, https://doi.org/10.1088/0004-637X/783/2/140.",
+        "urls": [
+          "https://doi.org/10.1039/c2cs35109a",
+          "https://doi.org/10.1088/0004-637X/783/2/140"
+        ],
+        "type": "fuente académica o institucional"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-0a8111124819d568",
+    "identity": "citation:0bb4f90f358c00bfb0d63b68e38297a8864fe06b1561c420565a0f9615207bbd",
+    "source_card_ids": [
+      "kit-cosmico"
+    ],
+    "citation_variants": [
+      {
+        "n": 117,
+        "internal": true,
+        "text": "Documentación del proyecto · Nota editorial. Decisión del autor, 17-ago-2026: el PDF divulgativo de marzo (Kit Cósmico, empuja contra la cautela de asimetría ratificada; se conservó el material y se invirtió la conclusión.",
+        "urls": [],
+        "type": "documentación autoral/editorial"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-4ffece9e1482885d",
+    "identity": "url:https://arxiv.org/abs/0902.4694",
+    "source_card_ids": [
+      "kit-cosmico"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "type": "fuente académica o institucional",
+        "text": "Arnaud Belloche et al., «Increased complexity in interstellar chemistry: detection and chemical modeling of ethyl formate and n-propyl cyanide in Sagittarius B2(N)», Astronomy & Astrophysics 499 (2009), https://arxiv.org/abs/0902.4694. Comunicado del MPIfR (2009): https://www.mpifr-bonn.mpg.de/pressreleases/2009/3.",
+        "urls": [
+          "https://arxiv.org/abs/0902.4694",
+          "https://www.mpifr-bonn.mpg.de/pressreleases/2009/3"
+        ]
+      },
+      {
+        "n": null,
+        "internal": false,
+        "text": "Belloche et al., 2009, detección de formiato de etilo y n-propil cianuro en Sgr B2(N), A&A 499, 215–232; DOI 10.1051/0004-6361/200811550. Resumen y datación cotejados el 23-oct-2026.",
+        "urls": [
+          "https://arxiv.org/abs/0902.4694"
+        ],
+        "type": "detección espectroscópica"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-0c9723af781e9a24",
+    "identity": "doi:10.1103/physrevlett.127.151301",
+    "source_card_ids": [
+      "ondas-primordiales",
+      "AV-F13"
+    ],
+    "citation_variants": [
+      {
+        "n": 31,
+        "internal": false,
+        "text": "BICEP/Keck Collaboration (P. A. R. Ade et al.), «Improved Constraints on Primordial Gravitational Waves using Planck, WMAP, and BICEP/Keck Observations through the 2018 Observing Season», Physical Review Letters 127 (2021): 151301, https://doi.org/10.1103/PhysRevLett.127.151301. Cota superior, medida: r < 0,036.",
+        "urls": [
+          "https://doi.org/10.1103/PhysRevLett.127.151301"
+        ],
+        "type": "fuente académica o institucional"
+      },
+      {
+        "n": 129,
+        "internal": false,
+        "text": "BICEP/Keck (2021), r < 0,036.",
+        "urls": [
+          "https://doi.org/10.1103/PhysRevLett.127.151301"
+        ],
+        "type": "fuente académica o institucional"
+      },
+      {
+        "n": null,
+        "internal": false,
+        "text": "BICEP/Keck, Improved Constraints on Primordial Gravitational Waves using Planck, WMAP, and BICEP/Keck Observations through the 2018 Observing Season (2021)",
+        "urls": [
+          "https://doi.org/10.1103/PhysRevLett.127.151301"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "r₀.₀₅<0,036 al95%CL",
+        "lim": "Límite de ese análisis de 2021, no cifra presentada sin fecha como récord vigente.",
+        "key": "Ade21",
+        "year": "2021"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-fce93d0155597db2",
+    "identity": "doi:10.1103/physrevd.64.123522",
+    "source_card_ids": [
+      "antes-inflacion"
+    ],
+    "citation_variants": [
+      {
+        "n": 131,
+        "internal": false,
+        "text": "Ekpirótico: Justin Khoury et al., «The Ekpyrotic universe: Colliding branes and the origin of the hot big bang», Physical Review D 64 (2001): 123522, https://doi.org/10.1103/PhysRevD.64.123522. Sin frontera: James B. Hartle y Stephen W. Hawking, «Wave Function of the Universe», Physical Review D 28 (1983): 2960–2975, https://doi.org/10.1103/PHYSREVD.28.2960; estabilidad debatida: Job Feldbrugge, Jean-Luc Lehners y Neil Turok, «Lorentzian quantum cosmology», Physical Review D 95 (2017): 103508,…",
+        "urls": [
+          "https://doi.org/10.1103/PhysRevD.64.123522",
+          "https://doi.org/10.1103/PHYSREVD.28.2960",
+          "https://doi.org/10.1103/PhysRevD.95.103508"
+        ],
+        "type": "fuente académica o institucional"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-756a6fbfa4c72677",
+    "identity": "doi:10.1103/physrevlett.90.151301",
+    "source_card_ids": [
+      "antes-inflacion"
+    ],
+    "citation_variants": [
+      {
+        "n": 130,
+        "internal": false,
+        "text": "Guth, «Eternal inflation and its implications»; Vilenkin, «Birth of inflationary universes».",
+        "urls": [
+          "https://doi.org/10.1103/PhysRevLett.90.151301",
+          "https://doi.org/10.1088/1751-8113/40/25/S25",
+          "https://doi.org/10.1103/PHYSREVD.27.2848"
+        ],
+        "type": "fuente académica o institucional"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-61b65a0e575f8e97",
+    "identity": "url:https://science.nasa.gov/mission/wmap/wmap-overview/",
+    "source_card_ids": [
+      "forma-origen"
+    ],
+    "citation_variants": [
+      {
+        "n": 6,
+        "internal": false,
+        "text": "NASA/WMAP Science Team, «Timeline of the Universe», en NASA Science, «WMAP Overview», https://science.nasa.gov/mission/wmap/wmap-overview/; y NASA/GSFC, Cosmic Times , ficha «Timeline of the Universe», https://imagine.gsfc.nasa.gov/educators/programs/cosmictimes/universe_mashup/archive/pages/big_bang.html. Consultadas el 16-oct-2026. El crédito institucional y la función del esquema están contrastados con estas fuentes. La captura aportada conserva una adaptación al español, con el crédito NASA/WMAP Science…",
+        "urls": [
+          "https://science.nasa.gov/mission/wmap/wmap-overview/",
+          "https://imagine.gsfc.nasa.gov/educators/programs/cosmictimes/universe_mashup/archive/pages/big_bang.html"
+        ],
+        "type": "fuente académica o institucional"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-810e9deab40dbd08",
+    "identity": "citation:bcdcf208700b7cb4971ee104547c22a0353fa52aa70f5502e9d56130a2cc2971",
+    "source_card_ids": [
+      "forma-origen",
+      "embudo"
+    ],
+    "citation_variants": [
+      {
+        "n": 5,
+        "internal": true,
+        "text": "Documentación del proyecto · David, comunicación autoral en el chat AlbaView, 16 de octubre de 2026, acompañada de siete imágenes. Fuente primaria para la génesis conceptual y la secuencia montaña → cono/embudo → campana → lectura humana. El relato no implica una ascensión real ni fija la montaña representada como Everest o Fuji. La fecha corresponde a la comunicación, no a la creación de las imágenes.",
+        "urls": [],
+        "type": "documentación autoral/editorial"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-94804539055131f9",
+    "identity": "citation:6d1fb888b5d920d9b558fa8d85f7edafff5d16dff08c8613ea8fca85e98d0009",
+    "source_card_ids": [
+      "regla-log"
+    ],
+    "citation_variants": [
+      {
+        "n": 14,
+        "internal": true,
+        "text": "Consecuencia matemática de la definición η = log₁₀(t/1 año): el logaritmo no converge en t = 0, de modo que el vértice no tiene coordenada.",
+        "urls": [],
+        "type": "documentación autoral/editorial"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-1b7c496e6c52f045",
+    "identity": "doi:10.1103/revmodphys.29.547",
+    "source_card_ids": [
+      "era-estelar"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "text": "E. Margaret Burbidge, Geoffrey R. Burbidge, William A. Fowler y Fred Hoyle, «Synthesis of the Elements in Stars», Reviews of Modern Physics 29 (1957): 547–650.",
+        "urls": [
+          "https://doi.org/10.1103/RevModPhys.29.547"
+        ],
+        "type": "referencia externa al libro"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-3a0ef62275efade7",
+    "identity": "doi:10.1088/1475-7516/2025/11/062",
+    "source_card_ids": [
+      "inventario"
+    ],
+    "citation_variants": [
+      {
+        "n": 50,
+        "internal": false,
+        "text": "Thibaut Louis et al., «The Atacama Cosmology Telescope: DR6 power spectra, likelihoods and ΛCDM parameters», Journal of Cosmology and Astroparticle Physics 2025, n.º 11 (2025): 062, https://doi.org/10.1088/1475-7516/2025/11/062 (ACT DR6 + DESI DR2: 69,97 % / 25,07 % / 4,82 %, mismo marco ΛCDM).",
+        "urls": [
+          "https://doi.org/10.1088/1475-7516/2025/11/062"
+        ],
+        "type": "fuente académica o institucional"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-d0392a4eab741e19",
+    "identity": "url:https://arxiv.org/abs/astro-ph/9811454",
+    "source_card_ids": [
+      "inventario"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "text": "Michael S. Turner, Dark Matter and Dark Energy in the Universe, 1998; uso documentado del nombre, no valores actuales.",
+        "urls": [
+          "https://arxiv.org/abs/astro-ph/9811454"
+        ],
+        "type": "atribución histórica documentada"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-ce629f0a82af443a",
+    "identity": "url:https://arxiv.org/abs/1711.01693",
+    "source_card_ids": [
+      "inventario"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "text": "Fritz Zwicky, 1933: materia oscura en el cúmulo de Coma; traducción de Heinz Andernach de 2017. No se atribuye la primera acuñación del término.",
+        "urls": [
+          "https://arxiv.org/abs/1711.01693"
+        ],
+        "type": "fuente original traducida"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-0cbc3c029a546e32",
+    "identity": "doi:10.3847/2041-8213/ac5c5b",
+    "source_card_ids": [
+      "h0-shoes",
+      "h0-tension",
+      "AV-F19"
+    ],
+    "citation_variants": [
+      {
+        "n": 52,
+        "internal": false,
+        "text": "Adam G. Riess et al., «A Comprehensive Measurement of the Local Value of the Hubble Constant with 1 km s⁻¹ Mpc⁻¹ Uncertainty from the Hubble Space Telescope and the SH0ES Team», The Astrophysical Journal Letters 934 (2022): L7, https://doi.org/10.3847/2041-8213/ac5c5b (73,04 ± 1,04).",
+        "urls": [
+          "https://doi.org/10.3847/2041-8213/ac5c5b"
+        ],
+        "type": "fuente académica o institucional"
+      },
+      {
+        "n": null,
+        "internal": false,
+        "text": "Riess et al., A Comprehensive Measurement of the Local Value of the Hubble Constant… (ApJL934,L7,2022)",
+        "urls": [
+          "https://doi.org/10.3847/2041-8213/ac5c5b"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "Resumen:73,04±1,04 km/s/Mpc; diferencia≈5σ con Planck ΛCDM",
+        "lim": "Dos rutas representativas; no todos los métodos tardíos dan el mismo resultado, ni son las únicas rutas.",
+        "key": "Rie21",
+        "year": "2022"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-d1f797f4c6ea7291",
+    "identity": "doi:10.1093/mnras/stz3094",
+    "source_card_ids": [
+      "h0-shoes",
+      "h0-tension"
+    ],
+    "citation_variants": [
+      {
+        "n": 53,
+        "internal": false,
+        "text": "Kenneth C. Wong et al., «H0LiCOW XIII. A 2.4 per cent measurement of H₀ from lensed quasars: 5.3σ tension between early- and late-Universe probes», MNRAS (2020), https://doi.org/10.1093/MNRAS/STZ3094 (73,3 +1,7/−1,8); Dominic W. Pesce et al., «The Megamaser Cosmology Project. XIII. Combined Hubble Constant Constraints», The Astrophysical Journal Letters (2020), https://doi.org/10.3847/2041-8213/ab75f0 (73,9 ± 3,0).",
+        "urls": [
+          "https://doi.org/10.1093/MNRAS/STZ3094",
+          "https://doi.org/10.3847/2041-8213/ab75f0"
+        ],
+        "type": "fuente académica o institucional"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-47d185bd5125d2db",
+    "identity": "url:https://arxiv.org/abs/2406.14467",
+    "source_card_ids": [
+      "crepusculo"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "type": "fuente académica o institucional",
+        "text": "Alexander J. Dittmann et al., «A more precise measurement of the radius of PSR J0740+6620 using updated NICER data», The Astrophysical Journal (2024), https://arxiv.org/abs/2406.14467.",
+        "urls": [
+          "https://arxiv.org/abs/2406.14467"
+        ]
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-3166f14e83480cd5",
+    "identity": "doi:10.1103/physrevd.102.112011",
+    "source_card_ids": [
+      "proton-cota",
+      "AV-F25"
+    ],
+    "citation_variants": [
+      {
+        "n": 59,
+        "internal": false,
+        "text": "A. Takenaka et al. (Super-Kamiokande Collaboration), «Search for proton decay via p→e⁺π⁰ and p→μ⁺π⁰ with an enlarged fiducial volume in Super-Kamiokande I-IV», Physical Review D 102 (2020): 112011, https://doi.org/10.1103/physrevd.102.112011. Cota inferior de vida parcial (τ/B), no vida total.",
+        "urls": [
+          "https://doi.org/10.1103/physrevd.102.112011"
+        ],
+        "type": "fuente académica o institucional"
+      },
+      {
+        "n": null,
+        "internal": false,
+        "text": "Takenaka et al., Search for proton decay via p→e⁺π⁰ and p→μ⁺π⁰… (2020)",
+        "urls": [
+          "https://doi.org/10.1103/PhysRevD.102.112011"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "Resumen: τ/B>2,4×10³⁴ y>1,6×10³⁴ años,90%CL",
+        "lim": "Límites inferiores de vida media parcial por canal; no tiempo mínimo garantizado de cada protón.",
+        "key": "Tak20c",
+        "year": "2020"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-8c03256d8a7ef433",
+    "identity": "url:https://www.webofstories.com/play/john.wheeler/83",
+    "source_card_ids": [
+      "era-agujeros"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "text": "John Wheeler, testimonio sobre el uso del nombre en 1967; grabado en 1996. Conservar popularizó, no prioridad absoluta.",
+        "urls": [
+          "https://www.webofstories.com/play/john.wheeler/83"
+        ],
+        "type": "atribución histórica documentada"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-7c40c39353c27f2a",
+    "identity": "doi:10.1038/248030a0",
+    "source_card_ids": [
+      "hawking"
+    ],
+    "citation_variants": [
+      {
+        "n": 65,
+        "internal": false,
+        "text": "S. W. Hawking, «Black hole explosions?», Nature 248 (1974): 30–31, https://doi.org/10.1038/248030a0.",
+        "urls": [
+          "https://doi.org/10.1038/248030a0"
+        ],
+        "type": "fuente académica o institucional"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-75f6a5afce976001",
+    "identity": "citation:7411a0b28d2a06961cb218cacbf33a916755e641201539110bf89d0cdad1caff",
+    "source_card_ids": [
+      "hawking"
+    ],
+    "citation_variants": [
+      {
+        "n": 68,
+        "internal": true,
+        "text": "Documentación del proyecto · Nota editorial. Actualización N02 (15-oct-2026): el texto histórico conserva η ≈ 65 mientras su referencia adicional da ~6×10⁶⁷ años para masa solar aislada; se requiere reconciliar masa, fórmula y normalización antes de llevar una cifra precisa a pantalla. No se ha certificado la equivalencia de esos valores. La evaporación de Hawking astrofísica se trata como predicción teórica.",
+        "urls": [],
+        "type": "documentación autoral/editorial"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-231ecd39738f3d4f",
+    "identity": "doi:10.1103/physrevd.105.043526",
+    "source_card_ids": [
+      "masa-cubo"
+    ],
+    "citation_variants": [
+      {
+        "n": 67,
+        "internal": false,
+        "text": "Quinn Taylor y Glenn Starkman, «How the Universe postpones the evaporation and curtails the quantum spreading of black holes», Physical Review D 105 (2022): 043526, https://doi.org/10.1103/PhysRevD.105.043526 (~6×10⁶⁷ años para un agujero negro solar aislado; la acreción ambiental retrasa la evaporación).",
+        "urls": [
+          "https://doi.org/10.1103/PhysRevD.105.043526"
+        ],
+        "type": "fuente académica o institucional"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-ddf610b29b589a37",
+    "identity": "doi:10.1103/physrevlett.116.061102",
+    "source_card_ids": [
+      "gw150914",
+      "AV-F27"
+    ],
+    "citation_variants": [
+      {
+        "n": 70,
+        "internal": false,
+        "text": "LIGO Scientific Collaboration y Virgo Collaboration (B. P. Abbott et al.), «Observation of Gravitational Waves from a Binary Black Hole Merger», Physical Review Letters 116 (2016): 061102, https://doi.org/10.1103/PhysRevLett.116.061102 — DOI leído en el propio documento. Verbatim de la fuente: primera detección directa de ondas gravitacionales y primera observación de la fusión de un binario de agujeros negros; el ringdown del agujero negro resultante se describe sin reclamo de primicia propio.",
+        "urls": [
+          "https://doi.org/10.1103/PhysRevLett.116.061102"
+        ],
+        "type": "fuente académica o institucional"
+      },
+      {
+        "n": null,
+        "internal": false,
+        "text": "Abbott et al., Observation of Gravitational Waves from a Binary Black Hole Merger (2016)",
+        "urls": [
+          "https://doi.org/10.1103/PhysRevLett.116.061102"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "Resumen: GW150914,14-sep-2015; h≈10⁻²¹;35–250 Hz;410+160−180 Mpc",
+        "lim": "Distancia de luminosidad no es directamente tiempo de viaje; ~1,3 Ga es aproximación cosmológica.",
+        "key": "Col16e",
+        "year": "2016"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-65c859a86a41e460",
+    "identity": "url:https://gwosc.org/audio/",
+    "source_card_ids": [
+      "gw150914",
+      "AV-F27"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "type": "archivo de audio público",
+        "text": "LIGO Laboratory / Caltech / MIT, «GW150914 chirp» (audio de la señal detectada, con y sin desplazamiento de frecuencia), publicado por el Gravitational Wave Open Science Center (GWOSC). Cortesía de LIGO; su uso no implica respaldo.",
+        "urls": [
+          "https://gwosc.org/audio/"
+        ]
+      },
+      {
+        "n": null,
+        "internal": false,
+        "type": "archivo de audio público",
+        "text": "GWOSC · GW150914_H1_shifted.wav (H1 blanqueado y filtrado en banda, +400 Hz) · mono, 4.096 Hz, 16 bit, 4,0 s, 32.812 bytes · sha256 db0648e6…bb02e7 · CC BY 4.0. Datos de LIGO, distribuidos por GWOSC, servicio de las colaboraciones LIGO, Virgo y KAGRA. Audio H1 procesado por GWOSC, con desplazamiento de frecuencia +400 Hz. CC BY 4.0. Reproducción de AlbaView con ajuste de ganancia y compresión dinámica; tañido artístico separado. Su uso no implica respaldo de las colaboraciones.",
+        "urls": [
+          "https://gwosc.org/audio/",
+          "https://creativecommons.org/licenses/by/4.0/"
+        ]
+      },
+      {
+        "n": null,
+        "internal": false,
+        "text": "GWOSC, Audio files for GW150914",
+        "urls": [
+          "https://gwosc.org/audio/"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "H1/L1: filtrado y versión desplazada+400 Hz",
+        "lim": "Frecuencias originales parcialmente audibles; desplazamiento facilita audición. No certificar el binario audio del build completo desde un kit sin audio.",
+        "key": "GWOSC",
+        "year": ""
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-4ba1e3605a64e47d",
+    "identity": "url:https://gwosc.org/GW150914data/GW150914_H1_shifted.wav",
+    "source_card_ids": [
+      "gw150914"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "type": "Datos sonificados; variante y licencia identificadas",
+        "text": "GWOSC, GW150914_H1_shifted.wav: datos H1 blanqueados y filtrados en banda, con desplazamiento de frecuencia +400 Hz. CC BY 4.0. WAV original cotejado byte a byte el 23-oct-2026; SHA-256 db0648e6eec3d2ee5087d05c6769aa8a13fc7da7769c75499e4a1ce631bb02e7. Véanse el registro de audio de esta entrega y la guía oficial de atribución.",
+        "urls": [
+          "https://gwosc.org/GW150914data/GW150914_H1_shifted.wav",
+          "https://gwosc.org/audio/",
+          "https://gwosc.org/acknowledgement/",
+          "https://creativecommons.org/licenses/by/4.0/"
+        ]
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-bb14fa3dd6d89c9f",
+    "identity": "citation:44b19e3dff2753ed95405ceed1a0a25013e6f82446792df5c7c028988f132455",
+    "source_card_ids": [
+      "gran-congelacion"
+    ],
+    "citation_variants": [
+      {
+        "n": 75,
+        "internal": true,
+        "text": "Documentación del proyecto · Nota científica. La ausencia de un oyente es imagen narrativa del proyecto, no un resultado demostrado: la física de la era describe el agotamiento de los gradientes capaces de producir trabajo, bajo los condicionales de toda la rama (w = −1, estabilidad del protón no asumida, horizonte abierto).",
+        "urls": [],
+        "type": "documentación autoral/editorial"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-1062d77d09332a23",
+    "identity": "url:https://www.informationphilosopher.com/solutions/scientists/thomson/universal_tendency.html",
+    "source_card_ids": [
+      "gran-congelacion"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "text": "William Thomson, 1852: disipación de energía mecánica como antecedente de muerte térmica; no acuñación del nombre Big Freeze.",
+        "urls": [
+          "https://www.informationphilosopher.com/solutions/scientists/thomson/universal_tendency.html"
+        ],
+        "type": "atribución histórica documentada"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-bd67c3642f2d6f72",
+    "identity": "doi:10.1088/0264-9381/22/17/023",
+    "source_card_ids": [
+      "w-clasificacion"
+    ],
+    "citation_variants": [
+      {
+        "n": 133,
+        "internal": false,
+        "text": "Takeshi Chiba, Ryuichi Takahashi y Naoshi Sugiyama, «Classifying the future of universes with dark energy», Classical and Quantum Gravity 22 (2005): 3745–3758, https://doi.org/10.1088/0264-9381/22/17/023.",
+        "urls": [
+          "https://doi.org/10.1088/0264-9381/22/17/023"
+        ],
+        "type": "fuente académica o institucional"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-8ecfda58a048ed17",
+    "identity": "doi:10.1103/physrevlett.91.071301",
+    "source_card_ids": [
+      "big-rip",
+      "AV-F28"
+    ],
+    "citation_variants": [
+      {
+        "n": 137,
+        "internal": false,
+        "text": "Caldwell, Kamionkowski y Weinberg, «Phantom energy» (fórmula y ejemplo histórico). Nota editorial del método: una consulta automática devolvió un homónimo de 2019 sin DOI para el título; fue descartado y la fila carga sobre el artículo real de 2003.",
+        "urls": [
+          "https://doi.org/10.1103/PhysRevLett.91.071301"
+        ],
+        "type": "fuente académica o institucional"
+      },
+      {
+        "n": null,
+        "internal": false,
+        "text": "Caldwell, Kamionkowski y Weinberg, Phantom energy… (2003)",
+        "urls": [
+          "https://doi.org/10.1103/PhysRevLett.91.071301"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "Resumen; modelo fantasma con w<−1 sostenido",
+        "lim": "No toda energía oscura dinámica o creciente causa un Big Rip; no reloj universal.",
+        "key": "Cal03",
+        "year": "2003"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-e7a6e771252b98c6",
+    "identity": "url:https://arxiv.org/abs/astro-ph/0302506",
+    "source_card_ids": [
+      "big-rip"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "text": "Caldwell, Kamionkowski y Weinberg, Phantom Energy and Cosmic Doomsday, 2003; uso del término Big Rip.",
+        "urls": [
+          "https://arxiv.org/abs/astro-ph/0302506"
+        ],
+        "type": "atribución histórica documentada"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-f574908ca478a0aa",
+    "identity": "doi:10.1088/1475-7516/2003/02/002",
+    "source_card_ids": [
+      "big-crunch"
+    ],
+    "citation_variants": [
+      {
+        "n": 141,
+        "internal": false,
+        "text": "Renata Kallosh y Andrei Linde, «Dark energy and the fate of the Universe», Journal of Cosmology and Astroparticle Physics 2003, n.º 02 (2003): 002, https://doi.org/10.1088/1475-7516/2003/02/002; límites de la extrapolación del cono de luz pasado: Paul H. Frampton y Tomo Takahashi, «The fate of dark energy», Physics Letters B (2003): 135–138, https://doi.org/10.1016/S0370-2693(03)00208-9.",
+        "urls": [
+          "https://doi.org/10.1088/1475-7516/2003/02/002",
+          "https://doi.org/10.1016/S0370-2693(03)00208-9"
+        ],
+        "type": "fuente académica o institucional"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-89b986c6ab7096fe",
+    "identity": "citation:eafe6417ed7685359aa9507f6db0cc4d060bdce261231eac8e04f978645b1e78",
+    "source_card_ids": [
+      "big-crunch"
+    ],
+    "citation_variants": [
+      {
+        "n": 142,
+        "internal": true,
+        "text": "Documentación del proyecto · Asiento 19W19_… , punto 6: el Big Crunch conserva su nodo; su geometría no se traza; el hueco de evidencia se produce legible, sobrio y distinguible de un fallo técnico, sujeto a revisión anual. Formulación del autor: ausencia marcada, no espacio olvidado ni escenario refutado definitivamente.",
+        "urls": [],
+        "type": "documentación autoral/editorial"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-1419d7e0f2b589eb",
+    "identity": "url:https://arxiv.org/abs/2607.27410",
+    "source_card_ids": [
+      "desi"
+    ],
+    "citation_variants": [
+      {
+        "n": 143,
+        "internal": false,
+        "text": "DESI Collaboration (A. G. Adame et al.), «DESI DR2 Results IV: Alcock-Paczyński Measurements from the Lyman Alpha Forest and Cosmological Constraints», preprint, 29-jul-2026, https://arxiv.org/abs/2607.27410; revisión v3 del 4-ago-2026: https://arxiv.org/pdf/2607.27410v3 — tabla IV y §VI D: 2,7σ (DESI+CMB) y 3,2σ (DESI+CMB+DES-Dovekie); la conclusión imprime 3,1σ; la discrepancia interna se conserva. Sin publicación revisada por pares al corte del expediente (15-oct-2026); el documento no certifica una búsqueda…",
+        "urls": [
+          "https://arxiv.org/abs/2607.27410",
+          "https://arxiv.org/pdf/2607.27410v3"
+        ],
+        "type": "preprint / fuente de investigación"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-0d0ed52d90129c3d",
+    "identity": "doi:10.1103/tr6y-kpc6",
+    "source_card_ids": [
+      "desi"
+    ],
+    "citation_variants": [
+      {
+        "n": 145,
+        "internal": false,
+        "text": "DESI Collaboration (M. Abdul-Karim et al.), «DESI DR2 results. II. Measurements of baryon acoustic oscillations and cosmological constraints», Physical Review D (2025), https://doi.org/10.1103/tr6y-kpc6 (3,1σ con CMB); las tres exclusiones nominales con supernovas: Marina Cortês y Andrew R. Liddle, «On DESI’s DR2 exclusion of ΛCDM», MNRAS Letters (2025), https://doi.org/10.1093/mnrasl/slaf108.",
+        "urls": [
+          "https://doi.org/10.1103/tr6y-kpc6",
+          "https://doi.org/10.1093/mnrasl/slaf108"
+        ],
+        "type": "fuente académica o institucional"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-683bad3329ea4b90",
+    "identity": "doi:10.1016/j.physletb.2012.06.017",
+    "source_card_ids": [
+      "desi"
+    ],
+    "citation_variants": [
+      {
+        "n": 147,
+        "internal": false,
+        "text": "Alcance declarado del ajuste w₀–w_a: Abdul-Karim et al., «DESI DR2 results. II». Límites de extrapolación: Artyom V. Astashenok et al., «Scalar dark energy models mimicking ΛCDM with arbitrary future evolution», Physics Letters B (2012): 145–153, https://doi.org/10.1016/j.physletb.2012.06.017; Frampton y Takahashi, «The fate of dark energy». Decisión del autor sobre w = −0,948: no se imprime — la fuente consta, desde v02, en la bibliografía citada de este manuscrito (DES Collaboration, Physical Review D , 2025,…",
+        "urls": [
+          "https://doi.org/10.1016/j.physletb.2012.06.017",
+          "https://doi.org/10.1103/z2q4-qcdq"
+        ],
+        "type": "fuente académica o institucional"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-501756de096dcf94",
+    "identity": "doi:10.1103/physrevlett.86.5227",
+    "source_card_ids": [
+      "alternativos"
+    ],
+    "citation_variants": [
+      {
+        "n": 148,
+        "internal": false,
+        "text": "Síntesis de la celda con las fuentes de las notas siguientes; estatuto común: especulativo, condicional, nunca pronóstico.",
+        "urls": [
+          "https://doi.org/10.1103/PhysRevLett.86.5227",
+          "https://doi.org/10.1103/PhysRevD.74.084003",
+          "https://doi.org/10.1016/j.physrep.2014.12.004"
+        ],
+        "type": "fuente académica o institucional"
+      },
+      {
+        "n": 149,
+        "internal": false,
+        "text": "Martin Bojowald, «Absence of a singularity in loop quantum cosmology», Physical Review Letters 86 (2001): 5227–5230, https://doi.org/10.1103/PhysRevLett.86.5227; Abhay Ashtekar, Tomasz Pawłowski y Parampreet Singh, «Quantum Nature of the Big Bang: Improved dynamics», Physical Review D 74 (2006): 084003, https://doi.org/10.1103/PhysRevD.74.084003.",
+        "urls": [
+          "https://doi.org/10.1103/PhysRevLett.86.5227",
+          "https://doi.org/10.1103/PhysRevD.74.084003"
+        ],
+        "type": "fuente académica o institucional"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-f6fdb99f12395bf6",
+    "identity": "doi:10.1016/j.physrep.2014.12.004",
+    "source_card_ids": [
+      "alternativos"
+    ],
+    "citation_variants": [
+      {
+        "n": 150,
+        "internal": false,
+        "text": "Diana Battefeld y Patrick Peter, «A Critical Review of Classical Bouncing Cosmologies», Physics Reports (2015), https://doi.org/10.1016/j.physrep.2014.12.004; Robert Brandenberger y Patrick Peter, «Bouncing Cosmologies: Progress and Problems», Foundations of Physics 47 (2017): 797–850, https://doi.org/10.1007/s10701-016-0057-0.",
+        "urls": [
+          "https://doi.org/10.1016/j.physrep.2014.12.004",
+          "https://doi.org/10.1007/s10701-016-0057-0"
+        ],
+        "type": "fuente académica o institucional"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-d9bccc46c89dcc3c",
+    "identity": "doi:10.1103/physrevd.65.126003",
+    "source_card_ids": [
+      "alternativos"
+    ],
+    "citation_variants": [
+      {
+        "n": 151,
+        "internal": false,
+        "text": "Paul J. Steinhardt y Neil Turok, «Cosmic Evolution in a Cyclic Universe», Physical Review D 65 (2002): 126003, https://doi.org/10.1103/PhysRevD.65.126003; Justin Khoury et al., «From big crunch to big bang», Physical Review D 65 (2002): 086007, https://doi.org/10.1103/PhysRevD.65.086007; Jean-Luc Lehners, «Ekpyrotic and cyclic cosmology», Physics Reports (2008): 223–263, https://doi.org/10.1016/j.physrep.2008.06.001; Anna Ijjas y Paul J. Steinhardt, «A new kind of cyclic universe», Physics Letters B (2019),…",
+        "urls": [
+          "https://doi.org/10.1103/PhysRevD.65.126003",
+          "https://doi.org/10.1103/PhysRevD.65.086007",
+          "https://doi.org/10.1016/j.physrep.2008.06.001"
+        ],
+        "type": "fuente académica o institucional"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-2ca159890a3cbe47",
+    "identity": "doi:10.1103/physrevd.15.2929",
+    "source_card_ids": [
+      "alternativos"
+    ],
+    "citation_variants": [
+      {
+        "n": 152,
+        "internal": false,
+        "text": "Sidney Coleman, «The Fate of the False Vacuum. 1. Semiclassical Theory», Physical Review D 15 (1977): 2929–2936, https://doi.org/10.1103/PhysRevD.15.2929; Curtis G. Callan y Sidney Coleman, «Fate of the false vacuum. II. First quantum corrections», Physical Review D 16 (1977): 1762–1768, https://doi.org/10.1103/PhysRevD.16.1762; Sidney Coleman y Frank De Luccia, «Gravitational Effects on and of Vacuum Decay», Physical Review D 21 (1980): 3305–3315, https://doi.org/10.1103/PhysRevD.21.3305.",
+        "urls": [
+          "https://doi.org/10.1103/PhysRevD.15.2929",
+          "https://doi.org/10.1103/PhysRevD.16.1762",
+          "https://doi.org/10.1103/PhysRevD.21.3305"
+        ],
+        "type": "fuente académica o institucional"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-d8a5e9bfd4bcae8e",
+    "identity": "doi:10.1007/jhep08(2012)098",
+    "source_card_ids": [
+      "alternativos",
+      "AV-F30"
+    ],
+    "citation_variants": [
+      {
+        "n": 153,
+        "internal": false,
+        "text": "Giuseppe Degrassi et al., «Higgs mass and vacuum stability in the Standard Model at NNLO», Journal of High Energy Physics 2012, n.º 08 (2012): 098, https://doi.org/10.1007/JHEP08(2012)098; Dario Buttazzo et al., «Investigating the near-criticality of the Higgs boson», Journal of High Energy Physics 2013, n.º 12 (2013): 089, https://doi.org/10.1007/JHEP12(2013)089 (vidas calculadas muy superiores a la edad cósmica, algunas mayores que 10¹⁰⁰ años); contexto cosmológico: Tommi Markkanen, Arttu Rajantie y Stephen…",
+        "urls": [
+          "https://doi.org/10.1007/JHEP08(2012)098",
+          "https://doi.org/10.1007/JHEP12(2013)089",
+          "https://doi.org/10.3389/fspas.2018.00040"
+        ],
+        "type": "fuente académica o institucional"
+      },
+      {
+        "n": null,
+        "internal": false,
+        "text": "Degrassi et al., Higgs mass and vacuum stability in the Standard Model at NNLO (2012)",
+        "urls": [
+          "https://doi.org/10.1007/JHEP08(2012)098"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "Resumen: dependencia de parámetros del Modelo Estándar",
+        "lim": "Extrapolación teórica; no presentar vida media como fecha cierta.",
+        "key": "Deg12b",
+        "year": "2012"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-547a6b770f7af8ce",
+    "identity": "doi:10.1103/physrevd.91.013003",
+    "source_card_ids": [
+      "alternativos"
+    ],
+    "citation_variants": [
+      {
+        "n": 154,
+        "internal": false,
+        "text": "Vincenzo Branchina, Emanuele Messina y Marc Sher, «Lifetime of the electroweak vacuum and sensitivity to Planck scale physics», Physical Review D 91 (2015): 013003, https://doi.org/10.1103/PhysRevD.91.013003.",
+        "urls": [
+          "https://doi.org/10.1103/PhysRevD.91.013003"
+        ],
+        "type": "fuente académica o institucional"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-a389ac84c8d7b658",
+    "identity": "doi:10.1007/s10701-013-9763-z",
+    "source_card_ids": [
+      "alternativos"
+    ],
+    "citation_variants": [
+      {
+        "n": 155,
+        "internal": false,
+        "text": "Roger Penrose, «On the Gravitization of Quantum Mechanics 2: Conformal Cyclic Cosmology», Foundations of Physics (2014): 873–890, https://doi.org/10.1007/s10701-013-9763-z; Oliver Markwell y Chris Stevens, «Toward fixing a framework for conformal cyclic cosmology», General Relativity and Gravitation (2023), https://doi.org/10.1007/s10714-023-03142-3.",
+        "urls": [
+          "https://doi.org/10.1007/s10701-013-9763-z",
+          "https://doi.org/10.1007/s10714-023-03142-3"
+        ],
+        "type": "fuente académica o institucional"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-e9a6fc737c49cb8f",
+    "identity": "doi:10.1038/nature22336",
+    "source_card_ids": [
+      "especie-joven",
+      "AV-F20"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "text": "Jean-Jacques Hublin et al., «New fossils from Jebel Irhoud, Morocco and the pan-African origin of Homo sapiens», Nature 546 (2017): 289–292.",
+        "urls": [
+          "https://doi.org/10.1038/nature22336"
+        ],
+        "type": "referencia externa al libro"
+      },
+      {
+        "n": null,
+        "internal": false,
+        "text": "Hublin et al., New fossils from Jebel Irhoud… (2017)",
+        "urls": [
+          "https://doi.org/10.1038/nature22336"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "Resumen: pertenencia al clado Homo sapiens",
+        "lim": "No fecha el surgimiento de una pregunta, conciencia o transmisión cultural concreta.",
+        "key": "Hub17b",
+        "year": "2017"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-f5cd7fed0473a2bc",
+    "identity": "doi:10.1038/nature22335",
+    "source_card_ids": [
+      "especie-joven",
+      "AV-F20"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "text": "Daniel Richter et al., «The age of the hominin fossils from Jebel Irhoud, Morocco, and the origins of the Middle Stone Age», Nature 546 (2017): 293–296.",
+        "urls": [
+          "https://doi.org/10.1038/nature22335"
+        ],
+        "type": "referencia externa al libro"
+      },
+      {
+        "n": null,
+        "internal": false,
+        "text": "Richter et al., The age of the hominin fossils from Jebel Irhoud… (2017)",
+        "urls": [
+          "https://doi.org/10.1038/nature22335"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "Resumen: 315±34 ka por termoluminiscencia",
+        "lim": "300 ka es un ancla aproximada, no cumpleaños exacto de la especie.",
+        "key": "RICHTER17",
+        "year": "2017"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-d048eb468fe81065",
+    "identity": "citation:4d09503d917d9ded2889723adefd3214d8d0e81c2b6f36aa0ae582400aec3365",
+    "source_card_ids": [
+      "rareza"
+    ],
+    "citation_variants": [
+      {
+        "n": 3,
+        "internal": true,
+        "text": "Documentación del proyecto · Nota científica. Actualización de unificación N01 (15-oct-2026) del expediente: la rareza del instante y la mirada del universo sobre sí mismo son formulaciones narrativas; no constituyen una probabilidad calculada de conciencia, una demostración de que no existan otros observadores, ni un efecto psicológico medido. Los más de 10¹⁰⁰ años pertenecen a escenarios cosmológicos condicionales (véanse III.8–III.9).",
+        "urls": [],
+        "type": "documentación autoral/editorial"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-9d138776a3e21007",
+    "identity": "citation:9f90bb20571c11e801d2c518f1e7d7b231a6d363951cb4ab8c8061915c0498ef",
+    "source_card_ids": [
+      "rareza"
+    ],
+    "citation_variants": [
+      {
+        "n": 4,
+        "internal": true,
+        "text": "Documentación del proyecto · Regla anti-nihilista, canon del proyecto: Texto Canónico v06-2, §0.2.",
+        "urls": [],
+        "type": "documentación autoral/editorial"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-b63486aabe7e0046",
+    "identity": "url:https://pdg.lbl.gov/2025/reviews/rpp2025-rev-bbang-nucleosynthesis.pdf",
+    "source_card_ids": [
+      "AV-F01",
+      "AV-F02",
+      "AV-F03",
+      "AV-F18",
+      "AV-F22"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "text": "Fields, Molaro y Sarkar, Big Bang Nucleosynthesis, PDG 2025",
+        "urls": [
+          "https://pdg.lbl.gov/2025/reviews/rpp2025-rev-bbang-nucleosynthesis.pdf"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "§24.2; §24.3, ec.24.2; §24.4; §24.5; §24.6",
+        "lim": "BBN permite una reconstrucción contrastada alrededor del primer segundo; no demuestra una historia observada hasta Planck.",
+        "key": "PDG25",
+        "year": "2025"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-a4c1ed4c0fd6f529",
+    "identity": "url:https://hoyle.org.uk/A-Singular-Life/Into-the-Spotlight/",
+    "source_card_ids": [
+      "AV-F01"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "text": "Archivo de Fred Hoyle, Into the Public Eye",
+        "urls": [
+          "https://hoyle.org.uk/A-Singular-Life/Into-the-Spotlight/"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "Párrafo emisión28-mar-1949, BBC Third Programme",
+        "lim": "Documenta la emisión; no se ha localizado ni autenticado aquí su grabación original. No atribuir intención burlesca.",
+        "key": "HOYLE",
+        "year": ""
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-8f98f8fc3c08b654",
+    "identity": "url:https://physics.nist.gov/cuu/pdf/all.pdf",
+    "source_card_ids": [
+      "AV-F02"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "text": "NIST, CODATA 2022 recommended values",
+        "urls": [
+          "https://physics.nist.gov/cuu/pdf/all.pdf"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "Fila Planck time: 5,391247(60)×10⁻⁴⁴ s",
+        "lim": "Escala derivada de ħ,G,c; no mínimo temporal experimental.",
+        "key": "NIST22",
+        "year": "2022"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-0f6201e3f4f60af2",
+    "identity": "doi:10.1103/physrevd.74.084003",
+    "source_card_ids": [
+      "AV-F02",
+      "AV-F14",
+      "AV-F16"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "text": "Ashtekar, Pawlowski y Singh, Quantum Nature of the Big Bang: Improved dynamics (2006)",
+        "urls": [
+          "https://doi.org/10.1103/PhysRevD.74.084003"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "Resumen: modelo plano e isótropo con campo escalar sin masa",
+        "lim": "Rebote en modelo de cosmología cuántica de lazos; no observado, ni universal a toda gravedad cuántica.",
+        "key": "Ash06b",
+        "year": "2006"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-1706033061b936a2",
+    "identity": "doi:10.1016/j.physrep.2018.04.005",
+    "source_card_ids": [
+      "AV-F03"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "text": "Pitrou, Coc, Uzan y Vangioni, Precision big bang nucleosynthesis… (2018)",
+        "urls": [
+          "https://doi.org/10.1016/j.physrep.2018.04.005"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "Tabla VIII, p.34 del preprint: D/H teórico 2,460±0,046; observado 2,527±0,030, en 10⁻⁵",
+        "lim": "Diferencia ≈1,22σ combinadas: buena concordancia, no igualdad exacta dentro de 1σ. No mezclar filas de distintos cálculos.",
+        "key": "Pit18b",
+        "year": "2018"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-156383d5355d5ac1",
+    "identity": "doi:10.1038/nature04764",
+    "source_card_ids": [
+      "AV-F04",
+      "AV-F12"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "text": "Allwood et al., Stromatolite reef from the Early Archaean era of Australia (2006)",
+        "urls": [
+          "https://doi.org/10.1038/nature04764"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "Strelley Pool, ≈3430 Ma; resumen en PMID16760969",
+        "lim": "Biogenicidad inferida del conjunto morfológico y ambiental; no fecha del origen de la vida.",
+        "key": "All06",
+        "year": "2006"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-9b1af7994b9b1ea0",
+    "identity": "doi:10.1038/ncomms15263",
+    "source_card_ids": [
+      "AV-F04",
+      "AV-F12"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "text": "Djokic et al., Earliest signs of life on land preserved in ca. 3.5 Ga hot spring deposits (2017)",
+        "urls": [
+          "https://doi.org/10.1038/ncomms15263"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "Resumen: Dresser ≈3480 Ma",
+        "lim": "~3500 Ma es redondeo de evidencias; no límite matemático de ≥3500 exactos.",
+        "key": "Djo17",
+        "year": "2017"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-ebbb017a79abfc43",
+    "identity": "doi:10.1073/pnas.1517557112",
+    "source_card_ids": [
+      "AV-F04",
+      "AV-F12"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "text": "Bell et al., Potentially biogenic carbon preserved in a 4.1 billion-year-old zircon (2015)",
+        "urls": [
+          "https://doi.org/10.1073/pnas.1517557112"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "Resumen y título: potentially biogenic",
+        "lim": "Indicio discutido; no ancla firme de vida a 4100 Ma.",
+        "key": "Bel15",
+        "year": "2015"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-fb46b6214163eaa4",
+    "identity": "doi:10.1126/science.117.3046.528",
+    "source_card_ids": [
+      "AV-F04"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "text": "Stanley L. Miller, A Production of Amino Acids Under Possible Primitive Earth Conditions (1953)",
+        "urls": [
+          "https://doi.org/10.1126/science.117.3046.528"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "Science 117,528–529; descarga eléctrica, gases y aminoácidos",
+        "lim": "Artículo firmado por Miller; Urey fue su supervisor. Mezcla experimental no demostración de la atmósfera global ni creación de vida.",
+        "key": "Mil53",
+        "year": "1953"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-7052926d0fbe39c3",
+    "identity": "doi:10.1038/nature08013",
+    "source_card_ids": [
+      "AV-F04",
+      "AV-F09"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "text": "Powner, Gerland y Sutherland, Synthesis of activated pyrimidine ribonucleotides… (2009)",
+        "urls": [
+          "https://doi.org/10.1038/nature08013"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "Resumen de autores, PMID19444213",
+        "lim": "Ruta química controlada; no formación autónoma de una célula.",
+        "key": "Pow09",
+        "year": "2009"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-63dc98c2c5caae88",
+    "identity": "doi:10.1126/science.1167856",
+    "source_card_ids": [
+      "AV-F04",
+      "AV-F09"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "text": "Lincoln y Joyce, Self-sustained Replication of an RNA Enzyme (2009)",
+        "urls": [
+          "https://doi.org/10.1126/science.1167856"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "Resumen: replicación cruzada de dos enzimas de ARN a partir de cuatro sustratos",
+        "lim": "Sustratos definidos suministrados; no abiogénesis completa.",
+        "key": "Lin09",
+        "year": "2009"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-a57c1157f4e5abed",
+    "identity": "doi:10.1126/science.adt2760",
+    "source_card_ids": [
+      "AV-F04",
+      "AV-F09",
+      "AV-F11"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "text": "Gianni et al., A small polymerase ribozyme that can synthesize itself and its complementary strand (Science 391,1022–1028,2026)",
+        "urls": [
+          "https://doi.org/10.1126/science.adt2760"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "Resumen; Fig.4; Discussion",
+        "lim": "QT45: dos reacciones componentes con bajo rendimiento; no ciclo autónomo sostenido demostrado, ni célula desde química simple.",
+        "key": "Gia26",
+        "year": "2026"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-3ce9c9f6c90067aa",
+    "identity": "doi:10.1016/j.coisb.2026.100588",
+    "source_card_ids": [
+      "AV-F04",
+      "AV-F06",
+      "AV-F10"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "text": "Toward a systems view of life’s origins: Modeling the emergence of complexity across chemical, informational and ecological levels (2026)",
+        "urls": [
+          "https://doi.org/10.1016/j.coisb.2026.100588"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "Current Opinion in Systems Biology44,100588; resumen",
+        "lim": "Marco integrador reciente; no prueba negativa exhaustiva de que ningún laboratorio logre ningún tipo de replicación.",
+        "key": "LIFE26",
+        "year": "2026"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-0794081ae5b7d901",
+    "identity": "doi:10.1051/0004-6361/200811550",
+    "source_card_ids": [
+      "AV-F05"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "text": "Belloche et al., Increased complexity in interstellar chemistry… Sagittarius B2(N) (2009)",
+        "urls": [
+          "https://doi.org/10.1051/0004-6361/200811550"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "Resumen y resultados: formiato de etilo y n-propil cianuro",
+        "lim": "Moléculas orgánicas no son vida; inferencia espectroscópica/modelado.",
+        "key": "Bel09b",
+        "year": "2009"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-fc2adfeb9cb8c38c",
+    "identity": "doi:10.1089/ast.2019.2045",
+    "source_card_ids": [
+      "AV-F06",
+      "AV-F08",
+      "AV-F11"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "text": "Damer y Deamer, The Hot Spring Hypothesis for an Origin of Life (2020; DOI asignado 2019)",
+        "urls": [
+          "https://doi.org/10.1089/ast.2019.2045"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "Resumen: ciclos húmedo-seco y protocélulas",
+        "lim": "Ambientes y pasos plausibles, no hecho histórico confirmado.",
+        "key": "Dam19",
+        "year": "2019"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-c837622fa3e7c545",
+    "identity": "doi:10.1038/nchem.2202",
+    "source_card_ids": [
+      "AV-F06",
+      "AV-F11"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "text": "Patel et al., Common origins of RNA, protein and lipid precursors in a cyanosulfidic protometabolism (2015)",
+        "urls": [
+          "https://doi.org/10.1038/nchem.2202"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "Resumen: precursores de tres clases desde una química común",
+        "lim": "Conexión de rutas, no aparición simultánea demostrada de ARN funcional, metabolismo y membranas.",
+        "key": "Pat15",
+        "year": "2015"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-8d5b696bdfe61f36",
+    "identity": "doi:10.1073/pnas.2002659117",
+    "source_card_ids": [
+      "AV-F07",
+      "AV-F11"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "text": "Hudson et al., CO₂ reduction driven by a pH gradient (2020)",
+        "urls": [
+          "https://doi.org/10.1073/pnas.2002659117"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "Resumen: reducción a formiato con gradiente y barrera Fe(Ni)S",
+        "lim": "Paso químico experimental; no metabolismo completo.",
+        "key": "Hud20",
+        "year": "2020"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-0452e411ece73bf2",
+    "identity": "doi:10.1038/s41586-019-1151-1",
+    "source_card_ids": [
+      "AV-F10",
+      "AV-F11"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "text": "Muchowska et al., Synthesis and breakdown of universal metabolic precursors promoted by iron (2019)",
+        "urls": [
+          "https://doi.org/10.1038/s41586-019-1151-1"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "Resumen: red no enzimática, nueve intermediarios del ciclo de Krebs",
+        "lim": "No afirmar reproducción de un ciclo autónomo completo.",
+        "key": "Muc19b",
+        "year": "2019"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-33bc57855489d2c2",
+    "identity": "doi:10.1038/nature07018",
+    "source_card_ids": [
+      "AV-F10",
+      "AV-F11"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "text": "Mansy et al., Template-directed synthesis of a genetic polymer in a model protocell (2008)",
+        "urls": [
+          "https://doi.org/10.1038/nature07018"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "Resumen PMID18528332; texto PMC2743009",
+        "lim": "Protocélula modelo; membrana y sustratos controlados; no célula viva creada de novo.",
+        "key": "Man08b",
+        "year": "2008"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-f69767f02152304c",
+    "identity": "doi:10.1038/s41559-024-02461-1",
+    "source_card_ids": [
+      "AV-F12"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "text": "Moody et al., The nature of the last universal common ancestor and its impact on the early Earth system (2024)",
+        "urls": [
+          "https://doi.org/10.1038/s41559-024-02461-1"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "Resumen: LUCA≈4,2 Ga, intervalo4,09–4,33",
+        "lim": "Inferencia filogenética dependiente de modelo; LUCA no equivale a primera vida ni fósil datado.",
+        "key": "Moo24e",
+        "year": "2024"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-860353b33b0f8e9c",
+    "identity": "doi:10.1051/0004-6361/201833887",
+    "source_card_ids": [
+      "AV-F13",
+      "AV-F16"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "text": "Planck Collaboration, Planck 2018 results X. Constraints on inflation (2020)",
+        "urls": [
+          "https://doi.org/10.1051/0004-6361/201833887"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "Resumen: perturbaciones y límites a modelos inflacionarios",
+        "lim": "Compatibilidad y restricciones no prueban un origen absoluto ni garantizan una señal tensorial detectable.",
+        "key": "Akr18",
+        "year": "2020"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-3ab35c69eeb12839",
+    "identity": "url:https://www.usap.gov/sciencesupport/scienceplanningsummaries/2026_2027/results.cfm?ID=2937&formAction=detail",
+    "source_card_ids": [
+      "AV-F13"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "text": "USAP, BICEP Array, campaña 2026–2027",
+        "urls": [
+          "https://www.usap.gov/sciencesupport/scienceplanningsummaries/2026_2027/results.cfm?ID=2937&formAction=detail"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "Project A-149-S; operación BICEP3 y receptores Array",
+        "lim": "Estado operativo, no detección de ondas primordiales.",
+        "key": "BK26",
+        "year": "2027"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-4ed79bb7ca085e2e",
+    "identity": "url:https://www.simonsfoundation.org/news/now-fully-online-simons-observatory-begins-probe-of-universes-birth/",
+    "source_card_ids": [
+      "AV-F13"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "text": "Simons Foundation, Now Fully Online, Simons Observatory Begins Probe of Universe’s Birth (22-oct-2026)",
+        "urls": [
+          "https://www.simonsfoundation.org/news/now-fully-online-simons-observatory-begins-probe-of-universes-birth/"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "Anuncio de operación",
+        "lim": "Comienzo/estado de observación, no resultado positivo.",
+        "key": "SO26",
+        "year": "2026"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-5b95316034e5f459",
+    "identity": "url:https://www.usap.gov/sciencesupport/scienceplanningsummaries/2026_2027/results.cfm?ID=605&formAction=detail",
+    "source_card_ids": [
+      "AV-F13"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "text": "USAP, South Pole Telescope Operations and Data Products 2026–2027",
+        "urls": [
+          "https://www.usap.gov/sciencesupport/scienceplanningsummaries/2026_2027/results.cfm?ID=605&formAction=detail"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "Project A-379-S; SPT-3G y análisis conjunto con BICEP",
+        "lim": "Medición de polarización y separación de señales; no detector inequívoco de inflación.",
+        "key": "SPT26",
+        "year": "2027"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-f6eaef9b459bb40a",
+    "identity": "url:https://www.isas.jaxa.jp/en/missions/spacecraft/future/litebird.html",
+    "source_card_ids": [
+      "AV-F13"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "text": "JAXA/ISAS, LiteBIRD",
+        "urls": [
+          "https://www.isas.jaxa.jp/en/missions/spacecraft/future/litebird.html"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "Actualización26-jun-2026: faseA",
+        "lim": "Misión en desarrollo; no está observando desde el espacio.",
+        "key": "LITE26",
+        "year": ""
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-c113f0d94aad451d",
+    "identity": "url:https://cmb-s4.org/",
+    "source_card_ids": [
+      "AV-F13"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "text": "CMB-S4, anuncio institucional de cierre",
+        "urls": [
+          "https://cmb-s4.org/"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "9-jul-2025: terminación del apoyo DOE/NSF y cierre ordenado",
+        "lim": "No conservar «en planificación» como proyecto activo.",
+        "key": "S4",
+        "year": ""
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-d2ac0cb7854c2ce8",
+    "identity": "doi:10.1103/physrevd.23.347",
+    "source_card_ids": [
+      "AV-F13"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "text": "Guth, Inflationary universe: A possible solution to the horizon and flatness problems (1981)",
+        "urls": [
+          "https://doi.org/10.1103/PhysRevD.23.347"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "Phys. Rev. D 23,347; resumen",
+        "lim": "Propuesta histórica; no presentar su realización original como confirmada ni como único modelo actual.",
+        "key": "GUTH81",
+        "year": "1981"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-3e35714977e47cb9",
+    "identity": "doi:10.1016/0370-2693(80)90670-x",
+    "source_card_ids": [
+      "AV-F13"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "text": "Starobinsky, A new type of isotropic cosmological models without singularity (1980)",
+        "urls": [
+          "https://doi.org/10.1016/0370-2693(80)90670-X"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "Physics Letters B 91,99–102; resumen",
+        "lim": "Antecedente teórico, no observación directa de una etapa inflacionaria.",
+        "key": "STAR80",
+        "year": "1980"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-b78142b918beab9a",
+    "identity": "doi:10.1016/0370-2693(82)91219-9",
+    "source_card_ids": [
+      "AV-F13"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "text": "Linde, A new inflationary universe scenario… (1982)",
+        "urls": [
+          "https://doi.org/10.1016/0370-2693(82)91219-9"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "Physics Letters B 108,389–393",
+        "lim": "Se cita como antecedente histórico; no se atribuye aquí un resultado numérico nuevo.",
+        "key": "LINDE82",
+        "year": "1982"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-964495e82b1c9db1",
+    "identity": "doi:10.1088/1751-8113/40/25/s25",
+    "source_card_ids": [
+      "AV-F14"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "text": "Guth, Eternal inflation and its implications (2007)",
+        "urls": [
+          "https://doi.org/10.1088/1751-8113/40/25/S25"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "Resumen: mecanismos, probabilidades y pasado incompleto",
+        "lim": "Eterna hacia el futuro no demuestra eternidad hacia el pasado; no obliga a añadir una cuarta escena.",
+        "key": "Gut07",
+        "year": "2007"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-3d3b9d4216fef6df",
+    "identity": "doi:10.1103/physrevd.28.2960",
+    "source_card_ids": [
+      "AV-F14",
+      "AV-F16"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "text": "Hartle y Hawking, Wave Function of the Universe (1983)",
+        "urls": [
+          "https://doi.org/10.1103/PhysRevD.28.2960"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "Resumen: integral sobre geometrías compactas de signatura positiva",
+        "lim": "Propuesta cuántica de condiciones iniciales; tiempo imaginario no significa transformación observada del tiempo en espacio.",
+        "key": "Har83",
+        "year": "1983"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-a522b740fe974f3d",
+    "identity": "doi:10.1126/science.1070462",
+    "source_card_ids": [
+      "AV-F15",
+      "AV-F16"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "text": "Steinhardt y Turok, A Cyclic Model of the Universe (Science 296,1436–1439,2002)",
+        "urls": [
+          "https://doi.org/10.1126/science.1070462"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "Resumen: expansión y contracción cíclicas",
+        "lim": "Modelo cíclico distinto de CCC; no prueba de ciclos reales.",
+        "key": "Ste01",
+        "year": "2002"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-700da6eb99264e42",
+    "identity": "url:https://supernova.eso.org/exhibition/images/1108_E_CMB_Timeline300_no_WMAP_bearbeitet-final/",
+    "source_card_ids": [
+      "AV-F17"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "text": "NASA/WMAP Science Team, esquema temporal conservado en ESO Supernova como Bell diagram",
+        "urls": [
+          "https://supernova.eso.org/exhibition/images/1108_E_CMB_Timeline300_no_WMAP_bearbeitet-final/"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "Pie y crédito NASA/WMAP Science Team",
+        "lim": "Imagen esquemática histórica hasta el presente; su silueta no es una escala física de tamaño del universo ni una predicción del Big Freeze.",
+        "key": "WMAP",
+        "year": ""
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-e726b2953df48673",
+    "identity": "url:https://drive.google.com/file/d/1rqJQ__gSPR7iEOmPMYqjXa2yPyL5RRJ0/view",
+    "source_card_ids": [
+      "AV-F17",
+      "AV-F20",
+      "AV-F27"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": true,
+        "text": "Claude, RF_r15_WORKING_v03: Kit Revision Interfaz",
+        "urls": [
+          "https://drive.google.com/file/d/1rqJQ__gSPR7iEOmPMYqjXa2yPyL5RRJ0/view"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "RF_r15/albaview.html: LOG_MAX, xLog, radiusFrac, rTicks, gwState y GWOSC",
+        "lim": "Antecedente03-nov, anterior a tabla04-nov; no prueba visual ni funcional de una futura integración.",
+        "key": "KIT",
+        "year": ""
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-30a39a49f9f21f06",
+    "identity": "url:https://docs.google.com/spreadsheets/d/1R66MCVCJMiasUA_F7Nd_wM8pD0T4mE6d36_8-DN0fWM/edit",
+    "source_card_ids": [
+      "AV-F17"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": true,
+        "text": "David / Dramaturgo, tabla de trabajo AlbaView",
+        "urls": [
+          "https://docs.google.com/spreadsheets/d/1R66MCVCJMiasUA_F7Nd_wM8pD0T4mE6d36_8-DN0fWM/edit"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "Guion, columnasF/G/H; Cómo usarla; Formato de puertas",
+        "lim": "Palabra autoral no se convierte en afirmación científica comprobada.",
+        "key": "AUTOR",
+        "year": ""
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-21fddf2d0a59a298",
+    "identity": "url:https://ssd.jpl.nasa.gov/astro_par.html",
+    "source_card_ids": [
+      "AV-F18"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "text": "JPL, Astrodynamic Parameters",
+        "urls": [
+          "https://ssd.jpl.nasa.gov/astro_par.html"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "c=299792458 m/s; au=149597870700 m",
+        "lim": "1 au es una referencia; distancia Tierra-Sol variable.",
+        "key": "JPL",
+        "year": ""
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-bd336adbe4b1d7dc",
+    "identity": "url:https://science.nasa.gov/sun/facts/",
+    "source_card_ids": [
+      "AV-F18"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "text": "NASA, Sun facts",
+        "urls": [
+          "https://science.nasa.gov/sun/facts/"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "Capas interiores y evolución del Sol",
+        "lim": "La analogía estrella/plasma temprano compara opacidad, no iguala temperaturas ni procesos de energía.",
+        "key": "NASA-SUN",
+        "year": ""
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-547a3dc623b5cd2b",
+    "identity": "url:https://www.eso.org/public/videos/sun_interior/",
+    "source_card_ids": [
+      "AV-F18"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "text": "ESO, Video showing the interior of the Sun (9-ago-2018)",
+        "urls": [
+          "https://www.eso.org/public/videos/sun_interior/"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "Ficha audiovisual, duración15s; crédito ESO/M.Kornmesser",
+        "lim": "Animación ilustrativa; no película observada del interior solar. Revisar encaje audiovisual y licencia antes de integrar.",
+        "key": "ESO-SUN",
+        "year": "2018"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-f7b5143458027d2e",
+    "identity": "url:https://arxiv.org/abs/astro-ph/9909275",
+    "source_card_ids": [
+      "AV-F18"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "text": "Seager, Sasselov y Scott, A New Calculation of the Recombination Epoch (1999)",
+        "urls": [
+          "https://arxiv.org/abs/astro-ph/9909275"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "ApJ523,L1–L5; §2.1 y resumen, copia en página de la autora",
+        "lim": "Recombinación gradual; residuo de electrones y cronologías distintas de helio e hidrógeno. No se usa como ajuste numérico vigente de parámetros cosmológicos.",
+        "key": "SEA99",
+        "year": "1999"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-48401d3cdc6dae96",
+    "identity": "url:https://www.esa.int/Science_Exploration/Space_Science/Cosmic_eras",
+    "source_card_ids": [
+      "AV-F18"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "text": "ESA, Cosmic eras",
+        "urls": [
+          "https://www.esa.int/Science_Exploration/Space_Science/Cosmic_eras"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "After 380000 years: recombination; dark ages",
+        "lim": "Cronología divulgativa aproximada; no fecha puntual de transparencia completa.",
+        "key": "ESA-CMB",
+        "year": ""
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-b3ccd8ff672eb460",
+    "identity": "url:https://www.nobelprize.org/prizes/physics/2011/press-release/",
+    "source_card_ids": [
+      "AV-F19"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "text": "Nobel Foundation, The Nobel Prize in Physics 2011, Press release",
+        "urls": [
+          "https://www.nobelprize.org/prizes/physics/2011/press-release/"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "Descubrimiento de 1998; Perlmutter, Schmidt y Riess",
+        "lim": "El reconocimiento histórico no resuelve la naturaleza física de la energía oscura.",
+        "key": "NOBEL11",
+        "year": "2011"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-827d8fc1a9dc2b4a",
+    "identity": "url:https://spacemath.gsfc.nasa.gov/SMBooks/IRGuide.pdf",
+    "source_card_ids": [
+      "AV-F20"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "text": "NASA Space Math, High School Experiments in Infrared Astronomy",
+        "urls": [
+          "https://spacemath.gsfc.nasa.gov/SMBooks/IRGuide.pdf"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "Comparación de tamaños: cabello de 70 µm",
+        "lim": "Grosor variable;70 µm es ejemplo, no constante biológica.",
+        "key": "HAIR",
+        "year": ""
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-c38c6fb1e6e69044",
+    "identity": "url:https://science.nasa.gov/mission/webb/science-overview/science-explainers/what-were-the-first-stars-like/",
+    "source_card_ids": [
+      "AV-F21"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "text": "NASA/Webb, What Were the First Stars Like?",
+        "urls": [
+          "https://science.nasa.gov/mission/webb/science-overview/science-explainers/what-were-the-first-stars-like/"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "Formación estelar, composición y límites de observación",
+        "lim": "Divulgación anterior a candidatos 2026: complementar con Hebe, no usarla sola para una negativa actual absoluta.",
+        "key": "FIRST-STARS",
+        "year": ""
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-a70710ca8bdefe15",
+    "identity": "url:https://arxiv.org/abs/2505.11263",
+    "source_card_ids": [
+      "AV-F21"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "text": "Naidu et al., A Cosmic Miracle: A Remarkably Luminous Galaxy at zspec=14.44 Confirmed with JWST",
+        "urls": [
+          "https://arxiv.org/abs/2505.11263"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "Resumen: z=14,44±0,02, ≈280 Ma; líneas de nitrógeno",
+        "lim": "No estrella individual PopIII identificada; edad depende de cosmología; abundancia N/C inferida por modelo.",
+        "key": "Nai25b",
+        "year": ""
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-84c555430dfbb8a2",
+    "identity": "url:https://science.nasa.gov/missions/webb/nasa-webb-pushes-boundaries-of-observable-universe-closer-to-big-bang/",
+    "source_card_ids": [
+      "AV-F21"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "text": "NASA/Webb, Webb Pushes Boundaries of Observable Universe Closer to Big Bang (28-ene-2026)",
+        "urls": [
+          "https://science.nasa.gov/missions/webb/nasa-webb-pushes-boundaries-of-observable-universe-closer-to-big-bang/"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "MoM-z14, 280 millones de años",
+        "lim": "Fecha de la noticia:28-ene, no asumir30-ene por memoria del expediente.",
+        "key": "WEBB26",
+        "year": "2026"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-3023bb98441499b3",
+    "identity": "url:https://arxiv.org/abs/2603.20362v4",
+    "source_card_ids": [
+      "AV-F21"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "text": "Maiolino et al., The search for Population III… (2026)",
+        "urls": [
+          "https://arxiv.org/abs/2603.20362v4"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "Resumen; v4,6-abr-2026: HeII a z10,6, sin líneas de metales",
+        "lim": "Autores proponen PopIII como explicación; no resolución individual de la primera estrella.",
+        "key": "HEBE26",
+        "year": "2026"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-50844982e3bc9e8b",
+    "identity": "url:https://arxiv.org/abs/2603.20360v2",
+    "source_card_ids": [
+      "AV-F21"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "text": "Übler et al., GA-NIFS and JADES: Confirmation of pristine gas near GN-z11 (2026)",
+        "urls": [
+          "https://arxiv.org/abs/2603.20360v2"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "Resumen; v2,22-jul-2026, aceptado en A&A; gas Z<0,02Zsolar",
+        "lim": "Compatibilidad con PopIII, posiblemente mezclada con PopII; no equivale a metalicidad cero demostrada.",
+        "key": "UBLER26",
+        "year": "2026"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-411df7912cd77418",
+    "identity": "doi:10.1126/science.aau9540",
+    "source_card_ids": [
+      "AV-F21",
+      "AV-F22"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "text": "Jennifer A. Johnson, Populating the periodic table: Nucleosynthesis of the elements (2019)",
+        "urls": [
+          "https://doi.org/10.1126/science.aau9540"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "Resumen: vidas y muertes estelares, supernovas y fusiones de remanentes",
+        "lim": "El origen de los elementos no preserva átomos neutros individuales ni significa que todos se formen solo en núcleos estelares quiescentes.",
+        "key": "Joh19b",
+        "year": "2019"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-118b7ee5a57183ff",
+    "identity": "url:https://edu.rsc.org/download?ac=12776",
+    "source_card_ids": [
+      "AV-F22"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "text": "Royal Society of Chemistry, Body chemicals",
+        "urls": [
+          "https://edu.rsc.org/download?ac=12776"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "Tabla para cuerpo de70kg: H7kg, O43kg, C16kg",
+        "lim": "Composición de referencia; ≈90% no es medición personal ni porcentaje de átomos.",
+        "key": "RSC",
+        "year": ""
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-f2e2fa1eee01d3fe",
+    "identity": "url:https://www.usgs.gov/water-science-school/science/water-you-water-and-human-body",
+    "source_card_ids": [
+      "AV-F22"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "text": "USGS, The Water in You",
+        "urls": [
+          "https://www.usgs.gov/water-science-school/science/water-you-water-and-human-body"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "Adultos: valores típicos alrededor55–60%, variación por composición corporal",
+        "lim": "No universalizar «más de la mitad» a todo visitante.",
+        "key": "USGS-WATER",
+        "year": ""
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-e69c72a5a7d358d9",
+    "identity": "doi:10.1126/science.1226919",
+    "source_card_ids": [
+      "AV-F22"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "text": "Connelly et al., The Absolute Chronology and Thermal Processing of Solids in the Solar Protoplanetary Disk (2012)",
+        "urls": [
+          "https://doi.org/10.1126/science.1226919"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "Resumen: CAI 4567,30 ± 0,16 Ma por U-corrected Pb-Pb; Science 338,651–655",
+        "lim": "No determina qué proporción de átomos corporales preexiste a la Tierra; no se añade una cifra nueva de CAI a la voz.",
+        "key": "CON12",
+        "year": "2012"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-5cc2370172929c89",
+    "identity": "doi:10.1086/375492",
+    "source_card_ids": [
+      "AV-F22"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "text": "Lodders, Solar System Abundances and Condensation Temperatures of the Elements (2003)",
+        "urls": [
+          "https://doi.org/10.1086/375492"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "ApJ591,1220–1247; resumen y fracciones protosolares",
+        "lim": "Distingue abundancias fotosféricas y protosolares; no mide el porcentaje de núcleos corporales formados después de la Tierra.",
+        "key": "LOD03",
+        "year": "2003"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-1d8486a27cb5d674",
+    "identity": "url:https://chandra.si.edu/stellarev/",
+    "source_card_ids": [
+      "AV-F23",
+      "AV-F24"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "text": "Chandra/NASA, Stellar Evolution",
+        "urls": [
+          "https://chandra.si.edu/stellarev/"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "Ramas de remanentes y dependencia de masa inicial",
+        "lim": "Esquema general; no toda estrella de una categoría tiene el mismo destino, ni toda estrella deja remanente.",
+        "key": "STARS",
+        "year": ""
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-06119c86d031f548",
+    "identity": "url:https://www.eso.org/public/news/eso1907/",
+    "source_card_ids": [
+      "AV-F24"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "text": "EHT/ESO, Astronomers Capture First Image of a Black Hole (10-abr-2019)",
+        "urls": [
+          "https://www.eso.org/public/news/eso1907/"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "Imagen M87*, anillo y sombra",
+        "lim": "Reconstrucción de emisión circundante; no imagen del interior ni superficie material del horizonte.",
+        "key": "EHT19",
+        "year": "2019"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-e254b2fc20656204",
+    "identity": "url:https://www.eso.org/public/news/eso2208-eht-mw/",
+    "source_card_ids": [
+      "AV-F24"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "text": "EHT/ESO, Astronomers reveal first image of the black hole at the heart of our galaxy (12-may-2022)",
+        "urls": [
+          "https://www.eso.org/public/news/eso2208-eht-mw/"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "Imagen Sgr A*, anillo y sombra",
+        "lim": "Imagen en radio reconstruida, no fotografía óptica del interior.",
+        "key": "EHT22",
+        "year": "2022"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-88427c86149605e3",
+    "identity": "url:https://cmsexperiment.web.cern.ch/news/how-are-quarks-moving",
+    "source_card_ids": [
+      "AV-F25"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "text": "CMS/CERN, How are the quarks moving?",
+        "urls": [
+          "https://cmsexperiment.web.cern.ch/news/how-are-quarks-moving"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "Descripción de tres quarks de valencia, gluones y pares quark-antiquark",
+        "lim": "El protón no consta solo de tres bolitas; no deducir desintegración como liberación de quarks sueltos.",
+        "key": "PROTON",
+        "year": ""
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-ca9f36c769485966",
+    "identity": "url:https://www-sk.icrr.u-tokyo.ac.jp/en/hk/about/outline/",
+    "source_card_ids": [
+      "AV-F25"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "text": "ICRR/Universidad de Tokio, Hyper-Kamiokande Overview",
+        "urls": [
+          "https://www-sk.icrr.u-tokyo.ac.jp/en/hk/about/outline/"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "Construcción; objetivo de operación 2028",
+        "lim": "Es un calendario previsto, no operación ya iniciada; no usar 2027 como fecha vigente de observación.",
+        "key": "HK26",
+        "year": ""
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-9d522a4f388160aa",
+    "identity": "doi:10.1007/bf02345020",
+    "source_card_ids": [
+      "AV-F26"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "text": "Hawking, Particle creation by black holes (1975)",
+        "urls": [
+          "https://doi.org/10.1007/BF02345020"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "Artículo fundador de radiación; complementado por desarrollo §V de Ada97",
+        "lim": "Predicción semiclásica; ninguna detección astronómica de evaporación se sella aquí.",
+        "key": "Haw75",
+        "year": "1975"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-5cd9446a2b5fdd78",
+    "identity": "doi:10.1038/nphys3863",
+    "source_card_ids": [
+      "AV-F26"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "text": "Steinhauer, Observation of quantum Hawking radiation and its entanglement in an analogue black hole (2016)",
+        "urls": [
+          "https://doi.org/10.1038/nphys3863"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "Nature Physics 12,959–965; resumen",
+        "lim": "Análogo en condensado de Bose–Einstein, no agujero negro gravitatorio observado.",
+        "key": "ANALOGO16",
+        "year": "2016"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-8c2521b9132380ad",
+    "identity": "url:https://www.kva.se/en/news/nobelpriset-i-fysik-2017-2/",
+    "source_card_ids": [
+      "AV-F27"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "text": "Royal Swedish Academy of Sciences, The Nobel Prize in Physics 2017",
+        "urls": [
+          "https://www.kva.se/en/news/nobelpriset-i-fysik-2017-2/"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "3-oct-2017; Weiss, Barish, Thorne y LIGO",
+        "lim": "Historia del reconocimiento; cifras detalladas de la señal se toman del artículo GW150914.",
+        "key": "NOBEL17",
+        "year": "2017"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-f4e921e5ed830979",
+    "identity": "doi:10.1073/pnas.2200539119",
+    "source_card_ids": [
+      "AV-F28"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "text": "Andrei, Ijjas y Steinhardt, Rapidly descending dark energy and the end of cosmic expansion (2022)",
+        "urls": [
+          "https://doi.org/10.1073/pnas.2200539119"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "Ecs.4/6; Fig.4; Results and Discussion",
+        "lim": "Contramodelo de calendario universal: transición a contracción, no fecha establecida de colapso final; compatibilidad declarada con datos de 2022, no revalidación global 2026.",
+        "key": "And22d",
+        "year": "2022"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-389c6a5e4bfe8f09",
+    "identity": "url:https://arxiv.org/abs/2503.14738v3",
+    "source_card_ids": [
+      "AV-F28",
+      "AV-F29"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "text": "DESI Collaboration, DESI DR2 Results II… (2025)",
+        "urls": [
+          "https://arxiv.org/abs/2503.14738v3"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "Resumen; v3,9-oct-2025; DOI10.1103/tr6y-kpc6",
+        "lim": "Preferencias dependientes de combinación y parametrización CPL; no probabilidad de destino.",
+        "key": "Kar25d",
+        "year": "2025"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-49d99fef1289e99b",
+    "identity": "url:https://arxiv.org/abs/2404.03002v3",
+    "source_card_ids": [
+      "AV-F29"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "text": "DESI Collaboration, DESI 2024 VI: Cosmological Constraints from the Measurements of Baryon Acoustic Oscillations",
+        "urls": [
+          "https://arxiv.org/abs/2404.03002v3"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "Resumen; v3,4-nov-2024; JCAP02(2025)021; DOI10.1088/1475-7516/2025/02/021",
+        "lim": "DR1: 2,6σ BAO+CMB; 2,5/3,5/3,9σ con las tres muestras SN. No atribuirle los valores DR2 de 2025.",
+        "key": "DESI24",
+        "year": "2024"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-89e1bda560f20331",
+    "identity": "url:https://arxiv.org/abs/2607.27410v3",
+    "source_card_ids": [
+      "AV-F29"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "text": "DESI Collaboration, DESI DR2 Results IV… (2026)",
+        "urls": [
+          "https://arxiv.org/abs/2607.27410v3"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "Resumen; tablaIV y conclusión de la versión registrada en expediente; anuncio30-jul-2026",
+        "lim": "No promediar análisis con datos compartidos; nueva comprobación no recertifica íntegramente la tabla del preprint.",
+        "key": "DESI26",
+        "year": "2026"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-080a3ee46e046dc9",
+    "identity": "url:https://www.desi.lbl.gov/2026/07/30/new-desi-dr2-lyman-alpha-results-shed-light-on-dark-energy/",
+    "source_card_ids": [
+      "AV-F29"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "text": "DESI, New DR2 Lyman-alpha Results Shed Light on Dark Energy (30-jul-2026)",
+        "urls": [
+          "https://www.desi.lbl.gov/2026/07/30/new-desi-dr2-lyman-alpha-results-shed-light-on-dark-energy/"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "Sección Results: nueva medida más cercana aΛCDM",
+        "lim": "No significa confirmación ni refutación concluyente de energía oscura dinámica.",
+        "key": "DESI26-NEWS",
+        "year": "2026"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-b190132a3aef489e",
+    "identity": "doi:10.1103/physrevd.97.056006",
+    "source_card_ids": [
+      "AV-F30"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "text": "Andreassen, Frost y Schwartz, Scale-invariant instantons and the complete lifetime of the standard model (2018)",
+        "urls": [
+          "https://doi.org/10.1103/PhysRevD.97.056006"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "Resumen: estimación central~10¹³⁹ años y enorme sensibilidad paramétrica",
+        "lim": "Estimación probabilística condicionada, no garantía de ausencia de decaimiento durante todo intervalo menor.",
+        "key": "And17",
+        "year": "2018"
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  },
+  {
+    "reference_id": "RF-REF-a16d1b4b72c17087",
+    "identity": "url:https://www.jacow.org/e06/PAPERS/THESPA01.PDF",
+    "source_card_ids": [
+      "AV-F31"
+    ],
+    "citation_variants": [
+      {
+        "n": null,
+        "internal": false,
+        "text": "Penrose, Before the Big Bang… EPAC2006",
+        "urls": [
+          "https://www.jacow.org/e06/PAPERS/THESPA01.PDF"
+        ],
+        "type": "fuente académica o institucional",
+        "loc": "pp.2759–2762, razonamiento conforme y presupuestos físicos",
+        "lim": "CCC requiere supuestos adicionales sobre masa y continuación conforme; no se deduce solo de no tener observadores o instrumentos.",
+        "key": "Pen06",
+        "year": ""
+      }
+    ],
+    "original_document_backup": "NOT_COPIED"
+  }
+]

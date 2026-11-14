@@ -1,0 +1,224 @@
+{
+  "section": {
+    "id": "C06",
+    "title": "La luz que quedó libre",
+    "title_en": "Light travels freely",
+    "slug": "la-luz"
+  },
+  "experience_cards": {
+    "AV-F18": {
+      "title": "Cuando la luz pudo viajar lejos",
+      "kind": "Ficha de AlbaView",
+      "claim": "En el universo temprano, los fotones encontraban electrones libres con mucha frecuencia. La radiación se dispersaba y no podía recorrer grandes distancias sin interactuar. La expansión enfrió el plasma y, hacia los 380.000 años en el modelo cosmológico de referencia, se formó la mayor parte del hidrógeno neutro. No ocurrió en un instante exacto ni eliminó todos los electrones libres.",
+      "aporta": "La luz de aquella etapa sigue llegando. La expansión ha alargado sus ondas hasta el intervalo de las microondas. Es el fondo cósmico de microondas: una radiación de unos 2,7 kelvin, con pequeñas variaciones. Nos permite estudiar la época en que el universo se volvió transparente; no muestra un borde espacial ni establece el límite de toda investigación sobre épocas anteriores.\n\nUna estrella ofrece una analogía limitada del transporte en materia opaca: la energía de su interior interactúa muchas veces antes de salir. El vídeo «Video showing the interior of the Sun», de ESO/M. Kornmesser, es una animación explicativa de 15 segundos, no una filmación del interior solar. La ficha oficial está enlazada; su selección audiovisual final requiere revisar el propio clip.\n\nUna vez fuera de la superficie del Sol, la luz tarda aproximadamente ocho minutos y veinte segundos en recorrer una unidad astronómica. Ese viaje no debe confundirse con el transporte de energía dentro de la estrella.",
+      "limites": "",
+      "paras": [
+        "En el universo temprano, los fotones encontraban electrones libres con mucha frecuencia. La radiación se dispersaba y no podía recorrer grandes distancias sin interactuar. La expansión enfrió el plasma y, hacia los 380.000 años en el modelo cosmológico de referencia, se formó la mayor parte del hidrógeno neutro. No ocurrió en un instante exacto ni eliminó todos los electrones libres.",
+        "La luz de aquella etapa sigue llegando. La expansión ha alargado sus ondas hasta el intervalo de las microondas. Es el fondo cósmico de microondas: una radiación de unos 2,7 kelvin, con pequeñas variaciones. Nos permite estudiar la época en que el universo se volvió transparente; no muestra un borde espacial ni establece el límite de toda investigación sobre épocas anteriores.",
+        "Una estrella ofrece una analogía limitada del transporte en materia opaca: la energía de su interior interactúa muchas veces antes de salir. El vídeo «Video showing the interior of the Sun», de ESO/M. Kornmesser, es una animación explicativa de 15 segundos, no una filmación del interior solar. La ficha oficial está enlazada; su selección audiovisual final requiere revisar el propio clip.",
+        "Una vez fuera de la superficie del Sol, la luz tarda aproximadamente ocho minutos y veinte segundos en recorrer una unidad astronómica. Ese viaje no debe confundirse con el transporte de energía dentro de la estrella."
+      ],
+      "fecha": "1999 · 2018 · 2020 · 2025",
+      "fig": null,
+      "sec": null,
+      "refs": [
+        {
+          "n": null,
+          "internal": false,
+          "text": "Planck Collaboration, Planck 2018 results VI. Cosmological parameters (A&A 641, A6, 2020)",
+          "urls": [
+            "https://doi.org/10.1051/0004-6361/201833910"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "Resumen; resultados base ΛCDM: H₀=67,4±0,5 km/s/Mpc; Ωm=0,315±0,007; Ωbh²≈0,0224",
+          "lim": "Inferencia dependiente de ΛCDM; no observación directa de la edad ni de la sustancia de la energía oscura.",
+          "key": "Agh18",
+          "year": "2020"
+        },
+        {
+          "n": null,
+          "internal": false,
+          "text": "Fields, Molaro y Sarkar, Big Bang Nucleosynthesis, PDG 2025",
+          "urls": [
+            "https://pdg.lbl.gov/2025/reviews/rpp2025-rev-bbang-nucleosynthesis.pdf"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "§24.2; §24.3, ec.24.2; §24.4; §24.5; §24.6",
+          "lim": "BBN permite una reconstrucción contrastada alrededor del primer segundo; no demuestra una historia observada hasta Planck.",
+          "key": "PDG25",
+          "year": "2025"
+        },
+        {
+          "n": null,
+          "internal": false,
+          "text": "JPL, Astrodynamic Parameters",
+          "urls": [
+            "https://ssd.jpl.nasa.gov/astro_par.html"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "c=299792458 m/s; au=149597870700 m",
+          "lim": "1 au es una referencia; distancia Tierra-Sol variable.",
+          "key": "JPL",
+          "year": ""
+        },
+        {
+          "n": null,
+          "internal": false,
+          "text": "NASA, Sun facts",
+          "urls": [
+            "https://science.nasa.gov/sun/facts/"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "Capas interiores y evolución del Sol",
+          "lim": "La analogía estrella/plasma temprano compara opacidad, no iguala temperaturas ni procesos de energía.",
+          "key": "NASA-SUN",
+          "year": ""
+        },
+        {
+          "n": null,
+          "internal": false,
+          "text": "ESO, Video showing the interior of the Sun (9-ago-2018)",
+          "urls": [
+            "https://www.eso.org/public/videos/sun_interior/"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "Ficha audiovisual, duración15s; crédito ESO/M.Kornmesser",
+          "lim": "Animación ilustrativa; no película observada del interior solar. Revisar encaje audiovisual y licencia antes de integrar.",
+          "key": "ESO-SUN",
+          "year": "2018"
+        },
+        {
+          "n": null,
+          "internal": false,
+          "text": "Seager, Sasselov y Scott, A New Calculation of the Recombination Epoch (1999)",
+          "urls": [
+            "https://arxiv.org/abs/astro-ph/9909275"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "ApJ523,L1–L5; §2.1 y resumen, copia en página de la autora",
+          "lim": "Recombinación gradual; residuo de electrones y cronologías distintas de helio e hidrógeno. No se usa como ajuste numérico vigente de parámetros cosmológicos.",
+          "key": "SEA99",
+          "year": "1999"
+        },
+        {
+          "n": null,
+          "internal": false,
+          "text": "ESA, Cosmic eras",
+          "urls": [
+            "https://www.esa.int/Science_Exploration/Space_Science/Cosmic_eras"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "After 380000 years: recombination; dark ages",
+          "lim": "Cronología divulgativa aproximada; no fecha puntual de transparencia completa.",
+          "key": "ESA-CMB",
+          "year": ""
+        }
+      ],
+      "origin": "dictamen AlbaView 1oAUCFEWu_hxHl1dlfzrP48tbD01BXujS §4 · F18"
+    },
+    "cmb": {
+      "title": "La luz que quedó libre",
+      "kind": "Observación e inferencia cosmológica",
+      "claim": "Unos 380.000 años después del Big Bang, el universo se volvió mucho más transparente. La radiación ya existente pudo recorrer grandes distancias con poca dispersión; hoy la observamos como microondas.",
+      "aporta": "Al ajustar el modelo a sus observaciones, Planck infiere z* = 1089,92 ± 0,25 para la última dispersión. No es el nacimiento de la luz ni una pared física.",
+      "limites": "La radiación del CMB quedó en gran medida desacoplada de la materia al volverse el universo transparente. No fue la primera luz ni una pared espacial. 380.000 años es el redondeo que usa la propia fuente; integrando el modelo sale unos 371.000, valor derivado. La transparencia no fue un instante: la superficie tiene espesor (unos 115.000 años, WMAP).",
+      "fecha": "Planck Collaboration, 2018 (publ. 2020)",
+      "fig": null,
+      "sec": "III.4",
+      "refs": [
+        {
+          "n": 33,
+          "internal": false,
+          "text": "Planck 2018 VI (z* = 1089,92 ± 0,25).",
+          "urls": [
+            "https://doi.org/10.1051/0004-6361/201833910"
+          ],
+          "type": "fuente académica o institucional"
+        },
+        {
+          "n": 34,
+          "internal": false,
+          "text": "Planck 2018 VI (edad en z*: redondeo de la fuente ~380.000 años). Nota científica. El valor integrado ~371.000 años es derivado y declarado: Planck no publica incertidumbre separada para esa edad; la propagación, del orden de 4.000–5.000 años, es estimación.",
+          "urls": [
+            "https://doi.org/10.1051/0004-6361/201833910"
+          ],
+          "type": "fuente académica o institucional"
+        }
+      ]
+    },
+    "cmb-temperatura": {
+      "title": "Cerca de tres mil kelvin",
+      "kind": "Cálculo derivado",
+      "claim": "Cuando la luz se liberó, el universo estaba a unos 3.000 kelvin.",
+      "aporta": "Se obtiene multiplicando la temperatura actual del fondo de microondas, 2,72548 ± 0,00057 K, por (1 + z*): unos 2.973 K.",
+      "limites": "Temperatura aproximada de recombinación: 3000 K, derivada de T₀(1+z*) en el modelo. No 3000 °C. Es un valor derivado, no una medición directa de entonces. Su margen (±0,9 K) supone que los errores de las dos medidas son independientes.",
+      "fecha": "Fixsen, 2009 · Planck, 2018",
+      "fig": null,
+      "sec": "III.4",
+      "refs": [
+        {
+          "n": 35,
+          "internal": false,
+          "text": "D. J. Fixsen, «The Temperature of the Cosmic Microwave Background», The Astrophysical Journal 707 (2009): 916–920, https://doi.org/10.1088/0004-637X/707/2/916. Valor T₀ = 2,72548 ± 0,00057 K cotejado en la tabla 2, p. 5 del manuscrito. La propagación ±0,9 K para T(z ) presupone independencia de los errores de T₀ y z .",
+          "urls": [
+            "https://doi.org/10.1088/0004-637X/707/2/916"
+          ],
+          "type": "fuente académica o institucional"
+        },
+        {
+          "n": 33,
+          "internal": false,
+          "text": "Planck 2018 VI (z* = 1089,92 ± 0,25).",
+          "urls": [
+            "https://doi.org/10.1051/0004-6361/201833910"
+          ],
+          "type": "fuente académica o institucional"
+        }
+      ]
+    }
+  },
+  "book_source_apparatus": [
+    {
+      "row_id": "C06.say.principio-universo-era",
+      "book_locator": "AV-A-173",
+      "section": "06",
+      "section_title": "La luz que quedó libre",
+      "recorded_state": "ACTIVA",
+      "source_apparatus": {
+        "Verificaciones AlbaView (estado · qué verificar · fuente concreta vía Undermind · veredicto)": "PENDIENTE · PRIORITARIO (indicación de David: todo con fuentes exactas) · Verificar y citar fuente concreta para cada afirmación: (1) antes de la recombinación el universo era un plasma caliente y opaco, con electrones libres que dispersaban la luz (dispersión de Thomson); referencia de partida: Wikipedia, «Recombination (cosmology)», https://www.wikipedia.org/wiki/Recombination_(cosmology); sustituir por fuente primaria o de agencia (NASA/ESA, p. ej., páginas de WMAP o Planck sobre la superficie de última dispersión). (2) Analogía con el interior de una estrella: Sean Carroll, Cosmology Primer, «much like conditions at the center of a star» (https://preposterousuniverse.com/cosmologyprimer/early.html); The Physics Mill, «The Universe Is an Inside-Out Star», 2015 (https://www.thephysicsmill.com/2015/02/14/universe-inside-star/). (3) Límite de la analogía: la temperatura varió (en los primeros minutos, mayor que el centro de una estrella; al final de esta etapa, ≈ 3.000–3.500 K, menor que la superficie del Sol); la frase compara solo la luz atrapada. (4) En el interior del Sol la luz tampoco viaja en línea recta: los fotones tardan decenas de miles de años o más en salir de la zona radiativa (camino aleatorio); citar fuente (p. ej., NASA). · PEDIDO DE DAVID (04-nov): para la tarjeta Fuentes, buscar además un video explicativo fiable de cómo es una estrella por dentro (núcleo, zona radiativa, zona convectiva, fotosfera) que amplíe la información; preferir NASA, ESA u otra institución científica, con enlace verificado. · Fuente: — · Veredicto: —"
+      }
+    },
+    {
+      "row_id": "C06.say.pasaron-trescientos-ochenta",
+      "book_locator": "AV-A-175",
+      "section": "06",
+      "section_title": "La luz que quedó libre",
+      "recorded_state": "ACTIVA",
+      "source_apparatus": {
+        "Verificaciones AlbaView (estado · qué verificar · fuente concreta vía Undermind · veredicto)": "PENDIENTE · PRIORITARIO (indicación de David: todo con fuentes exactas) · Verificar y citar fuente concreta: (1) recombinación y desacoplamiento ≈ 380.000 años después del Big Bang, a ≈ 3.000 K (p. ej., Planck Collaboration 2018; páginas de WMAP/NASA); (2) enfriamiento por la expansión; (3) formación de átomos neutros, sobre todo hidrógeno y helio; (4) paso a un universo transparente de forma gradual, no instantánea. · Fuente: — · Veredicto: —"
+      }
+    },
+    {
+      "row_id": "C06.say.luz-lleva-viajando",
+      "book_locator": "AV-A-177",
+      "section": "06",
+      "section_title": "La luz que quedó libre",
+      "recorded_state": "ACTIVA",
+      "source_apparatus": {
+        "Verificaciones AlbaView (estado · qué verificar · fuente concreta vía Undermind · veredicto)": "PENDIENTE · PRIORITARIO (indicación de David: todo con fuentes exactas) · Verificar y citar fuente concreta: (1) corrimiento al rojo cosmológico del fondo de radiación (factor ≈ 1.100), hoy en microondas a ≈ 2,7 K (p. ej., Planck 2018; NASA/WMAP); (2) que es la luz más antigua observable y no un borde del universo; (3) que las microondas no son visibles para el ojo humano. · Fuente: — · Veredicto: —"
+      }
+    }
+  ],
+  "book_rows": [
+    "C06.show.luz",
+    "C06.cue.clear",
+    "C06.cue.cmb-fog",
+    "C06.say.principio-universo-era",
+    "C06.cue.cmb-clear",
+    "C06.say.pasaron-trescientos-ochenta",
+    "C06.cue.cmb-travel",
+    "C06.say.luz-lleva-viajando",
+    "C06.recap.primera-luz-salio",
+    "C06.act.busca-primeras-estrellas"
+  ]
+}

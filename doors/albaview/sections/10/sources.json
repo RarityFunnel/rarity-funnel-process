@@ -1,0 +1,545 @@
+{
+  "section": {
+    "id": "C10",
+    "title": "Los agujeros negros",
+    "title_en": "Black holes",
+    "slug": "agujeros-negros"
+  },
+  "experience_cards": {
+    "AV-F23": {
+      "title": "Calcular un futuro no es observarlo",
+      "kind": "Ficha de AlbaView",
+      "claim": "El pasado del recorrido se reconstruye con luz, ondas gravitacionales, rocas, experimentos y modelos. El futuro se calcula prolongando leyes y condiciones, o ensayando cómo cambiaría la historia bajo supuestos diferentes. Las observaciones actuales pueden limitar esos supuestos; no muestran el desenlace futuro.",
+      "aporta": "El mapa de referencia prolonga una expansión compatible con energía oscura constante. A medida que disminuye la formación estelar, las estrellas existentes agotan su combustible. Algunas dejan enanas blancas, que se enfrían; otras producen remanentes más compactos. Los tiempos dependen de la masa y del proceso. No hay un interruptor que apague todas las estrellas a la vez.\n\nLas eras de Adams y Laughlin ordenan procesos por potencias de diez. Su rama más remota incorpora hipótesis adicionales, como la desintegración del protón y la evaporación de agujeros negros. Si cambia uno de esos supuestos, cambia el mapa. La era oscura no es una nada absoluta: contempla materia muy dispersa y radiación, sin una fecha de apagado total.",
+      "limites": "",
+      "paras": [
+        "El pasado del recorrido se reconstruye con luz, ondas gravitacionales, rocas, experimentos y modelos. El futuro se calcula prolongando leyes y condiciones, o ensayando cómo cambiaría la historia bajo supuestos diferentes. Las observaciones actuales pueden limitar esos supuestos; no muestran el desenlace futuro.",
+        "El mapa de referencia prolonga una expansión compatible con energía oscura constante. A medida que disminuye la formación estelar, las estrellas existentes agotan su combustible. Algunas dejan enanas blancas, que se enfrían; otras producen remanentes más compactos. Los tiempos dependen de la masa y del proceso. No hay un interruptor que apague todas las estrellas a la vez.",
+        "Las eras de Adams y Laughlin ordenan procesos por potencias de diez. Su rama más remota incorpora hipótesis adicionales, como la desintegración del protón y la evaporación de agujeros negros. Si cambia uno de esos supuestos, cambia el mapa. La era oscura no es una nada absoluta: contempla materia muy dispersa y radiación, sin una fecha de apagado total."
+      ],
+      "fecha": "1997 · 2020",
+      "fig": null,
+      "sec": null,
+      "refs": [
+        {
+          "n": null,
+          "internal": false,
+          "text": "Adams y Laughlin, A dying universe: the long-term fate and evolution of astrophysical objects (1997)",
+          "urls": [
+            "https://doi.org/10.1103/RevModPhys.69.337"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "§I ec.1.1; §II.D ec.2.18; §III/IV supuestos; §V evaporación",
+          "lim": "Modelo condicional; formación residual, decaimiento del protón y escala de masa importan. 10¹⁴ y 10¹⁰⁰ no son fechas finales observadas.",
+          "key": "Ada97",
+          "year": "1997"
+        },
+        {
+          "n": null,
+          "internal": false,
+          "text": "Planck Collaboration, Planck 2018 results VI. Cosmological parameters (A&A 641, A6, 2020)",
+          "urls": [
+            "https://doi.org/10.1051/0004-6361/201833910"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "Resumen; resultados base ΛCDM: H₀=67,4±0,5 km/s/Mpc; Ωm=0,315±0,007; Ωbh²≈0,0224",
+          "lim": "Inferencia dependiente de ΛCDM; no observación directa de la edad ni de la sustancia de la energía oscura.",
+          "key": "Agh18",
+          "year": "2020"
+        },
+        {
+          "n": null,
+          "internal": false,
+          "text": "Chandra/NASA, Stellar Evolution",
+          "urls": [
+            "https://chandra.si.edu/stellarev/"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "Ramas de remanentes y dependencia de masa inicial",
+          "lim": "Esquema general; no toda estrella de una categoría tiene el mismo destino, ni toda estrella deja remanente.",
+          "key": "STARS",
+          "year": ""
+        }
+      ],
+      "origin": "dictamen AlbaView 1oAUCFEWu_hxHl1dlfzrP48tbD01BXujS §4 · F23"
+    },
+    "AV-F25": {
+      "title": "El protón y una desintegración todavía no observada",
+      "kind": "Ficha de AlbaView",
+      "claim": "El protón es un objeto cuántico compuesto. Tiene tres quarks de valencia —dos de tipo up y uno down—, además de gluones y pares quark-antiquark. Dibujarlo como tres piezas ayuda a reconocer su composición, pero no representa tres bolitas que puedan salir sueltas: la interacción fuerte confina los quarks.",
+      "aporta": "Algunas teorías de gran unificación predicen procesos que transformarían un protón en otras partículas. No todas predicen los mismos canales ni los mismos tiempos. No se ha confirmado una desintegración del protón. Super-Kamiokande publicó en 2020 límites inferiores de vida media parcial de 2,4 × 10³⁴ años para p → e⁺π⁰ y 1,6 × 10³⁴ años para p → μ⁺π⁰, al 90 % de confianza.\n\nEsos límites se obtienen vigilando muchísimos protones y buscando sucesos característicos. No significan que cada protón tenga garantizado un tiempo mínimo de espera. Hyper-Kamiokande está en construcción; la planificación oficial cotejada apunta al inicio de operación en 2028, no a una observación ya realizada.\n\nSi el protón decae, la materia de muchos remanentes acabaría transformándose. Si es estable, esa parte del futuro sería distinta. La campana mantiene visible esta condición.",
+      "limites": "",
+      "paras": [
+        "El protón es un objeto cuántico compuesto. Tiene tres quarks de valencia —dos de tipo up y uno down—, además de gluones y pares quark-antiquark. Dibujarlo como tres piezas ayuda a reconocer su composición, pero no representa tres bolitas que puedan salir sueltas: la interacción fuerte confina los quarks.",
+        "Algunas teorías de gran unificación predicen procesos que transformarían un protón en otras partículas. No todas predicen los mismos canales ni los mismos tiempos. No se ha confirmado una desintegración del protón. Super-Kamiokande publicó en 2020 límites inferiores de vida media parcial de 2,4 × 10³⁴ años para p → e⁺π⁰ y 1,6 × 10³⁴ años para p → μ⁺π⁰, al 90 % de confianza.",
+        "Esos límites se obtienen vigilando muchísimos protones y buscando sucesos característicos. No significan que cada protón tenga garantizado un tiempo mínimo de espera. Hyper-Kamiokande está en construcción; la planificación oficial cotejada apunta al inicio de operación en 2028, no a una observación ya realizada.",
+        "Si el protón decae, la materia de muchos remanentes acabaría transformándose. Si es estable, esa parte del futuro sería distinta. La campana mantiene visible esta condición."
+      ],
+      "fecha": "1997 · 2020",
+      "fig": null,
+      "sec": null,
+      "refs": [
+        {
+          "n": null,
+          "internal": false,
+          "text": "CMS/CERN, How are the quarks moving?",
+          "urls": [
+            "https://cmsexperiment.web.cern.ch/news/how-are-quarks-moving"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "Descripción de tres quarks de valencia, gluones y pares quark-antiquark",
+          "lim": "El protón no consta solo de tres bolitas; no deducir desintegración como liberación de quarks sueltos.",
+          "key": "PROTON",
+          "year": ""
+        },
+        {
+          "n": null,
+          "internal": false,
+          "text": "Takenaka et al., Search for proton decay via p→e⁺π⁰ and p→μ⁺π⁰… (2020)",
+          "urls": [
+            "https://doi.org/10.1103/PhysRevD.102.112011"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "Resumen: τ/B>2,4×10³⁴ y>1,6×10³⁴ años,90%CL",
+          "lim": "Límites inferiores de vida media parcial por canal; no tiempo mínimo garantizado de cada protón.",
+          "key": "Tak20c",
+          "year": "2020"
+        },
+        {
+          "n": null,
+          "internal": false,
+          "text": "ICRR/Universidad de Tokio, Hyper-Kamiokande Overview",
+          "urls": [
+            "https://www-sk.icrr.u-tokyo.ac.jp/en/hk/about/outline/"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "Construcción; objetivo de operación 2028",
+          "lim": "Es un calendario previsto, no operación ya iniciada; no usar 2027 como fecha vigente de observación.",
+          "key": "HK26",
+          "year": ""
+        },
+        {
+          "n": null,
+          "internal": false,
+          "text": "Adams y Laughlin, A dying universe: the long-term fate and evolution of astrophysical objects (1997)",
+          "urls": [
+            "https://doi.org/10.1103/RevModPhys.69.337"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "§I ec.1.1; §II.D ec.2.18; §III/IV supuestos; §V evaporación",
+          "lim": "Modelo condicional; formación residual, decaimiento del protón y escala de masa importan. 10¹⁴ y 10¹⁰⁰ no son fechas finales observadas.",
+          "key": "Ada97",
+          "year": "1997"
+        }
+      ],
+      "origin": "dictamen AlbaView 1oAUCFEWu_hxHl1dlfzrP48tbD01BXujS §4 · F25"
+    },
+    "era-agujeros": {
+      "title": "La era de los agujeros negros",
+      "kind": "Modelo",
+      "claim": "En la rama que supone decaimiento del protón y evaporación de Hawking, los agujeros negros llegan a dominar los restos astrofísicos, aproximadamente entre 10³⁸ y 10¹⁰⁰ años. También hay partículas y radiación.",
+      "aporta": "En el escenario de Adams y Laughlin, los de masa estelar se evaporan antes que los más masivos. Los tiempos dependen de la masa y de los supuestos del modelo.",
+      "limites": "Dominio condicionado de agujeros negros entre remanentes, con partículas/radiación también presentes; no exclusivamente agujeros negros. La era existe, tal como está dibujada, solo si la anterior terminó como supone la rama canónica. 10¹⁰⁰ es un orden de magnitud, no una pared. Ilustración 13: esquema de un agujero negro con material alrededor. La luz procede de su entorno; desde dentro del horizonte no puede escapar.",
+      "fecha": "Adams y Laughlin, 1997",
+      "fig": null,
+      "sec": "III.8",
+      "refs": [
+        {
+          "n": 64,
+          "internal": false,
+          "text": "Adams y Laughlin, «A dying universe» (Era de Agujeros Negros, 38 < η < 100; condicional a J5, estatuto visible).",
+          "urls": [
+            "https://doi.org/10.1103/RevModPhys.69.337"
+          ],
+          "type": "fuente académica o institucional"
+        },
+        {
+          "n": 66,
+          "internal": false,
+          "text": "Adams y Laughlin, «A dying universe» (tiempos por masa; relación η_BH ≈ 83 + 3·log₁₀(M/10⁶ M☉)).",
+          "urls": [
+            "https://doi.org/10.1103/RevModPhys.69.337"
+          ],
+          "type": "fuente académica o institucional"
+        },
+        {
+          "n": null,
+          "internal": false,
+          "text": "John Wheeler, testimonio sobre el uso del nombre en 1967; grabado en 1996. Conservar popularizó, no prioridad absoluta.",
+          "urls": [
+            "https://www.webofstories.com/play/john.wheeler/83"
+          ],
+          "type": "atribución histórica documentada"
+        }
+      ]
+    },
+    "AV-F26": {
+      "title": "La evaporación de un agujero negro",
+      "kind": "Ficha de AlbaView",
+      "claim": "Hawking calculó que los efectos cuánticos en un espacio-tiempo con horizonte producen radiación. Un agujero negro que pierde más energía de la que recibe reduce su masa. Es una predicción semiclasica; no se ha confirmado observacionalmente la evaporación de un agujero negro astronómico.",
+      "aporta": "En el modelo ideal de un agujero negro sin giro ni carga, aislado y sin aporte de materia, la duración característica de la evaporación crece con el cubo de su masa. Duplicar la masa multiplica aproximadamente por ocho esa duración. La acreción, el entorno, el giro y las partículas que pueden emitirse modifican la evolución.\n\nLa cifra 10¹⁰⁰ años sirve en este recorrido como horizonte de un escenario de futuro remoto. No es una edad medida de los agujeros negros más grandes. Con la fórmula ideal de Schwarzschild, un agujero negro de 10¹⁰ masas solares da aproximadamente 2,1 × 10⁹⁷ años; no debe asociarse esa masa a 10¹⁰⁰ sin cambiar los supuestos.\n\nTambién se estudian análogos de laboratorio. Steinhauer observó en 2016 correlaciones de radiación análoga en un condensado de Bose–Einstein. Allí el horizonte se refiere a propagación de excitaciones en un medio: no se creó un agujero negro gravitatorio ni se observó evaporación astronómica. Esa evidencia no elimina la reserva del mapa.",
+      "limites": "",
+      "paras": [
+        "Hawking calculó que los efectos cuánticos en un espacio-tiempo con horizonte producen radiación. Un agujero negro que pierde más energía de la que recibe reduce su masa. Es una predicción semiclasica; no se ha confirmado observacionalmente la evaporación de un agujero negro astronómico.",
+        "En el modelo ideal de un agujero negro sin giro ni carga, aislado y sin aporte de materia, la duración característica de la evaporación crece con el cubo de su masa. Duplicar la masa multiplica aproximadamente por ocho esa duración. La acreción, el entorno, el giro y las partículas que pueden emitirse modifican la evolución.",
+        "La cifra 10¹⁰⁰ años sirve en este recorrido como horizonte de un escenario de futuro remoto. No es una edad medida de los agujeros negros más grandes. Con la fórmula ideal de Schwarzschild, un agujero negro de 10¹⁰ masas solares da aproximadamente 2,1 × 10⁹⁷ años; no debe asociarse esa masa a 10¹⁰⁰ sin cambiar los supuestos.",
+        "También se estudian análogos de laboratorio. Steinhauer observó en 2016 correlaciones de radiación análoga en un condensado de Bose–Einstein. Allí el horizonte se refiere a propagación de excitaciones en un medio: no se creó un agujero negro gravitatorio ni se observó evaporación astronómica. Esa evidencia no elimina la reserva del mapa."
+      ],
+      "fecha": "1975 · 1997 · 2016",
+      "fig": null,
+      "sec": null,
+      "refs": [
+        {
+          "n": null,
+          "internal": false,
+          "text": "Hawking, Particle creation by black holes (1975)",
+          "urls": [
+            "https://doi.org/10.1007/BF02345020"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "Artículo fundador de radiación; complementado por desarrollo §V de Ada97",
+          "lim": "Predicción semiclásica; ninguna detección astronómica de evaporación se sella aquí.",
+          "key": "Haw75",
+          "year": "1975"
+        },
+        {
+          "n": null,
+          "internal": false,
+          "text": "Adams y Laughlin, A dying universe: the long-term fate and evolution of astrophysical objects (1997)",
+          "urls": [
+            "https://doi.org/10.1103/RevModPhys.69.337"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "§I ec.1.1; §II.D ec.2.18; §III/IV supuestos; §V evaporación",
+          "lim": "Modelo condicional; formación residual, decaimiento del protón y escala de masa importan. 10¹⁴ y 10¹⁰⁰ no son fechas finales observadas.",
+          "key": "Ada97",
+          "year": "1997"
+        },
+        {
+          "n": null,
+          "internal": false,
+          "text": "Steinhauer, Observation of quantum Hawking radiation and its entanglement in an analogue black hole (2016)",
+          "urls": [
+            "https://doi.org/10.1038/nphys3863"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "Nature Physics 12,959–965; resumen",
+          "lim": "Análogo en condensado de Bose–Einstein, no agujero negro gravitatorio observado.",
+          "key": "ANALOGO16",
+          "year": "2016"
+        }
+      ],
+      "origin": "dictamen AlbaView 1oAUCFEWu_hxHl1dlfzrP48tbD01BXujS §4 · F26"
+    },
+    "hawking": {
+      "title": "La evaporación de Hawking",
+      "kind": "Modelo",
+      "claim": "Los agujeros negros se evaporarían lentísimamente; nunca se ha observado en uno real.",
+      "aporta": "Stephen Hawking derivó en 1974 que un agujero negro emite radiación térmica al aplicar teoría cuántica de campos a su horizonte.",
+      "limites": "Es una predicción teórica, nunca observada en agujeros negros astrofísicos. Las edades por masa siguen en revisión en el expediente.",
+      "fecha": "Hawking, 1974",
+      "fig": null,
+      "sec": "III.8",
+      "refs": [
+        {
+          "n": 65,
+          "internal": false,
+          "text": "S. W. Hawking, «Black hole explosions?», Nature 248 (1974): 30–31, https://doi.org/10.1038/248030a0.",
+          "urls": [
+            "https://doi.org/10.1038/248030a0"
+          ],
+          "type": "fuente académica o institucional"
+        },
+        {
+          "n": 68,
+          "internal": true,
+          "text": "Documentación del proyecto · Nota editorial. Actualización N02 (15-oct-2026): el texto histórico conserva η ≈ 65 mientras su referencia adicional da ~6×10⁶⁷ años para masa solar aislada; se requiere reconciliar masa, fórmula y normalización antes de llevar una cifra precisa a pantalla. No se ha certificado la equivalencia de esos valores. La evaporación de Hawking astrofísica se trata como predicción teórica.",
+          "urls": [],
+          "type": "documentación autoral/editorial"
+        }
+      ]
+    },
+    "masa-cubo": {
+      "title": "El doble de masa, ocho veces más tiempo",
+      "kind": "Modelo",
+      "claim": "En el modelo idealizado, la duración de la evaporación crece con el cubo de la masa.",
+      "aporta": "Duración ∝ M³: con el doble de masa, 2 × 2 × 2 = 8 veces más tiempo.",
+      "limites": "Supone un agujero negro aislado, sin carga ni rotación. La materia y la radiación del entorno pueden retrasar la pérdida neta de masa.",
+      "fecha": "Adams y Laughlin, 1997 · Taylor y Starkman, 2022",
+      "fig": null,
+      "sec": "III.8",
+      "refs": [
+        {
+          "n": 66,
+          "internal": false,
+          "text": "Adams y Laughlin, «A dying universe» (tiempos por masa; relación η_BH ≈ 83 + 3·log₁₀(M/10⁶ M☉)).",
+          "urls": [
+            "https://doi.org/10.1103/RevModPhys.69.337"
+          ],
+          "type": "fuente académica o institucional"
+        },
+        {
+          "n": 67,
+          "internal": false,
+          "text": "Quinn Taylor y Glenn Starkman, «How the Universe postpones the evaporation and curtails the quantum spreading of black holes», Physical Review D 105 (2022): 043526, https://doi.org/10.1103/PhysRevD.105.043526 (~6×10⁶⁷ años para un agujero negro solar aislado; la acreción ambiental retrasa la evaporación).",
+          "urls": [
+            "https://doi.org/10.1103/PhysRevD.105.043526"
+          ],
+          "type": "fuente académica o institucional"
+        }
+      ]
+    },
+    "gw150914": {
+      "title": "GW150914 · señal y traducción a sonido",
+      "kind": "Detección; sonificación identificada por estado",
+      "claim": "LIGO detectó directamente GW150914 el 14-sep-2015, una señal de fusión de dos agujeros negros.",
+      "aporta": "El archivo incluido es GW150914_H1_shifted.wav: datos del detector Hanford, blanqueados y filtrados en banda, con frecuencia elevada 400 Hz para facilitar la escucha. No es una plantilla teórica ni el registro instrumental sin procesar. El tañido artístico posterior es otro sonido y debe identificarse por separado.",
+      "limites": "La onda gravitacional no era sonido acústico en el vacío. Identificar si se reproduce este archivo, una recreación o ningún audio; cargar el archivo no demuestra que se haya oído. No usar distancia de luminosidad dividida por c como tiempo de viaje.",
+      "fecha": "Artículo 2016; archivo y licencia cotejados 23-oct-2026",
+      "fig": null,
+      "sec": "III.8",
+      "refs": [
+        {
+          "n": 70,
+          "internal": false,
+          "text": "LIGO Scientific Collaboration y Virgo Collaboration (B. P. Abbott et al.), «Observation of Gravitational Waves from a Binary Black Hole Merger», Physical Review Letters 116 (2016): 061102, https://doi.org/10.1103/PhysRevLett.116.061102 — DOI leído en el propio documento. Verbatim de la fuente: primera detección directa de ondas gravitacionales y primera observación de la fusión de un binario de agujeros negros; el ringdown del agujero negro resultante se describe sin reclamo de primicia propio.",
+          "urls": [
+            "https://doi.org/10.1103/PhysRevLett.116.061102"
+          ],
+          "type": "fuente académica o institucional"
+        },
+        {
+          "n": null,
+          "internal": false,
+          "type": "archivo de audio público",
+          "text": "LIGO Laboratory / Caltech / MIT, «GW150914 chirp» (audio de la señal detectada, con y sin desplazamiento de frecuencia), publicado por el Gravitational Wave Open Science Center (GWOSC). Cortesía de LIGO; su uso no implica respaldo.",
+          "urls": [
+            "https://gwosc.org/audio/"
+          ]
+        },
+        {
+          "n": null,
+          "internal": false,
+          "type": "Datos sonificados; variante y licencia identificadas",
+          "text": "GWOSC, GW150914_H1_shifted.wav: datos H1 blanqueados y filtrados en banda, con desplazamiento de frecuencia +400 Hz. CC BY 4.0. WAV original cotejado byte a byte el 23-oct-2026; SHA-256 db0648e6eec3d2ee5087d05c6769aa8a13fc7da7769c75499e4a1ce631bb02e7. Véanse el registro de audio de esta entrega y la guía oficial de atribución.",
+          "urls": [
+            "https://gwosc.org/GW150914data/GW150914_H1_shifted.wav",
+            "https://gwosc.org/audio/",
+            "https://gwosc.org/acknowledgement/",
+            "https://creativecommons.org/licenses/by/4.0/"
+          ]
+        },
+        {
+          "n": null,
+          "internal": false,
+          "type": "archivo de audio público",
+          "text": "GWOSC · GW150914_H1_shifted.wav (H1 blanqueado y filtrado en banda, +400 Hz) · mono, 4.096 Hz, 16 bit, 4,0 s, 32.812 bytes · sha256 db0648e6…bb02e7 · CC BY 4.0. Datos de LIGO, distribuidos por GWOSC, servicio de las colaboraciones LIGO, Virgo y KAGRA. Audio H1 procesado por GWOSC, con desplazamiento de frecuencia +400 Hz. CC BY 4.0. Reproducción de AlbaView con ajuste de ganancia y compresión dinámica; tañido artístico separado. Su uso no implica respaldo de las colaboraciones.",
+          "urls": [
+            "https://gwosc.org/audio/",
+            "https://creativecommons.org/licenses/by/4.0/"
+          ]
+        }
+      ],
+      "audio_credit": "Datos de LIGO, distribuidos por GWOSC, servicio de las colaboraciones LIGO, Virgo y KAGRA. Audio H1 procesado por GWOSC, con desplazamiento de frecuencia +400 Hz. CC BY 4.0. Reproducción de AlbaView con ajuste de ganancia y compresión dinámica; tañido artístico separado. Su uso no implica respaldo de las colaboraciones."
+    },
+    "AV-F27": {
+      "title": "GW150914: de la señal al sonido",
+      "kind": "Ficha de AlbaView",
+      "claim": "LIGO utiliza interferómetros láser con brazos de cuatro kilómetros para medir variaciones extremadamente pequeñas de sus longitudes relativas. El 14 de septiembre de 2015 detectó GW150914, una señal compatible con la fusión de dos agujeros negros. El resultado se publicó en 2016. El Nobel de Física de 2017 reconoció a Rainer Weiss, Barry Barish y Kip Thorne por sus contribuciones al detector y a la observación de ondas gravitacionales.",
+      "aporta": "Las masas y la distancia se infieren comparando la forma y amplitud de la señal con modelos relativistas, con incertidumbres. La publicación original estimó una distancia de luminosidad de 410 Mpc, con un intervalo amplio. Traducirla a tiempo de viaje requiere cosmología; «hace más de mil millones de años» es un redondeo divulgativo admisible, no la división exacta de esa distancia por la velocidad de la luz.\n\nLas ondas gravitacionales no son sonido que haya atravesado el vacío. Podemos convertir el registro en audio. Parte del chirp original ya está en frecuencias audibles; GWOSC ofrece además una versión desplazada 400 Hz para facilitar la escucha. Debe identificarse si lo que suena es ese registro procesado, una recreación o ninguna pista. La lectura del kit sin audio confirma la existencia de estados separados, pero no autentica el archivo sonoro de una integración posterior.",
+      "limites": "",
+      "paras": [
+        "LIGO utiliza interferómetros láser con brazos de cuatro kilómetros para medir variaciones extremadamente pequeñas de sus longitudes relativas. El 14 de septiembre de 2015 detectó GW150914, una señal compatible con la fusión de dos agujeros negros. El resultado se publicó en 2016. El Nobel de Física de 2017 reconoció a Rainer Weiss, Barry Barish y Kip Thorne por sus contribuciones al detector y a la observación de ondas gravitacionales.",
+        "Las masas y la distancia se infieren comparando la forma y amplitud de la señal con modelos relativistas, con incertidumbres. La publicación original estimó una distancia de luminosidad de 410 Mpc, con un intervalo amplio. Traducirla a tiempo de viaje requiere cosmología; «hace más de mil millones de años» es un redondeo divulgativo admisible, no la división exacta de esa distancia por la velocidad de la luz.",
+        "Las ondas gravitacionales no son sonido que haya atravesado el vacío. Podemos convertir el registro en audio. Parte del chirp original ya está en frecuencias audibles; GWOSC ofrece además una versión desplazada 400 Hz para facilitar la escucha. Debe identificarse si lo que suena es ese registro procesado, una recreación o ninguna pista. La lectura del kit sin audio confirma la existencia de estados separados, pero no autentica el archivo sonoro de una integración posterior."
+      ],
+      "fecha": "2016 · 2017",
+      "fig": null,
+      "sec": null,
+      "refs": [
+        {
+          "n": null,
+          "internal": false,
+          "text": "Abbott et al., Observation of Gravitational Waves from a Binary Black Hole Merger (2016)",
+          "urls": [
+            "https://doi.org/10.1103/PhysRevLett.116.061102"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "Resumen: GW150914,14-sep-2015; h≈10⁻²¹;35–250 Hz;410+160−180 Mpc",
+          "lim": "Distancia de luminosidad no es directamente tiempo de viaje; ~1,3 Ga es aproximación cosmológica.",
+          "key": "Col16e",
+          "year": "2016"
+        },
+        {
+          "n": null,
+          "internal": false,
+          "text": "GWOSC, Audio files for GW150914",
+          "urls": [
+            "https://gwosc.org/audio/"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "H1/L1: filtrado y versión desplazada+400 Hz",
+          "lim": "Frecuencias originales parcialmente audibles; desplazamiento facilita audición. No certificar el binario audio del build completo desde un kit sin audio.",
+          "key": "GWOSC",
+          "year": ""
+        },
+        {
+          "n": null,
+          "internal": false,
+          "text": "Royal Swedish Academy of Sciences, The Nobel Prize in Physics 2017",
+          "urls": [
+            "https://www.kva.se/en/news/nobelpriset-i-fysik-2017-2/"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "3-oct-2017; Weiss, Barish, Thorne y LIGO",
+          "lim": "Historia del reconocimiento; cifras detalladas de la señal se toman del artículo GW150914.",
+          "key": "NOBEL17",
+          "year": "2017"
+        },
+        {
+          "n": null,
+          "internal": true,
+          "text": "Claude, RF_r15_WORKING_v03: Kit Revision Interfaz",
+          "urls": [
+            "https://drive.google.com/file/d/1rqJQ__gSPR7iEOmPMYqjXa2yPyL5RRJ0/view"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "RF_r15/albaview.html: LOG_MAX, xLog, radiusFrac, rTicks, gwState y GWOSC",
+          "lim": "Antecedente03-nov, anterior a tabla04-nov; no prueba visual ni funcional de una futura integración.",
+          "key": "KIT",
+          "year": ""
+        }
+      ],
+      "origin": "dictamen AlbaView 1oAUCFEWu_hxHl1dlfzrP48tbD01BXujS §4 · F27"
+    }
+  },
+  "book_source_apparatus": [
+    {
+      "row_id": "C10.say.si-supuesto-cumple",
+      "book_locator": "AV-A-232",
+      "section": "10",
+      "section_title": "Los agujeros negros",
+      "recorded_state": "ACTIVA",
+      "source_apparatus": {
+        "Verificaciones AlbaView (estado · qué verificar · fuente concreta vía Undermind · veredicto)": "PENDIENTE · Verificar: si el protón se desintegra, la materia degenerada (enanas blancas, estrellas de neutrones) se disipa y los agujeros negros dominan («era de los agujeros negros», ≈ 10⁴⁰–10¹⁰⁰ años, Adams y Laughlin 1997). · Fuente: — · Veredicto: —"
+      }
+    },
+    {
+      "row_id": "C10.say.stephen-hawking-predijo",
+      "book_locator": "AV-A-233",
+      "section": "10",
+      "section_title": "Los agujeros negros",
+      "recorded_state": "ACTIVA",
+      "source_apparatus": {
+        "Verificaciones AlbaView (estado · qué verificar · fuente concreta vía Undermind · veredicto)": "PENDIENTE · Verificar: radiación de Hawking (1974): emisión térmica cerca del horizonte por efectos cuánticos, con pérdida de masa; no observada en agujeros negros astrofísicos (demasiado débil); análogos de laboratorio no cuentan como observación directa. · Fuente: — · Veredicto: —",
+        "Ampliar con el icono de Fuentes (libro abierto) · qué explicar cuando la voz dice «el modelo», «la teoría», «hipótesis»…": "FUENTES (libro abierto) ACTIVO · Qué es la radiación de Hawking, por qué es tan débil y por qué no se ha podido observar; experimentos con análogos de laboratorio."
+      }
+    },
+    {
+      "row_id": "C10.say.cuanto-grande-agujero",
+      "book_locator": "AV-A-236",
+      "section": "10",
+      "section_title": "Los agujeros negros",
+      "recorded_state": "ACTIVA",
+      "source_apparatus": {
+        "Verificaciones AlbaView (estado · qué verificar · fuente concreta vía Undermind · veredicto)": "PENDIENTE · Verificar: tiempo de evaporación ∝ M³ para un agujero negro aislado (Schwarzschild), sin acreción; con el fondo de microondas actual, los agujeros negros estelares aún absorben más de lo que emiten. · Fuente: — · Veredicto: —"
+      }
+    },
+    {
+      "row_id": "C10.say.grandes-tardarian-numero",
+      "book_locator": "AV-A-237",
+      "section": "10",
+      "section_title": "Los agujeros negros",
+      "recorded_state": "ACTIVA",
+      "source_apparatus": {
+        "Verificaciones AlbaView (estado · qué verificar · fuente concreta vía Undermind · veredicto)": "PENDIENTE · Verificar: evaporación de los agujeros negros supermasivos más grandes ≈ 10¹⁰⁰ años (según masa: ≈ 10¹⁰ masas solares → ≈ 10¹⁰⁰ años). · Fuente: — · Veredicto: —"
+      }
+    },
+    {
+      "row_id": "C10.say.hay-algo-hermoso",
+      "book_locator": "AV-A-239",
+      "section": "10",
+      "section_title": "Los agujeros negros",
+      "recorded_state": "ACTIVA",
+      "source_apparatus": {
+        "Verificaciones AlbaView (estado · qué verificar · fuente concreta vía Undermind · veredicto)": "PENDIENTE · Verificar: fase de «ringdown» tras la fusión de dos agujeros negros (modos cuasinormales, análogos a las vibraciones amortiguadas de una campana). · Fuente: — · Veredicto: —"
+      }
+    },
+    {
+      "row_id": "C10.say.vibracion-viaja-espacio",
+      "book_locator": "AV-A-240",
+      "section": "10",
+      "section_title": "Los agujeros negros",
+      "recorded_state": "ACTIVA",
+      "source_apparatus": {
+        "Verificaciones AlbaView (estado · qué verificar · fuente concreta vía Undermind · veredicto)": "PENDIENTE · Verificar: GW150914 (14-sep-2015), primera detección directa de ondas gravitacionales (LIGO); deformación relativa ≈ 10⁻²¹, cambio de longitud de los brazos de 4 km ≈ 10⁻¹⁸ m, menor que una milésima del diámetro de un protón. · Fuente: — · Veredicto: —",
+        "Ampliar con el icono de Fuentes (libro abierto) · qué explicar cuando la voz dice «el modelo», «la teoría», «hipótesis»…": "FUENTES (libro abierto) ACTIVO · Qué es LIGO y cómo funciona un interferómetro (brazos de 4 km, láser); Nobel de Física 2017."
+      }
+    },
+    {
+      "row_id": "C10.say.convertida-sonido-suena",
+      "book_locator": "AV-A-241",
+      "section": "10",
+      "section_title": "Los agujeros negros",
+      "recorded_state": "ACTIVA",
+      "source_apparatus": {
+        "Verificaciones AlbaView (estado · qué verificar · fuente concreta vía Undermind · veredicto)": "PENDIENTE · Verificar: el audio público de GW150914 (LIGO) y su tratamiento (desplazamiento de frecuencia o aceleración para hacerlo audible); confirmar la formulación «pasados a un tono más agudo». · Fuente: — · Veredicto: —"
+      }
+    },
+    {
+      "row_id": "C10.say.sonido-real-dos",
+      "book_locator": "AV-A-245",
+      "section": "10",
+      "section_title": "Los agujeros negros",
+      "recorded_state": "ACTIVA",
+      "source_apparatus": {
+        "Verificaciones AlbaView (estado · qué verificar · fuente concreta vía Undermind · veredicto)": "PENDIENTE · Verificar: distancia de GW150914 ≈ 410 Mpc, ≈ 1.300 millones de años de viaje de la señal (según el modelo de la fuente). · Fuente: — · Veredicto: —",
+        "Ampliar con el icono de Fuentes (libro abierto) · qué explicar cuando la voz dice «el modelo», «la teoría», «hipótesis»…": "FUENTES (libro abierto) ACTIVO · «Hace más de mil millones de años»: cómo se estima la distancia a partir de la forma de la señal (modelo de la fuente)."
+      }
+    },
+    {
+      "row_id": "C10.say.sonido-real-dos · recreation",
+      "book_locator": "AV-A-246",
+      "section": "10",
+      "section_title": "Los agujeros negros",
+      "recorded_state": "ACTIVA",
+      "source_apparatus": {
+        "Ampliar con el icono de Fuentes (libro abierto) · qué explicar cuando la voz dice «el modelo», «la teoría», «hipótesis»…": "Fuentes activo («según el modelo»; se cita una detección). Ficha AV F27 «GW150914: de la señal al sonido» (dictamen AlbaView 1oAUCFEWu_hxHl1dlfzrP48tbD01BXujS §4): la detección de septiembre de 2015, qué dice el modelo sobre la fusión y cómo se pasa la señal a sonido; aquí, aclarar que es una recreación. Aprobado por David 05-nov."
+      }
+    },
+    {
+      "row_id": "C10.recap.final-quedarian-agujeros",
+      "book_locator": "AV-A-249",
+      "section": "10",
+      "section_title": "Los agujeros negros",
+      "recorded_state": "ACTIVA",
+      "source_apparatus": {
+        "Verificaciones AlbaView (estado · qué verificar · fuente concreta vía Undermind · veredicto)": "PENDIENTE · Verificar: existencia de agujeros negros (ondas gravitacionales, Event Horizon Telescope); evaporación de Hawking no observada. · Fuente: — · Veredicto: —"
+      }
+    }
+  ],
+  "book_rows": [
+    "C10.show.agujeros-negros",
+    "C10.cue.clear",
+    "C10.cue.black-holes",
+    "C10.say.si-supuesto-cumple",
+    "C10.say.stephen-hawking-predijo",
+    "C10.act.duplica-masa",
+    "C10.cue.bh-hourglass",
+    "C10.say.cuanto-grande-agujero",
+    "C10.say.grandes-tardarian-numero",
+    "C10.cue.ringdown",
+    "C10.say.hay-algo-hermoso",
+    "C10.say.vibracion-viaja-espacio",
+    "C10.say.convertida-sonido-suena",
+    "C10.say.convertida-sonido-suena · recreation",
+    "C10.say.convertida-sonido-suena · unavailable",
+    "C10.cue.chirp",
+    "C10.say.sonido-real-dos",
+    "C10.say.sonido-real-dos · recreation",
+    "C10.say.sonido-real-dos · unavailable",
+    "C10.say.no-era-sonido",
+    "C10.recap.final-quedarian-agujeros",
+    "C10.act.ve-ultimo-borde"
+  ]
+}

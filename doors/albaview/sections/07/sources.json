@@ -1,0 +1,388 @@
+{
+  "section": {
+    "id": "C07",
+    "title": "Las primeras estrellas",
+    "title_en": "First stars",
+    "slug": "primeras-estrellas"
+  },
+  "experience_cards": {
+    "AV-F21": {
+      "title": "El amanecer cósmico y sus candidatos",
+      "kind": "Ficha de AlbaView",
+      "claim": "Tras la formación de átomos neutros aún no existían estrellas, aunque la radiación primordial seguía presente. La gravedad fue concentrando gas hasta que aparecieron las primeras fuentes estelares. El intervalo en que comenzaron a iluminar y transformar su entorno se llama amanecer cósmico. Su cronología temprana se reconstruye mediante modelos y observaciones, no mediante la identificación de una primera estrella individual.",
+      "aporta": "MoM-z14 es una galaxia con corrimiento al rojo z = 14,44 ± 0,02. La luz que observamos corresponde a unos 280 millones de años después del Big Bang en la cosmología empleada: aproximadamente el 2 % de la edad actual. Sus líneas espectrales indican enriquecimiento en nitrógeno. Ese elemento requiere procesamiento estelar anterior; no procede en cantidad apreciable del horno primordial. El programa «Mirage or Miracle» estudia galaxias cuya luminosidad y abundancia tempranas resultaron sorprendentes. El nombre no debe presentarse como prueba de un engaño óptico concreto.\n\nHay candidatos a poblaciones estelares extremadamente primitivas. En 2026, los trabajos sobre la región Hebe próxima a GN-z11 identificaron emisión de helio y gas muy pobre en metales, compatibles con contribuciones de estrellas de población III, posiblemente mezcladas con población II. Maiolino y colaboradores proponen esa interpretación; el trabajo complementario de Übler y colaboradores fue aceptado en Astronomy & Astrophysics en julio de 2026. No equivalen a identificar de manera inequívoca una de las primeras estrellas individuales. La frase pública y la ficha conservan esa distinción.",
+      "limites": "",
+      "paras": [
+        "Tras la formación de átomos neutros aún no existían estrellas, aunque la radiación primordial seguía presente. La gravedad fue concentrando gas hasta que aparecieron las primeras fuentes estelares. El intervalo en que comenzaron a iluminar y transformar su entorno se llama amanecer cósmico. Su cronología temprana se reconstruye mediante modelos y observaciones, no mediante la identificación de una primera estrella individual.",
+        "MoM-z14 es una galaxia con corrimiento al rojo z = 14,44 ± 0,02. La luz que observamos corresponde a unos 280 millones de años después del Big Bang en la cosmología empleada: aproximadamente el 2 % de la edad actual. Sus líneas espectrales indican enriquecimiento en nitrógeno. Ese elemento requiere procesamiento estelar anterior; no procede en cantidad apreciable del horno primordial. El programa «Mirage or Miracle» estudia galaxias cuya luminosidad y abundancia tempranas resultaron sorprendentes. El nombre no debe presentarse como prueba de un engaño óptico concreto.",
+        "Hay candidatos a poblaciones estelares extremadamente primitivas. En 2026, los trabajos sobre la región Hebe próxima a GN-z11 identificaron emisión de helio y gas muy pobre en metales, compatibles con contribuciones de estrellas de población III, posiblemente mezcladas con población II. Maiolino y colaboradores proponen esa interpretación; el trabajo complementario de Übler y colaboradores fue aceptado en Astronomy & Astrophysics en julio de 2026. No equivalen a identificar de manera inequívoca una de las primeras estrellas individuales. La frase pública y la ficha conservan esa distinción."
+      ],
+      "fecha": "2019 · 2026",
+      "fig": null,
+      "sec": null,
+      "refs": [
+        {
+          "n": null,
+          "internal": false,
+          "text": "NASA/Webb, What Were the First Stars Like?",
+          "urls": [
+            "https://science.nasa.gov/mission/webb/science-overview/science-explainers/what-were-the-first-stars-like/"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "Formación estelar, composición y límites de observación",
+          "lim": "Divulgación anterior a candidatos 2026: complementar con Hebe, no usarla sola para una negativa actual absoluta.",
+          "key": "FIRST-STARS",
+          "year": ""
+        },
+        {
+          "n": null,
+          "internal": false,
+          "text": "Naidu et al., A Cosmic Miracle: A Remarkably Luminous Galaxy at zspec=14.44 Confirmed with JWST",
+          "urls": [
+            "https://arxiv.org/abs/2505.11263"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "Resumen: z=14,44±0,02, ≈280 Ma; líneas de nitrógeno",
+          "lim": "No estrella individual PopIII identificada; edad depende de cosmología; abundancia N/C inferida por modelo.",
+          "key": "Nai25b",
+          "year": ""
+        },
+        {
+          "n": null,
+          "internal": false,
+          "text": "NASA/Webb, Webb Pushes Boundaries of Observable Universe Closer to Big Bang (28-ene-2026)",
+          "urls": [
+            "https://science.nasa.gov/missions/webb/nasa-webb-pushes-boundaries-of-observable-universe-closer-to-big-bang/"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "MoM-z14, 280 millones de años",
+          "lim": "Fecha de la noticia:28-ene, no asumir30-ene por memoria del expediente.",
+          "key": "WEBB26",
+          "year": "2026"
+        },
+        {
+          "n": null,
+          "internal": false,
+          "text": "Maiolino et al., The search for Population III… (2026)",
+          "urls": [
+            "https://arxiv.org/abs/2603.20362v4"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "Resumen; v4,6-abr-2026: HeII a z10,6, sin líneas de metales",
+          "lim": "Autores proponen PopIII como explicación; no resolución individual de la primera estrella.",
+          "key": "HEBE26",
+          "year": "2026"
+        },
+        {
+          "n": null,
+          "internal": false,
+          "text": "Übler et al., GA-NIFS and JADES: Confirmation of pristine gas near GN-z11 (2026)",
+          "urls": [
+            "https://arxiv.org/abs/2603.20360v2"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "Resumen; v2,22-jul-2026, aceptado en A&A; gas Z<0,02Zsolar",
+          "lim": "Compatibilidad con PopIII, posiblemente mezclada con PopII; no equivale a metalicidad cero demostrada.",
+          "key": "UBLER26",
+          "year": "2026"
+        },
+        {
+          "n": null,
+          "internal": false,
+          "text": "Jennifer A. Johnson, Populating the periodic table: Nucleosynthesis of the elements (2019)",
+          "urls": [
+            "https://doi.org/10.1126/science.aau9540"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "Resumen: vidas y muertes estelares, supernovas y fusiones de remanentes",
+          "lim": "El origen de los elementos no preserva átomos neutros individuales ni significa que todos se formen solo en núcleos estelares quiescentes.",
+          "key": "Joh19b",
+          "year": "2019"
+        }
+      ],
+      "origin": "dictamen AlbaView 1oAUCFEWu_hxHl1dlfzrP48tbD01BXujS §4 · F21"
+    },
+    "edad-oscura": {
+      "title": "La larga oscuridad",
+      "kind": "Modelo",
+      "claim": "Después de que el universo se volvió transparente a la radiación del fondo cósmico, transcurrió una larga etapa sin estrellas, mientras la gravedad agrupaba el gas. La luz ya existía.",
+      "aporta": "Los grumos que ya insinuaba el fondo de microondas crecieron por gravedad hasta formar los primeros halos.",
+      "limites": "Es reconstrucción con modelos; ese tramo casi no deja luz que observar directamente.",
+      "fecha": "Bromm, 2013",
+      "fig": null,
+      "sec": "III.5",
+      "refs": [
+        {
+          "n": 40,
+          "internal": false,
+          "text": "Volker Bromm, «Formation of the first stars», Reports on Progress in Physics 76 (2013): 112901, https://doi.org/10.1088/0034-4885/76/11/112901; Naoki Yoshida et al., «Simulations of Early Structure Formation: Primordial Gas Clouds», The Astrophysical Journal (2003): 645–663, https://doi.org/10.1086/375810; sobre rareza y continuación según entorno: Sahil Hegde y Steven R. Furlanetto, MNRAS (2023), https://doi.org/10.1093/mnras/stad2308; Thomas H. Greif et al., The Astrophysical Journal 736 (2011): 147,…",
+          "urls": [
+            "https://doi.org/10.1088/0034-4885/76/11/112901",
+            "https://doi.org/10.1086/375810",
+            "https://doi.org/10.1093/mnras/stad2308"
+          ],
+          "type": "fuente académica o institucional"
+        }
+      ],
+      "_before_r15v03": {
+        "claim": "Tras la primera luz hubo decenas de millones de años sin estrellas, mientras la gravedad agrupaba el gas."
+      }
+    },
+    "pop3": {
+      "title": "Las primeras estrellas",
+      "kind": "Modelo",
+      "claim": "Los modelos esperan las primeras estrellas en los primeros 100 a 180 millones de años; aún no hay una detección inequívoca.",
+      "aporta": "La llamada Población III, sin elementos pesados, se formaría en pequeños halos de gas enfriados por hidrógeno molecular, hacia z ≈ 20–30.",
+      "limites": "Es una predicción de modelo, no un intervalo observado: el marco admite formación rara más temprana y continuación más tardía según el entorno.",
+      "fecha": "Bromm, 2013 y otros",
+      "fig": "pop3",
+      "sec": "III.5 · FM2",
+      "refs": [
+        {
+          "n": 40,
+          "internal": false,
+          "text": "Volker Bromm, «Formation of the first stars», Reports on Progress in Physics 76 (2013): 112901, https://doi.org/10.1088/0034-4885/76/11/112901; Naoki Yoshida et al., «Simulations of Early Structure Formation: Primordial Gas Clouds», The Astrophysical Journal (2003): 645–663, https://doi.org/10.1086/375810; sobre rareza y continuación según entorno: Sahil Hegde y Steven R. Furlanetto, MNRAS (2023), https://doi.org/10.1093/mnras/stad2308; Thomas H. Greif et al., The Astrophysical Journal 736 (2011): 147,…",
+          "urls": [
+            "https://doi.org/10.1088/0034-4885/76/11/112901",
+            "https://doi.org/10.1086/375810",
+            "https://doi.org/10.1093/mnras/stad2308"
+          ],
+          "type": "fuente académica o institucional"
+        },
+        {
+          "n": 93,
+          "internal": false,
+          "text": "Véanse las fuentes de la parada 05 (Bromm 2013; Yoshida et al. 2003; Hegde y Furlanetto 2023; Greif et al. 2011; Kulkarni et al. 2021).",
+          "urls": [
+            "https://doi.org/10.1088/0034-4885/76/11/112901",
+            "https://doi.org/10.1086/375810",
+            "https://doi.org/10.1093/mnras/stad2308"
+          ],
+          "type": "fuente académica o institucional"
+        }
+      ]
+    },
+    "momz14": {
+      "title": "MoM-z14 · una galaxia observada muy temprano",
+      "kind": "Espectroscopía y edad cosmológica derivada",
+      "claim": "MoM-z14 tiene z = 14,44 ± 0,02; la fuente la sitúa cuando el universo tenía unos 280 millones de años.",
+      "aporta": "La espectroscopía NIRSpec de JWST permite determinar el corrimiento al rojo. La edad de unos 280 millones de años es la edad del universo derivada en la cosmología empleada por la fuente.",
+      "limites": "No es la edad de la galaxia ni la fecha de la primera estrella. Esta ficha documenta la observación citada; no certifica un récord vigente mediante una búsqueda exhaustiva a octubre de 2026.",
+      "fecha": "Artículo publicado: 30-ene-2026, The Open Journal of Astrophysics, vol. 9. Preprint asociado: arXiv:2505.11263. Fecha editorial cotejada: 24-oct-2026, Panamá.",
+      "fig": "pop3",
+      "sec": "III.5 · FM2",
+      "refs": [
+        {
+          "n": 43,
+          "internal": false,
+          "text": "Rohan P. Naidu et al., «A Cosmic Miracle: A Remarkably Luminous Galaxy at z_spec = 14.44 Confirmed with JWST», The Open Journal of Astrophysics (30-ene-2026), https://doi.org/10.33232/001c.156033 — publicado; primicia reclamada por la fuente. Preprint previo: https://arxiv.org/abs/2505.11263. Nota editorial: una versión anterior del expediente lo rotuló preprint estando publicado; errata declarada y corregida a la vista.",
+          "urls": [
+            "https://doi.org/10.33232/001c.156033",
+            "https://arxiv.org/abs/2505.11263"
+          ],
+          "type": "artículo publicado con preprint asociado"
+        }
+      ],
+      "_before_r15v03": {
+        "fecha": "Versión cotejada: arXiv v2, 28-ene-2026; consulta 22-oct-2026",
+        "aporta": "Naidu et al. confirma el corrimiento al rojo con espectroscopía de JWST. Se conserva la nota 43 y su DOI; se corrige la clasificación a artículo publicado con preprint asociado, sin renumerar notas del libro.",
+        "limites": "No es la edad de la galaxia, la primera estrella ni una certificación del récord vigente a octubre de 2026. La fecha editorial exacta del DOI debe conciliarse con el registro del editor; se declara aquí la fecha comprobada de arXiv v2, sin sustituirla por la fecha de publicación del artículo."
+      }
+    },
+    "AV-F22": {
+      "title": "La materia de nuestro cuerpo",
+      "kind": "Ficha de AlbaView",
+      "claim": "El hidrógeno de nuestra agua es mayoritariamente primordial. El oxígeno, el carbono y muchos otros elementos proceden de procesos en estrellas y de sus finales. Distintos elementos tienen historias distintas: intervienen fusión, vientos, explosiones y, para ciertos núcleos pesados, fusiones de remanentes compactos. No todo se fabrica en el interior tranquilo de una estrella.",
+      "aporta": "En una composición corporal de referencia, el hidrógeno representa alrededor del 10 % de la masa. De ahí procede la aproximación de que cerca del 90 % de nuestra masa tiene una historia de procesamiento estelar. Es una estimación de masa, no una medida individual ni un porcentaje de átomos. El contenido de agua también varía con edad y composición corporal; en adultos suele rondar el 55–60 %.\n\nLa materia del Sistema Solar heredó núcleos de generaciones anteriores. La continuidad no exige que cada átomo neutro haya permanecido intacto: puede perder o ganar electrones, y algunas transformaciones nucleares continúan después de la formación terrestre. La imagen de los átomos que ahora se miran en una pantalla es una reflexión autoral apoyada en esa herencia material, no una atribución de conciencia a átomos aislados.",
+      "limites": "",
+      "paras": [
+        "El hidrógeno de nuestra agua es mayoritariamente primordial. El oxígeno, el carbono y muchos otros elementos proceden de procesos en estrellas y de sus finales. Distintos elementos tienen historias distintas: intervienen fusión, vientos, explosiones y, para ciertos núcleos pesados, fusiones de remanentes compactos. No todo se fabrica en el interior tranquilo de una estrella.",
+        "En una composición corporal de referencia, el hidrógeno representa alrededor del 10 % de la masa. De ahí procede la aproximación de que cerca del 90 % de nuestra masa tiene una historia de procesamiento estelar. Es una estimación de masa, no una medida individual ni un porcentaje de átomos. El contenido de agua también varía con edad y composición corporal; en adultos suele rondar el 55–60 %.",
+        "La materia del Sistema Solar heredó núcleos de generaciones anteriores. La continuidad no exige que cada átomo neutro haya permanecido intacto: puede perder o ganar electrones, y algunas transformaciones nucleares continúan después de la formación terrestre. La imagen de los átomos que ahora se miran en una pantalla es una reflexión autoral apoyada en esa herencia material, no una atribución de conciencia a átomos aislados."
+      ],
+      "fecha": "2003 · 2012 · 2019 · 2025",
+      "fig": null,
+      "sec": null,
+      "refs": [
+        {
+          "n": null,
+          "internal": false,
+          "text": "Jennifer A. Johnson, Populating the periodic table: Nucleosynthesis of the elements (2019)",
+          "urls": [
+            "https://doi.org/10.1126/science.aau9540"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "Resumen: vidas y muertes estelares, supernovas y fusiones de remanentes",
+          "lim": "El origen de los elementos no preserva átomos neutros individuales ni significa que todos se formen solo en núcleos estelares quiescentes.",
+          "key": "Joh19b",
+          "year": "2019"
+        },
+        {
+          "n": null,
+          "internal": false,
+          "text": "Royal Society of Chemistry, Body chemicals",
+          "urls": [
+            "https://edu.rsc.org/download?ac=12776"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "Tabla para cuerpo de70kg: H7kg, O43kg, C16kg",
+          "lim": "Composición de referencia; ≈90% no es medición personal ni porcentaje de átomos.",
+          "key": "RSC",
+          "year": ""
+        },
+        {
+          "n": null,
+          "internal": false,
+          "text": "USGS, The Water in You",
+          "urls": [
+            "https://www.usgs.gov/water-science-school/science/water-you-water-and-human-body"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "Adultos: valores típicos alrededor55–60%, variación por composición corporal",
+          "lim": "No universalizar «más de la mitad» a todo visitante.",
+          "key": "USGS-WATER",
+          "year": ""
+        },
+        {
+          "n": null,
+          "internal": false,
+          "text": "Fields, Molaro y Sarkar, Big Bang Nucleosynthesis, PDG 2025",
+          "urls": [
+            "https://pdg.lbl.gov/2025/reviews/rpp2025-rev-bbang-nucleosynthesis.pdf"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "§24.2; §24.3, ec.24.2; §24.4; §24.5; §24.6",
+          "lim": "BBN permite una reconstrucción contrastada alrededor del primer segundo; no demuestra una historia observada hasta Planck.",
+          "key": "PDG25",
+          "year": "2025"
+        },
+        {
+          "n": null,
+          "internal": false,
+          "text": "Connelly et al., The Absolute Chronology and Thermal Processing of Solids in the Solar Protoplanetary Disk (2012)",
+          "urls": [
+            "https://doi.org/10.1126/science.1226919"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "Resumen: CAI 4567,30 ± 0,16 Ma por U-corrected Pb-Pb; Science 338,651–655",
+          "lim": "No determina qué proporción de átomos corporales preexiste a la Tierra; no se añade una cifra nueva de CAI a la voz.",
+          "key": "CON12",
+          "year": "2012"
+        },
+        {
+          "n": null,
+          "internal": false,
+          "text": "Lodders, Solar System Abundances and Condensation Temperatures of the Elements (2003)",
+          "urls": [
+            "https://doi.org/10.1086/375492"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "ApJ591,1220–1247; resumen y fracciones protosolares",
+          "lim": "Distingue abundancias fotosféricas y protosolares; no mide el porcentaje de núcleos corporales formados después de la Tierra.",
+          "key": "LOD03",
+          "year": "2003"
+        }
+      ],
+      "origin": "dictamen AlbaView 1oAUCFEWu_hxHl1dlfzrP48tbD01BXujS §4 · F22"
+    },
+    "era-estelar": {
+      "title": "La era de las estrellas",
+      "kind": "Modelo",
+      "claim": "La era estelar es la etapa de brillo estelar sostenido que habitamos. Antes y después también existe radiación. Muchos elementos de nuestro cuerpo se formaron en estrellas y sus explosiones.",
+      "aporta": "Adams y Laughlin usan para la era estelar el intervalo convencional η ≈ 6…14. Hoy, η₀ ≈ 10,14. El extremo inferior de esa clasificación no fecha una primera estrella observada.",
+      "limites": "Era de brillo estelar sostenido, no único tramo con radiación. Su comienzo convencional no fecha la primera estrella observada. Las posiciones de los hitos del recorrido son posiciones declaradas del artefacto, sin sello propio. El primer encendido no se afirma como observado. El hierro se forma sobre todo en supernovas; la frase resume la nucleosíntesis estelar, no la historia de cada átomo.",
+      "fecha": "Adams y Laughlin, 1997 · Planck, 2018 · Burbidge et al., 1957",
+      "fig": null,
+      "sec": "III.5",
+      "refs": [
+        {
+          "n": 46,
+          "internal": false,
+          "text": "Adams y Laughlin, «A dying universe» (Era Estelar, 6 < η < 14); η₀ = 10,14 derivado de la edad de Planck 2018 VI.",
+          "urls": [
+            "https://doi.org/10.1051/0004-6361/201833910",
+            "https://doi.org/10.1103/RevModPhys.69.337"
+          ],
+          "type": "fuente académica o institucional"
+        },
+        {
+          "n": null,
+          "internal": false,
+          "text": "E. Margaret Burbidge, Geoffrey R. Burbidge, William A. Fowler y Fred Hoyle, «Synthesis of the Elements in Stars», Reviews of Modern Physics 29 (1957): 547–650.",
+          "urls": [
+            "https://doi.org/10.1103/RevModPhys.29.547"
+          ],
+          "type": "referencia externa al libro"
+        }
+      ]
+    }
+  },
+  "book_source_apparatus": [
+    {
+      "row_id": "C07.say.despues-vino-larga",
+      "book_locator": "AV-A-183",
+      "section": "07",
+      "section_title": "Las primeras estrellas",
+      "recorded_state": "ACTIVA",
+      "source_apparatus": {
+        "Verificaciones AlbaView (estado · qué verificar · fuente concreta vía Undermind · veredicto)": "PENDIENTE · Verificar: «edad oscura» tras la recombinación (desde ≈ 380.000 años hasta las primeras estrellas, ≈ 100–200 millones de años), formulada como «decenas de millones de años»; la gravedad amplifica las sobredensidades de las anisotropías primordiales (fila 116). · Fuente: — · Veredicto: —"
+      }
+    },
+    {
+      "row_id": "C07.say.algun-momento-encendio",
+      "book_locator": "AV-A-186",
+      "section": "07",
+      "section_title": "Las primeras estrellas",
+      "recorded_state": "ACTIVA",
+      "source_apparatus": {
+        "Verificaciones AlbaView (estado · qué verificar · fuente concreta vía Undermind · veredicto)": "PENDIENTE · Verificar: (1) formación de las primeras estrellas por colapso gravitatorio de nubes de gas hasta iniciar la fusión de hidrógeno; (2) «amanecer cósmico» (cosmic dawn) como término astronómico; (3) que las primeras estrellas son las primeras fuentes de luz propia tras la edad oscura. · Fuente: — · Veredicto: —"
+      }
+    },
+    {
+      "row_id": "C07.say.nadie-ha-visto",
+      "book_locator": "AV-A-189",
+      "section": "07",
+      "section_title": "Las primeras estrellas",
+      "recorded_state": "ACTIVA",
+      "source_apparatus": {
+        "Verificaciones AlbaView (estado · qué verificar · fuente concreta vía Undermind · veredicto)": "PENDIENTE · Verificar: (1) Naidu et al. 2025, arXiv 2505.11263: MoM-z14, z = 14,44, ≈ 280 millones de años tras el Big Bang; programa «Mirage or Miracle» (MoM) y sentido del nombre (candidatos tempranos: ¿reales o contaminantes de bajo corrimiento?); líneas de nitrógeno y carbono con exceso de nitrógeno; (2) 280 / 13.800 ≈ 2 %; (3) las primeras estrellas (población III) no tienen detección directa confirmada; (4) la nucleosíntesis primordial solo produjo H, He y trazas de Li; el nitrógeno es de origen estelar. No afirmar récord. · Fuente: Naidu et al. 2025 (arXiv 2505.11263), ya cotejado por el integrador; resto — · Veredicto: —"
+      }
+    },
+    {
+      "row_id": "C07.say.ellas-empieza-era",
+      "book_locator": "AV-A-191",
+      "section": "07",
+      "section_title": "Las primeras estrellas",
+      "recorded_state": "ACTIVA",
+      "source_apparatus": {
+        "Verificaciones AlbaView (estado · qué verificar · fuente concreta vía Undermind · veredicto)": "PENDIENTE · Verificar: (1) nucleosíntesis estelar: fusión de H en He y, en estrellas más masivas, C, O… hasta Fe en el núcleo; (2) dispersión de esos elementos por vientos estelares y supernovas, y enriquecimiento del gas que forma nuevas estrellas y planetas; (3) elementos más pesados que el hierro: supernovas y fusiones de estrellas de neutrones (no se nombran en voz). · Fuente: — · Veredicto: —"
+      }
+    },
+    {
+      "row_id": "C07.recap.hierro-tu-sangre",
+      "book_locator": "AV-A-192",
+      "section": "07",
+      "section_title": "Las primeras estrellas",
+      "recorded_state": "ACTIVA",
+      "source_apparatus": {
+        "Verificaciones AlbaView (estado · qué verificar · fuente concreta vía Undermind · veredicto)": "PENDIENTE · Verificar: (1) agua en el cuerpo humano adulto ≈ 50–65 % de la masa (la cifra popular del 70 % suele ser alta); (2) composición en masa del cuerpo: O ≈ 65 %, C ≈ 18 %, H ≈ 10 %, N ≈ 3 %, Ca ≈ 1,5 %…; por tanto, ≈ 90 % de la masa es de origen estelar (todo salvo el hidrógeno primordial); (3) el hidrógeno del agua es mayoritariamente primordial y el oxígeno, estelar; (4) los elementos pesados del Sistema Solar proceden de generaciones de estrellas anteriores al Sol. · PARA FUENTES (pedido de David): anotar la imagen «peceras andantes» como recurso divulgativo reservado; si se usa en el futuro, buscar su origen o fuente. · Fuente: — · Veredicto: —"
+      }
+    }
+  ],
+  "book_rows": [
+    "C07.show.primeras-estrellas",
+    "C07.cue.clear",
+    "C07.cue.dark-ages",
+    "C07.say.despues-vino-larga",
+    "C07.act.enciende",
+    "C07.cue.cosmic-dawn",
+    "C07.say.algun-momento-encendio",
+    "C07.cue.oldest-galaxy",
+    "C07.show.mom-z14-z",
+    "C07.say.nadie-ha-visto",
+    "C07.cue.stellar-era",
+    "C07.say.ellas-empieza-era",
+    "C07.recap.hierro-tu-sangre",
+    "C07.act.ven-presente"
+  ]
+}

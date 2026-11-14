@@ -1,0 +1,142 @@
+{
+  "section": {
+    "id": "C12",
+    "title": "El regreso",
+    "title_en": "The return",
+    "slug": "regreso"
+  },
+  "experience_cards": {
+    "campana": {
+      "title": "Qué dibuja la campana",
+      "kind": "Representación de AlbaView",
+      "claim": "La campana es un dibujo para orientarnos en el tiempo, no la forma real del universo.",
+      "aporta": "En esta versión web, el eje usa η = log₁₀(t/1 año), de 0 a 105; el primer año se reúne en el vértice. Su anchura evoca la expansión: el código usa una aproximación de materia y constante cosmológica para el pasado y una apertura estilizada para el futuro. No representa a escala física todo el universo temprano.",
+      "limites": "El eje temporal usa η=log₁₀(t/1 año), de 0 a 105. El primer año queda agrupado fuera del eje. La anchura no mide el tamaño físico del universo. La altura comprime tiempos por una regla logarítmica; la anchura no mide tamaño real ni entropía. El dominio de la web no es el mismo que el de la figura impresa. El horizonte futuro queda abierto.",
+      "fecha": "AlbaView, iteración 11–18 · Libro, II.3",
+      "fig": null,
+      "sec": "II.3",
+      "refs": [
+        {
+          "n": 16,
+          "internal": true,
+          "text": "Documentación del proyecto · David Martán, AlbaView , artefacto interactivo, iteración 18 (HTML), obra propia, The Invisible Line · nota de altura (heightNote): la altura del cono es dispositivo de visualización declarado. Corpus textual verbatim en .",
+          "urls": [],
+          "type": "documentación autoral/editorial"
+        },
+        {
+          "n": 22,
+          "internal": true,
+          "text": "Documentación del proyecto · Martán, AlbaView , iter18, tarjeta semilla de la parada 02, texto de autor verbatim. Nota editorial. La tarjeta dice «según WMAP»; la cronología del sistema ancla en Planck 2018. La reconciliación artefacto–canónico está registrada como pendiente; la semilla no se edita sin palabra del autor.",
+          "urls": [
+            "https://doi.org/10.1051/0004-6361/201833910"
+          ],
+          "type": "documentación autoral/editorial"
+        },
+        {
+          "n": 13,
+          "internal": false,
+          "text": "Fred C. Adams y Gregory Laughlin, «A dying universe: the long-term fate and evolution of astrophysical objects», Reviews of Modern Physics 69 (1997): 337–372, https://doi.org/10.1103/RevModPhys.69.337. La década cosmológica η es la convención de notación de esta fuente.",
+          "urls": [
+            "https://doi.org/10.1103/RevModPhys.69.337"
+          ],
+          "type": "fuente académica o institucional"
+        }
+      ],
+      "_before_r15v03": {
+        "limites": "Eje temporal logarítmico η=0…105 en r11; primer año reunido fuera de escala. Anchura estilizada, no tamaño físico del universo. La altura comprime tiempos por una regla logarítmica; la anchura no mide tamaño real ni entropía. El dominio de la web no es el mismo que el de la figura impresa. El horizonte futuro queda abierto."
+      }
+    },
+    "dato-desconocido": {
+      "title": "Dato Desconocido",
+      "kind": "Texto de autor",
+      "claim": "Dato Desconocido nombra, en la propuesta del autor, interrogantes en los extremos de este recorrido: el origen absoluto no tiene una reconstrucción comprobada y el futuro se explora con modelos.",
+      "aporta": "El nombre es de David Martán. Su alcance operativo sigue siendo una formulación candidata: una plantilla editorial no constituye una medición ni certifica una frontera física.",
+      "limites": "No afirma que nada haya dejado huellas ni que toda observación futura sea imposible. No demuestra un comienzo o final del mundo. Conservar C-4/WNE/B3 y sus resoluciones vigentes, sin adjudicar aquí un cierre nuevo.",
+      "fecha": "Asiento del autor, 17-ago-2026",
+      "fig": null,
+      "sec": "III.10.2",
+      "refs": [
+        {
+          "n": 81,
+          "internal": true,
+          "text": "Documentación del proyecto · Asiento del nombre Unknown Datum: , 17-ago-2026. Nivel A (palabra del autor): el nombre y la tesis de los dos interrogantes. Nivel C (propuesta del carril, no contradicha): plantilla y disciplina de uso.",
+          "urls": [],
+          "type": "documentación autoral/editorial"
+        }
+      ]
+    }
+  },
+  "book_source_apparatus": [
+    {
+      "row_id": "C12.say.corte-presente-todo",
+      "book_locator": "AV-A-297",
+      "section": "12",
+      "section_title": "El regreso",
+      "recorded_state": "ACTIVA",
+      "source_apparatus": {
+        "Verificaciones AlbaView (estado · qué verificar · fuente concreta vía Undermind · veredicto)": "PENDIENTE · Verificar con el integrador: que la radio es efectivamente en directo y aleatoria; preparar variante para radio no disponible. Población mundial ≈ 8.000 millones («miles de millones de vidas»). · Fuente: — · Veredicto: —"
+      }
+    },
+    {
+      "row_id": "C12.say.hidrogeno-hierro",
+      "book_locator": "AV-A-310",
+      "section": "12",
+      "section_title": "El regreso",
+      "recorded_state": "ACTIVA",
+      "source_apparatus": {
+        "Verificaciones AlbaView (estado · qué verificar · fuente concreta vía Undermind · veredicto)": "Undermind: hidrógeno primordial (BBN; p. ej. Fields et al., Big Bang Nucleosynthesis, PDG Review); origen estelar del hierro (Burbidge, Burbidge, Fowler & Hoyle 1957; Johnson 2019, Science, tabla periódica del origen de los elementos)."
+      }
+    },
+    {
+      "row_id": "C12.say.atomos-viejos",
+      "book_locator": "AV-A-311",
+      "section": "12",
+      "section_title": "El regreso",
+      "recorded_state": "ACTIVA",
+      "source_apparatus": {
+        "Verificaciones AlbaView (estado · qué verificar · fuente concreta vía Undermind · veredicto)": "Undermind: edad de la nebulosa solar y formación del Sistema Solar (~4.567 Ga; Connelly et al. 2012, Science, CAIs); composición heredada de la nebulosa (Lodders 2003, ApJ, abundancias solares); fracción de átomos radiogénicos posteriores (marginal)."
+      }
+    },
+    {
+      "row_id": "C12.say.siguiente-puerta",
+      "book_locator": "AV-A-315",
+      "section": "12",
+      "section_title": "El regreso",
+      "recorded_state": "ACTIVA",
+      "source_apparatus": {
+        "Verificaciones AlbaView (estado · qué verificar · fuente concreta vía Undermind · veredicto)": "Undermind: evidencia de vida más antigua (estromatolitos ~3.5 Ga, Allwood et al. 2006, Nature; indicios ~3.7–4.1 Ga, Bell et al. 2015, PNAS, en disputa); LUCA ~4.2 Ga (Moody et al. 2024, Nature Ecology & Evolution)."
+      }
+    }
+  ],
+  "book_rows": [
+    "C12.cue.world-sound",
+    "C12.cue.world-city",
+    "C12.say.volvemos",
+    "C12.cue.cut-plane",
+    "C12.act.vuelve",
+    "C12.say.corte-presente-todo",
+    "C12.cue.two-unknowns",
+    "C12.say.arriba-hubo-antes",
+    "C12.say.espacio-entre-ellos",
+    "C12.cue.return-zoom",
+    "C12.cue.into-point",
+    "C12.cue.final-v01",
+    "C12.cue.heartbeat",
+    "C12.say.visto-dentro-punto",
+    "C12.say.vida-historia-dura",
+    "C12.say.eso-dice-cuanto",
+    "C12.cue.bell-open",
+    "C12.cue.figure-form",
+    "C12.say.hidrogeno-hierro",
+    "C12.say.atomos-viejos",
+    "C12.cue.figure-look-sides",
+    "C12.say.no-esperandote",
+    "C12.cue.figure-look-up",
+    "C12.say.siguiente-puerta",
+    "C12.say.pon-mano-sobre",
+    "C12.cue.heart-fade",
+    "C12.cue.clock-now",
+    "C12.say.estas-aqui-ahora",
+    "C12.cue.stamp"
+  ]
+}

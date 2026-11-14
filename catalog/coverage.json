@@ -1,0 +1,28 @@
+{
+  "date": "2026-11-14",
+  "status": "INITIAL_PARTIAL_ALBAVIEW_SOURCE_ARCHIVE",
+  "counts": {
+    "source_cards": 87,
+    "technical_flags": 4,
+    "reference_occurrences": 241,
+    "deduplicated_reference_records": 143,
+    "book_rows": 320,
+    "book_source_apparatus_records": 99,
+    "experience_steps": 306,
+    "exact_embedded_id_matches": 287,
+    "final_module_id_references": 17,
+    "no_exact_id_match": 16,
+    "external_papers_copied": 0
+  },
+  "unarchived_scopes": [
+    "LineageMoment source corpus",
+    "PresentFront source corpus",
+    "Sanity Portrait source corpus",
+    "Full global-experience documentation",
+    "Full manuscripts and scripts",
+    "Licensed audio and private assets",
+    "External cited papers"
+  ],
+  "automatic_sync": "NOT_ACTIVE",
+  "consumer_rule_adoption": "NOT_YET_CONFIRMED"
+}

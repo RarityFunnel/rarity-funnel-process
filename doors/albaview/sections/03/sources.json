@@ -1,0 +1,15 @@
+{
+  "section": {
+    "id": "C03",
+    "title": "Hacia el principio",
+    "title_en": "",
+    "slug": "hacia-el-principio"
+  },
+  "experience_cards": {},
+  "book_source_apparatus": [],
+  "book_rows": [
+    "C03.say.hacia-atras-todo",
+    "C03.cue.cone-dive",
+    "C03.cue.white-out"
+  ]
+}

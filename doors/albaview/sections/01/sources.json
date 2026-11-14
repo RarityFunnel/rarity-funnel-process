@@ -1,0 +1,365 @@
+{
+  "section": {
+    "id": "C01",
+    "title": "Aquí y ahora",
+    "title_en": "Here and now",
+    "slug": "aqui-y-ahora"
+  },
+  "experience_cards": {
+    "AV-F01": {
+      "title": "Qué explica el Big Bang",
+      "kind": "Ficha de AlbaView",
+      "claim": "El modelo del Big Bang caliente describe cómo evoluciona un universo que se expande desde una etapa muy caliente y densa. Relaciona tres conjuntos de pruebas: la expansión cósmica, el fondo de microondas y las abundancias de elementos ligeros. Estas observaciones se apoyan entre sí; no son una fotografía del comienzo absoluto.",
+      "aporta": "La expansión no se representa como una bomba que estalla en un punto dentro de un espacio vacío. A gran escala, cambian las distancias entre regiones del propio universo. El modelo no necesita un centro de explosión ni describe un espacio exterior al que saldría la materia. Tampoco demuestra, por sí solo, que el tiempo empezara en un instante singular.\n\nFred Hoyle empleó «Big Bang» en una emisión de la BBC del 28 de marzo de 1949. El archivo de Hoyle permite documentar esa referencia histórica. En este cotejo no se ha autenticado una grabación original del programa: el enlace disponible conduce al archivo documental, no a un audio verificado. No atribuimos al término una intención burlona como hecho demostrado.",
+      "limites": "",
+      "paras": [
+        "El modelo del Big Bang caliente describe cómo evoluciona un universo que se expande desde una etapa muy caliente y densa. Relaciona tres conjuntos de pruebas: la expansión cósmica, el fondo de microondas y las abundancias de elementos ligeros. Estas observaciones se apoyan entre sí; no son una fotografía del comienzo absoluto.",
+        "La expansión no se representa como una bomba que estalla en un punto dentro de un espacio vacío. A gran escala, cambian las distancias entre regiones del propio universo. El modelo no necesita un centro de explosión ni describe un espacio exterior al que saldría la materia. Tampoco demuestra, por sí solo, que el tiempo empezara en un instante singular.",
+        "Fred Hoyle empleó «Big Bang» en una emisión de la BBC del 28 de marzo de 1949. El archivo de Hoyle permite documentar esa referencia histórica. En este cotejo no se ha autenticado una grabación original del programa: el enlace disponible conduce al archivo documental, no a un audio verificado. No atribuimos al término una intención burlona como hecho demostrado."
+      ],
+      "fecha": "2020 · 2025",
+      "fig": null,
+      "sec": null,
+      "refs": [
+        {
+          "n": null,
+          "internal": false,
+          "text": "Planck Collaboration, Planck 2018 results VI. Cosmological parameters (A&A 641, A6, 2020)",
+          "urls": [
+            "https://doi.org/10.1051/0004-6361/201833910"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "Resumen; resultados base ΛCDM: H₀=67,4±0,5 km/s/Mpc; Ωm=0,315±0,007; Ωbh²≈0,0224",
+          "lim": "Inferencia dependiente de ΛCDM; no observación directa de la edad ni de la sustancia de la energía oscura.",
+          "key": "Agh18",
+          "year": "2020"
+        },
+        {
+          "n": null,
+          "internal": false,
+          "text": "Fields, Molaro y Sarkar, Big Bang Nucleosynthesis, PDG 2025",
+          "urls": [
+            "https://pdg.lbl.gov/2025/reviews/rpp2025-rev-bbang-nucleosynthesis.pdf"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "§24.2; §24.3, ec.24.2; §24.4; §24.5; §24.6",
+          "lim": "BBN permite una reconstrucción contrastada alrededor del primer segundo; no demuestra una historia observada hasta Planck.",
+          "key": "PDG25",
+          "year": "2025"
+        },
+        {
+          "n": null,
+          "internal": false,
+          "text": "Archivo de Fred Hoyle, Into the Public Eye",
+          "urls": [
+            "https://hoyle.org.uk/A-Singular-Life/Into-the-Spotlight/"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "Párrafo emisión28-mar-1949, BBC Third Programme",
+          "lim": "Documenta la emisión; no se ha localizado ni autenticado aquí su grabación original. No atribuir intención burlesca.",
+          "key": "HOYLE",
+          "year": ""
+        }
+      ],
+      "origin": "dictamen AlbaView 1oAUCFEWu_hxHl1dlfzrP48tbD01BXujS §4 · F01"
+    },
+    "AV-F04": {
+      "title": "Lo que sabemos del origen de la vida",
+      "kind": "Ficha de AlbaView",
+      "claim": "Hay evidencias ampliamente utilizadas de vida de hace aproximadamente 3.500 millones de años. Entre ellas se encuentran depósitos de fuentes termales de unos 3.480 millones de años y estructuras de estromatolitos de unos 3.430 millones, en Australia. Existen indicios propuestos más antiguos, pero su interpretación biológica es discutida. Estas fechas no determinan cuándo apareció la primera vida.",
+      "aporta": "El experimento de Miller de 1953 produjo aminoácidos a partir de una mezcla sencilla sometida a descargas eléctricas. No creó vida ni demostró que aquella mezcla reprodujera toda la atmósfera terrestre primitiva. Desde entonces se han reproducido muchos pasos: síntesis de componentes, formación de compartimentos y reacciones de copia de ARN.\n\nEn 2009, Lincoln y Joyce mostraron un sistema de enzimas de ARN que se replican mutuamente con materiales preparados. En 2026, Gianni y colaboradores describieron una pequeña ribozima capaz de sintetizar su propia secuencia y la complementaria en condiciones experimentales controladas. Su rendimiento, fidelidad y condiciones no equivalen a un ciclo autónomo de vida surgido de química sencilla.\n\nLo que sigue abierto es el recorrido completo: cómo se conectaron esos procesos en un sistema capaz de mantenerse, reproducirse y evolucionar. «No hemos reconstruido el recorrido completo» expresa el límite sin borrar los pasos que sí se han conseguido.",
+      "limites": "",
+      "paras": [
+        "Hay evidencias ampliamente utilizadas de vida de hace aproximadamente 3.500 millones de años. Entre ellas se encuentran depósitos de fuentes termales de unos 3.480 millones de años y estructuras de estromatolitos de unos 3.430 millones, en Australia. Existen indicios propuestos más antiguos, pero su interpretación biológica es discutida. Estas fechas no determinan cuándo apareció la primera vida.",
+        "El experimento de Miller de 1953 produjo aminoácidos a partir de una mezcla sencilla sometida a descargas eléctricas. No creó vida ni demostró que aquella mezcla reprodujera toda la atmósfera terrestre primitiva. Desde entonces se han reproducido muchos pasos: síntesis de componentes, formación de compartimentos y reacciones de copia de ARN.",
+        "En 2009, Lincoln y Joyce mostraron un sistema de enzimas de ARN que se replican mutuamente con materiales preparados. En 2026, Gianni y colaboradores describieron una pequeña ribozima capaz de sintetizar su propia secuencia y la complementaria en condiciones experimentales controladas. Su rendimiento, fidelidad y condiciones no equivalen a un ciclo autónomo de vida surgido de química sencilla.",
+        "Lo que sigue abierto es el recorrido completo: cómo se conectaron esos procesos en un sistema capaz de mantenerse, reproducirse y evolucionar. «No hemos reconstruido el recorrido completo» expresa el límite sin borrar los pasos que sí se han conseguido."
+      ],
+      "fecha": "1953 · 2006 · 2009 · 2015 · 2017 · 2026",
+      "fig": null,
+      "sec": null,
+      "refs": [
+        {
+          "n": null,
+          "internal": false,
+          "text": "Allwood et al., Stromatolite reef from the Early Archaean era of Australia (2006)",
+          "urls": [
+            "https://doi.org/10.1038/nature04764"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "Strelley Pool, ≈3430 Ma; resumen en PMID16760969",
+          "lim": "Biogenicidad inferida del conjunto morfológico y ambiental; no fecha del origen de la vida.",
+          "key": "All06",
+          "year": "2006"
+        },
+        {
+          "n": null,
+          "internal": false,
+          "text": "Djokic et al., Earliest signs of life on land preserved in ca. 3.5 Ga hot spring deposits (2017)",
+          "urls": [
+            "https://doi.org/10.1038/ncomms15263"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "Resumen: Dresser ≈3480 Ma",
+          "lim": "~3500 Ma es redondeo de evidencias; no límite matemático de ≥3500 exactos.",
+          "key": "Djo17",
+          "year": "2017"
+        },
+        {
+          "n": null,
+          "internal": false,
+          "text": "Bell et al., Potentially biogenic carbon preserved in a 4.1 billion-year-old zircon (2015)",
+          "urls": [
+            "https://doi.org/10.1073/pnas.1517557112"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "Resumen y título: potentially biogenic",
+          "lim": "Indicio discutido; no ancla firme de vida a 4100 Ma.",
+          "key": "Bel15",
+          "year": "2015"
+        },
+        {
+          "n": null,
+          "internal": false,
+          "text": "Stanley L. Miller, A Production of Amino Acids Under Possible Primitive Earth Conditions (1953)",
+          "urls": [
+            "https://doi.org/10.1126/science.117.3046.528"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "Science 117,528–529; descarga eléctrica, gases y aminoácidos",
+          "lim": "Artículo firmado por Miller; Urey fue su supervisor. Mezcla experimental no demostración de la atmósfera global ni creación de vida.",
+          "key": "Mil53",
+          "year": "1953"
+        },
+        {
+          "n": null,
+          "internal": false,
+          "text": "Powner, Gerland y Sutherland, Synthesis of activated pyrimidine ribonucleotides… (2009)",
+          "urls": [
+            "https://doi.org/10.1038/nature08013"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "Resumen de autores, PMID19444213",
+          "lim": "Ruta química controlada; no formación autónoma de una célula.",
+          "key": "Pow09",
+          "year": "2009"
+        },
+        {
+          "n": null,
+          "internal": false,
+          "text": "Lincoln y Joyce, Self-sustained Replication of an RNA Enzyme (2009)",
+          "urls": [
+            "https://doi.org/10.1126/science.1167856"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "Resumen: replicación cruzada de dos enzimas de ARN a partir de cuatro sustratos",
+          "lim": "Sustratos definidos suministrados; no abiogénesis completa.",
+          "key": "Lin09",
+          "year": "2009"
+        },
+        {
+          "n": null,
+          "internal": false,
+          "text": "Gianni et al., A small polymerase ribozyme that can synthesize itself and its complementary strand (Science 391,1022–1028,2026)",
+          "urls": [
+            "https://doi.org/10.1126/science.adt2760"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "Resumen; Fig.4; Discussion",
+          "lim": "QT45: dos reacciones componentes con bajo rendimiento; no ciclo autónomo sostenido demostrado, ni célula desde química simple.",
+          "key": "Gia26",
+          "year": "2026"
+        },
+        {
+          "n": null,
+          "internal": false,
+          "text": "Toward a systems view of life’s origins: Modeling the emergence of complexity across chemical, informational and ecological levels (2026)",
+          "urls": [
+            "https://doi.org/10.1016/j.coisb.2026.100588"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "Current Opinion in Systems Biology44,100588; resumen",
+          "lim": "Marco integrador reciente; no prueba negativa exhaustiva de que ningún laboratorio logre ningún tipo de replicación.",
+          "key": "LIFE26",
+          "year": "2026"
+        }
+      ],
+      "origin": "dictamen AlbaView 1oAUCFEWu_hxHl1dlfzrP48tbD01BXujS §4 · F04"
+    },
+    "AV-F12": {
+      "title": "Una continuidad de vida",
+      "kind": "Ficha de AlbaView",
+      "claim": "Las semejanzas fundamentales entre los sistemas vivos terrestres apoyan una ascendencia común de la vida conocida. LUCA nombra al último ancestro común universal de los linajes actuales; no a la primera forma de vida ni necesariamente a un individuo aislado.",
+      "aporta": "Moody y colaboradores estimaron una antigüedad de alrededor de 4.200 millones de años para LUCA mediante un modelo evolutivo y calibraciones. Es una inferencia cuyo resultado depende del método y los supuestos. No es un fósil datado de esa edad ni cierra la discusión sobre cuándo apareció la vida.\n\nLas evidencias geológicas de unos 3.500 millones de años y los indicios propuestos más antiguos tienen estatutos distintos. Por eso la voz habla aquí de miles de millones de años de continuidad: cada linaje que llega hasta el presente procede de organismos anteriores, aunque cambien sus formas. La exploración de esa historia biológica continúa en LineageMoment.",
+      "limites": "",
+      "paras": [
+        "Las semejanzas fundamentales entre los sistemas vivos terrestres apoyan una ascendencia común de la vida conocida. LUCA nombra al último ancestro común universal de los linajes actuales; no a la primera forma de vida ni necesariamente a un individuo aislado.",
+        "Moody y colaboradores estimaron una antigüedad de alrededor de 4.200 millones de años para LUCA mediante un modelo evolutivo y calibraciones. Es una inferencia cuyo resultado depende del método y los supuestos. No es un fósil datado de esa edad ni cierra la discusión sobre cuándo apareció la vida.",
+        "Las evidencias geológicas de unos 3.500 millones de años y los indicios propuestos más antiguos tienen estatutos distintos. Por eso la voz habla aquí de miles de millones de años de continuidad: cada linaje que llega hasta el presente procede de organismos anteriores, aunque cambien sus formas. La exploración de esa historia biológica continúa en LineageMoment."
+      ],
+      "fecha": "2006 · 2015 · 2017 · 2024",
+      "fig": null,
+      "sec": null,
+      "refs": [
+        {
+          "n": null,
+          "internal": false,
+          "text": "Moody et al., The nature of the last universal common ancestor and its impact on the early Earth system (2024)",
+          "urls": [
+            "https://doi.org/10.1038/s41559-024-02461-1"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "Resumen: LUCA≈4,2 Ga, intervalo4,09–4,33",
+          "lim": "Inferencia filogenética dependiente de modelo; LUCA no equivale a primera vida ni fósil datado.",
+          "key": "Moo24e",
+          "year": "2024"
+        },
+        {
+          "n": null,
+          "internal": false,
+          "text": "Allwood et al., Stromatolite reef from the Early Archaean era of Australia (2006)",
+          "urls": [
+            "https://doi.org/10.1038/nature04764"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "Strelley Pool, ≈3430 Ma; resumen en PMID16760969",
+          "lim": "Biogenicidad inferida del conjunto morfológico y ambiental; no fecha del origen de la vida.",
+          "key": "All06",
+          "year": "2006"
+        },
+        {
+          "n": null,
+          "internal": false,
+          "text": "Djokic et al., Earliest signs of life on land preserved in ca. 3.5 Ga hot spring deposits (2017)",
+          "urls": [
+            "https://doi.org/10.1038/ncomms15263"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "Resumen: Dresser ≈3480 Ma",
+          "lim": "~3500 Ma es redondeo de evidencias; no límite matemático de ≥3500 exactos.",
+          "key": "Djo17",
+          "year": "2017"
+        },
+        {
+          "n": null,
+          "internal": false,
+          "text": "Bell et al., Potentially biogenic carbon preserved in a 4.1 billion-year-old zircon (2015)",
+          "urls": [
+            "https://doi.org/10.1073/pnas.1517557112"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "Resumen y título: potentially biogenic",
+          "lim": "Indicio discutido; no ancla firme de vida a 4100 Ma.",
+          "key": "Bel15",
+          "year": "2015"
+        }
+      ],
+      "origin": "dictamen AlbaView 1oAUCFEWu_hxHl1dlfzrP48tbD01BXujS §4 · F12"
+    },
+    "lugar": {
+      "title": "Tu lugar y tu hora",
+      "kind": "Dato de tu dispositivo",
+      "claim": "El lugar, la fecha y la hora que ves junto al punto son los tuyos.",
+      "aporta": "La hora sale del reloj de tu dispositivo. El lugar, si lo permites, sale de la ubicación aproximada del navegador, comparada con una base de lugares habitados; si no, de tu zona horaria o del nombre que escribas.",
+      "limites": "Se muestra el lugar habitado más cercano de la base, no tu dirección. La ubicación no se envía a ningún servidor: se compara dentro de la página.",
+      "fecha": "Base de lugares: GeoNames (CC BY 4.0), paquete cities.json 1.1.65",
+      "fig": null,
+      "sec": null,
+      "refs": []
+    },
+    "autor-frases": {
+      "title": "Nota de autor · The Invisible Line",
+      "kind": "Nota de autor",
+      "claim": "Frases autorales que enmarcan la experiencia de mirar el presente desde otras escalas: «El presente parece enorme porque lo habitas desde dentro», «Visto desde dentro, ese punto parece todo lo que existe». La frase del píxel («Tu vida entera ocupa menos de un píxel de la historia del universo») se conserva aquí como texto de autor.",
+      "aporta": "Se conserva el texto histórico en sus referencias. La voz revisada (r12) adapta la comparación del píxel para no convertir una metáfora en una medida universal.",
+      "limites": "Las afirmaciones cuantitativas dentro de una frase autoral también necesitan escala y condiciones. Su autoría no las exime de cotejo.",
+      "fecha": "Corpus autoral; cotejo 22-oct-2026",
+      "fig": null,
+      "sec": "III.1",
+      "refs": [
+        {
+          "n": 21,
+          "internal": true,
+          "text": "Documentación del proyecto · Martán, AlbaView , iter18, frases de aproximación y tarjeta semilla, texto de autor verbatim · extracto , §§1 y 3.",
+          "urls": [],
+          "type": "documentación autoral/editorial"
+        },
+        {
+          "n": 16,
+          "internal": true,
+          "text": "Documentación del proyecto · David Martán, AlbaView , artefacto interactivo, iteración 18 (HTML), obra propia, The Invisible Line · nota de altura (heightNote): la altura del cono es dispositivo de visualización declarado. Corpus textual verbatim en .",
+          "urls": [],
+          "type": "documentación autoral/editorial"
+        }
+      ]
+    }
+  },
+  "book_source_apparatus": [
+    {
+      "row_id": "C01.say.primera-albaview-tiempo",
+      "book_locator": "AV-A-003",
+      "section": "01",
+      "section_title": "Aquí y ahora",
+      "recorded_state": "ACTIVA",
+      "source_apparatus": {
+        "Verificaciones AlbaView (estado · qué verificar · fuente concreta vía Undermind · veredicto)": "PENDIENTE · Verificar: que «el principio que podemos reconstruir» describe bien el límite actual (estado caliente y denso reconstruible, no un principio absoluto demostrado). · Fuente: — · Veredicto: —"
+      }
+    },
+    {
+      "row_id": "C01.say.despues-hubo-luz",
+      "book_locator": "AV-A-009",
+      "section": "01",
+      "section_title": "Aquí y ahora",
+      "recorded_state": "ACTIVA",
+      "source_apparatus": {
+        "Verificaciones AlbaView (estado · qué verificar · fuente concreta vía Undermind · veredicto)": "PENDIENTE · Verificar: (1) la luz «pudo viajar» al enfriarse el universo (recombinación/desacoplamiento, ≈ 380.000 años) y antes estaba atrapada; (2) orden luz libre → primeras estrellas; (3) un planeta que orbita una estrella como lugar de la primera autorreplicación. · Fuente: — · Veredicto: —"
+      }
+    },
+    {
+      "row_id": "C01.say.mucho-mucho-despues",
+      "book_locator": "AV-A-010",
+      "section": "01",
+      "section_title": "Aquí y ahora",
+      "recorded_state": "ACTIVA",
+      "source_apparatus": {
+        "Verificaciones AlbaView (estado · qué verificar · fuente concreta vía Undermind · veredicto)": "PENDIENTE · Verificar: (1) escala «miles de millones de años» para la historia de la vida; (2) variación en la copia + supervivencia como resumen fiel de mutación y selección natural; (3) aparición de ojos y cerebros como resultado de ese proceso. · Fuente: — · Veredicto: —"
+      }
+    },
+    {
+      "row_id": "C01.say.alguien-eres-tu",
+      "book_locator": "AV-A-011",
+      "section": "01",
+      "section_title": "Aquí y ahora",
+      "recorded_state": "ACTIVA",
+      "source_apparatus": {
+        "Verificaciones AlbaView (estado · qué verificar · fuente concreta vía Undermind · veredicto)": "PENDIENTE · Verificar: «cientos de miles de años» como escala de nuestra especie (Homo sapiens ≈ 300.000 años). · Fuente: — · Veredicto: —"
+      }
+    }
+  ],
+  "book_rows": [
+    "C01.cue.door-intro",
+    "C01.say.vas-iniciar-viaje",
+    "C01.say.primera-albaview-tiempo",
+    "C01.cue.sources-hint",
+    "C01.cue.door-intro-off",
+    "C01.cue.prologue",
+    "C01.say.no-ves-nada",
+    "C01.say.hubo-tiempo-si",
+    "C01.say.despues-hubo-luz",
+    "C01.say.mucho-mucho-despues",
+    "C01.say.alguien-eres-tu",
+    "C01.say.viaje-pregunta-empieza",
+    "C01.cue.point-alone",
+    "C01.show.aqui-ahora",
+    "C01.cue.clear",
+    "C01.say.esto-aqui-ahora",
+    "C01.cue.point-label",
+    "C01.sayv.punto-marca-lugar",
+    "C01.sayv.punto-marca-lugar · country",
+    "C01.sayv.punto-marca-lugar · chosen",
+    "C01.sayv.punto-marca-lugar · none",
+    "C01.say.presente-parece-enorme",
+    "C01.say.vamos-mirarlo-fuera",
+    "C01.act.alejate"
+  ]
+}

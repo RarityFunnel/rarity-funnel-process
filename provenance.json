@@ -1,0 +1,274 @@
+{
+  "repository": {
+    "id": "1457863516",
+    "full_name": "RarityFunnel/rarity-funnel-process",
+    "branch": "main",
+    "visibility": "public"
+  },
+  "captured_on": "2026-11-14",
+  "inputs": [
+    {
+      "id": "1hlzOgPY9bQjb9NDrGdxBg81aSQTZ-LlB",
+      "version": "r16_v06_e14",
+      "modified_time": "2026-11-12T22:57:17.353Z",
+      "source_zip_sha256": "74c1993010ed4cf33622720b1f57d52a1df31dd1639cd9efa38977c53ecf5f0c",
+      "source_member": "RF_FUENTE_r16_v06_e14/ALBAVIEW/albaview.html",
+      "member_sha256": "94d3dc3ccac061e481d90aa3e03eea128ac1ec8cde447afeb852dd252977cabd",
+      "extraction": "JSON value immediately after window.__SOURCES =; exact UTF-8 payload",
+      "archived_path": "originals/experience/r16-v06-e14/albaview-sources.json",
+      "full_original_copied": false
+    },
+    {
+      "id": "1e2BEF37T5npbFMqvfTZADFavhrD9ahuS",
+      "version": "v01",
+      "modified_time": "2026-11-13T13:07:38.752Z",
+      "archived_path": "originals/books/2026-11-13/C04_Correspondencia_320_v01.json",
+      "full_original_copied": true,
+      "sha256": "107c76962a053eb644a6bb54d5e48ace7f87b12103899d013250a1da8fa44169"
+    },
+    {
+      "id": "1nDhYGvdGFjrc4j_xSqOw0ys4gLdtsv5H",
+      "version": "v01_WORKING",
+      "modified_time": "2026-11-13T13:07:09.512Z",
+      "readable_text_sha256": "723f6759aad3425efd9f70590ae432e4f21059533a9cc0fce262a5176b031c09",
+      "extraction": "Selected source-check fields in AV-A-001 through AV-A-320; original wording retained",
+      "archived_path": "originals/books/2026-11-13/C04_source_apparatus_extract.json",
+      "full_original_copied": false
+    }
+  ],
+  "coverage": {
+    "source_cards": 87,
+    "technical_flags": 4,
+    "reference_occurrences": 241,
+    "deduplicated_reference_records": 143,
+    "book_rows": 320,
+    "book_source_apparatus_records": 99,
+    "experience_steps": 306,
+    "exact_embedded_id_matches": 287,
+    "final_module_id_references": 17,
+    "no_exact_id_match": 16,
+    "external_papers_copied": 0
+  },
+  "files": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 1527,
+      "sha256": "eb109e3a1a5758d3f718757b1e8230d463ad746463930fa8bc041a34a44d4458"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2285,
+      "sha256": "eecfdd8b74057ae9bbd457adb91b724e261b1be458ed71ef198342811fc25826"
+    },
+    {
+      "path": "catalog/book-experience-crosswalk.json",
+      "bytes": 239107,
+      "sha256": "768ddff37dae5396e0484e4acf16836bf4437df265c03369afb615bea4f47947"
+    },
+    {
+      "path": "catalog/coverage.json",
+      "bytes": 825,
+      "sha256": "bbc5466b45648090fe0ed7a41d257aba48f31780efa4b2534104890390b11b55"
+    },
+    {
+      "path": "catalog/references.json",
+      "bytes": 137948,
+      "sha256": "a14c372b747dd3ce1fa21052ad9075c0e5fc7f62e59fc76943b012be72d732ea"
+    },
+    {
+      "path": "catalog/source-cards.json",
+      "bytes": 290379,
+      "sha256": "de0dbaff18c70e9dc987ba6d7269369a52de824824e4e9fab26ae88f85a3b2bf"
+    },
+    {
+      "path": "doors/albaview/README.md",
+      "bytes": 901,
+      "sha256": "e3657be8c77066ec56ec53d8bf7fd5519eaed0c467a7037fdbae1aa6c0a0d39a"
+    },
+    {
+      "path": "doors/albaview/sections/01/README.md",
+      "bytes": 8449,
+      "sha256": "23b80d1a5b3174fdef8d595e6010ded784242201dec27bb86294a8ead103a220"
+    },
+    {
+      "path": "doors/albaview/sections/01/sources.json",
+      "bytes": 22228,
+      "sha256": "3733905a9dc13d6f5fcb05773bc9b817be0d9d5d2e69232175dec0555ba9378e"
+    },
+    {
+      "path": "doors/albaview/sections/02/README.md",
+      "bytes": 10419,
+      "sha256": "8221476193a55b2480f2f6686961b5d6236694b3e025c95ef1b5a8450ca4149a"
+    },
+    {
+      "path": "doors/albaview/sections/02/sources.json",
+      "bytes": 21512,
+      "sha256": "b079777f49c43c2723b676afe08475d4654ab6bdd66861c8eae08cc82d7bd741"
+    },
+    {
+      "path": "doors/albaview/sections/03/README.md",
+      "bytes": 654,
+      "sha256": "a8ece583474d5ceb8a33e1f24426bd7dc81feb29a90e99d1cca228c3f27f593e"
+    },
+    {
+      "path": "doors/albaview/sections/03/sources.json",
+      "bytes": 288,
+      "sha256": "accf8f292dda676028c7c4797ca068cb1bba51b58506a2e1863f9fbf1ea421fb"
+    },
+    {
+      "path": "doors/albaview/sections/04/README.md",
+      "bytes": 54256,
+      "sha256": "8ae5a38e58057854bb399ac4ef3b1a28f9393f41955b28ec859e6bac68466f6f"
+    },
+    {
+      "path": "doors/albaview/sections/04/sources.json",
+      "bytes": 142302,
+      "sha256": "fde3ebe90856fcbbb0e2eef848dbc612cf575eec1bc06df78657f79ec9618665"
+    },
+    {
+      "path": "doors/albaview/sections/05/README.md",
+      "bytes": 16995,
+      "sha256": "39296f4f02ed913e83d243ffd15ecdcd4deb6c79df37fe9fc71a4d6650e24771"
+    },
+    {
+      "path": "doors/albaview/sections/05/sources.json",
+      "bytes": 39547,
+      "sha256": "d79d539b8db3e2c9a553779bce9a18cd0178b5b76ed6a702f78f4f256c937f3c"
+    },
+    {
+      "path": "doors/albaview/sections/06/README.md",
+      "bytes": 5233,
+      "sha256": "14f7b9bbddf79808910ddd113d4048621dc8a3cdc11365326f664293ad1223ed"
+    },
+    {
+      "path": "doors/albaview/sections/06/sources.json",
+      "bytes": 14487,
+      "sha256": "a3552c2a6147d1c913b4f45296a34c8f7c1b52afe871e3f10c1ba5a0f63aab01"
+    },
+    {
+      "path": "doors/albaview/sections/07/README.md",
+      "bytes": 10728,
+      "sha256": "0de5745537ec009c4df8a704ec4deb8478c03b02e3e735fa70246111f4a6aace"
+    },
+    {
+      "path": "doors/albaview/sections/07/sources.json",
+      "bytes": 26172,
+      "sha256": "150ec7cc6c4b81920fc79ca1859f73306d87535a2297c32b06052ea177a9347b"
+    },
+    {
+      "path": "doors/albaview/sections/08/README.md",
+      "bytes": 11023,
+      "sha256": "930ff314695609642634d3881a348271e613880c7e6bb4141108a476bfea2265"
+    },
+    {
+      "path": "doors/albaview/sections/08/sources.json",
+      "bytes": 23814,
+      "sha256": "0f3d748628e8e5a3a6c72047b1dff0c2abde93dbe0ee46133592177ab8ee3967"
+    },
+    {
+      "path": "doors/albaview/sections/09/README.md",
+      "bytes": 11544,
+      "sha256": "28aad722ae37464457d5082859b8110bd97b7b2a8787c2ebd4c1084c1c2f5fb7"
+    },
+    {
+      "path": "doors/albaview/sections/09/sources.json",
+      "bytes": 28416,
+      "sha256": "92e5db6ee856d16b553e3393d1d9ea064b84f8563a4d7c0969d9cbeeefecf2f6"
+    },
+    {
+      "path": "doors/albaview/sections/10/README.md",
+      "bytes": 14320,
+      "sha256": "20be9156db8e3281476132f04d36ff6cd2eb6772e2530abae574b5b0f1324fb2"
+    },
+    {
+      "path": "doors/albaview/sections/10/sources.json",
+      "bytes": 36779,
+      "sha256": "718a1da72fc5a399a44394a262d2714f98c1cf1dd3f3cd5a34989a50f3b9e923"
+    },
+    {
+      "path": "doors/albaview/sections/11/README.md",
+      "bytes": 28907,
+      "sha256": "e8a9c1b9a048e8746ac7881f41e712594a7f1d534d28eb44f17f2e833c04c8e8"
+    },
+    {
+      "path": "doors/albaview/sections/11/sources.json",
+      "bytes": 65652,
+      "sha256": "903760290f7cf08c5a4b91854ac52a2ef24bc8275b81b36acd3389e41c838600"
+    },
+    {
+      "path": "doors/albaview/sections/12/README.md",
+      "bytes": 3446,
+      "sha256": "f93383b07c5fc3bf476b4f5feb2bfc139bc00a509f2ace4ea5c73fd41e1af6a6"
+    },
+    {
+      "path": "doors/albaview/sections/12/sources.json",
+      "bytes": 7536,
+      "sha256": "00dbbd9afdf0e94dbc1f3dac5a12febd8cfaf0eb00a7fe235c0b22568285a8a4"
+    },
+    {
+      "path": "doors/lineage-moment/README.md",
+      "bytes": 158,
+      "sha256": "1cb41c6fb1a480b7f5d90723208d0ce44c7dd09c061834664f9b7f79e78e4af6"
+    },
+    {
+      "path": "doors/present-front/README.md",
+      "bytes": 157,
+      "sha256": "bb544011fd1d86b9d1756fe697ce31b3d8a808b95d83dcd2d11db2ba0f673a45"
+    },
+    {
+      "path": "doors/sanity-portrait/README.md",
+      "bytes": 160,
+      "sha256": "7880b53a3253e082020ad24a77924afaa23bea4959742d7ec440478cc50463cc"
+    },
+    {
+      "path": "global-experience/README.md",
+      "bytes": 256,
+      "sha256": "df1a985d7b50753fe9436b7fdd10d4fea3c3c9fa4d7b03a982b4c0e01987a7b7"
+    },
+    {
+      "path": "originals/books/2026-11-13/C04_Correspondencia_320_v01.json",
+      "bytes": 136904,
+      "sha256": "107c76962a053eb644a6bb54d5e48ace7f87b12103899d013250a1da8fa44169"
+    },
+    {
+      "path": "originals/books/2026-11-13/C04_source_apparatus_extract.json",
+      "bytes": 80127,
+      "sha256": "dbd089c0b1bc791388579a3f45eecfb1c36a16e9f87106b47d4a9d2e653a4a69"
+    },
+    {
+      "path": "originals/experience/r16-v06-e14/albaview-sources.json",
+      "bytes": 240506,
+      "sha256": "2ab265bd096bf4eade74fb6a777903a63fc5604270c3781cd33edd53696795a2"
+    },
+    {
+      "path": "process/PUBLICATION_SCOPE.md",
+      "bytes": 779,
+      "sha256": "45399216c05f7355c092426ead36cebe83e531dac408ebe0c77736b2eb97d325"
+    },
+    {
+      "path": "process/UPDATE_POLICY.md",
+      "bytes": 2457,
+      "sha256": "b2ac9464083cf01ed0beb594a01d3825f0811df8a46035abb3e28a6513739eba"
+    },
+    {
+      "path": "process/decisions/README.md",
+      "bytes": 180,
+      "sha256": "bf3d71c317d5765c7f7d3a8fb1e627e671fbf04ba233eabf86079d6697ea4418"
+    },
+    {
+      "path": "process/implementation/2026-11-14_initial-import.md",
+      "bytes": 1069,
+      "sha256": "b0475a2fc84d8411e678e832bb30b03c1b930c911bb5c15a6e94f3db7c36fd2f"
+    },
+    {
+      "path": "process/proposals/README.md",
+      "bytes": 180,
+      "sha256": "309baf469f9f061724b1658afce4ebc504e7c86c66c09df258826a5d89d4ebaf"
+    },
+    {
+      "path": "process/tests/README.md",
+      "bytes": 172,
+      "sha256": "0b2795576a1e9152a033ac325b8b54702733ad74f58ca1f69f933ac2a7e3b659"
+    }
+  ]
+}

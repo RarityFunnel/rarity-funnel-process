@@ -1,0 +1,351 @@
+{
+  "section": {
+    "id": "C08",
+    "title": "Hoy",
+    "title_en": "Today",
+    "slug": "hoy"
+  },
+  "experience_cards": {
+    "edad": {
+      "title": "13.800 millones de años",
+      "kind": "Medición",
+      "claim": "Desde el comienzo hasta hoy han pasado unos 13.800 millones de años.",
+      "aporta": "Planck da 13,797 ± 0,023 miles de millones de años con sus datos, o 13,787 ± 0,020 añadiendo otras observaciones (BAO). Los relojes estelares de los cúmulos globulares concuerdan.",
+      "limites": "Es una edad calculada con un modelo (ΛCDM), no leída en un reloj. En pantalla va solo el redondeo.",
+      "fecha": "Planck Collaboration, 2018, tabla 2",
+      "fig": null,
+      "sec": "III.6",
+      "refs": [
+        {
+          "n": 54,
+          "internal": false,
+          "text": "Planck 2018 VI, tabla 2, p. 16 (cotejo primario del expediente): 13,797 ± 0,023 Gyr (TT,TE,EE+lowE+lensing) y 13,787 ± 0,020 Gyr (añadiendo BAO). Nota editorial. La diferencia corresponde a conjuntos de datos distintos de la misma fuente; no son estimaciones intercambiables ni una errata. En pantalla va solo el redondeo canónico; otras combinaciones del expediente, no impresas: ACT DR6 + WMAP 13,788 ± 0,019; ACT + Planck + DESI DR2 13,767 ± 0,014 (Louis et al. 2025).",
+          "urls": [
+            "https://doi.org/10.1051/0004-6361/201833910"
+          ],
+          "type": "fuente académica o institucional"
+        }
+      ]
+    },
+    "AV-F01": {
+      "title": "Qué explica el Big Bang",
+      "kind": "Ficha de AlbaView",
+      "claim": "El modelo del Big Bang caliente describe cómo evoluciona un universo que se expande desde una etapa muy caliente y densa. Relaciona tres conjuntos de pruebas: la expansión cósmica, el fondo de microondas y las abundancias de elementos ligeros. Estas observaciones se apoyan entre sí; no son una fotografía del comienzo absoluto.",
+      "aporta": "La expansión no se representa como una bomba que estalla en un punto dentro de un espacio vacío. A gran escala, cambian las distancias entre regiones del propio universo. El modelo no necesita un centro de explosión ni describe un espacio exterior al que saldría la materia. Tampoco demuestra, por sí solo, que el tiempo empezara en un instante singular.\n\nFred Hoyle empleó «Big Bang» en una emisión de la BBC del 28 de marzo de 1949. El archivo de Hoyle permite documentar esa referencia histórica. En este cotejo no se ha autenticado una grabación original del programa: el enlace disponible conduce al archivo documental, no a un audio verificado. No atribuimos al término una intención burlona como hecho demostrado.",
+      "limites": "",
+      "paras": [
+        "El modelo del Big Bang caliente describe cómo evoluciona un universo que se expande desde una etapa muy caliente y densa. Relaciona tres conjuntos de pruebas: la expansión cósmica, el fondo de microondas y las abundancias de elementos ligeros. Estas observaciones se apoyan entre sí; no son una fotografía del comienzo absoluto.",
+        "La expansión no se representa como una bomba que estalla en un punto dentro de un espacio vacío. A gran escala, cambian las distancias entre regiones del propio universo. El modelo no necesita un centro de explosión ni describe un espacio exterior al que saldría la materia. Tampoco demuestra, por sí solo, que el tiempo empezara en un instante singular.",
+        "Fred Hoyle empleó «Big Bang» en una emisión de la BBC del 28 de marzo de 1949. El archivo de Hoyle permite documentar esa referencia histórica. En este cotejo no se ha autenticado una grabación original del programa: el enlace disponible conduce al archivo documental, no a un audio verificado. No atribuimos al término una intención burlona como hecho demostrado."
+      ],
+      "fecha": "2020 · 2025",
+      "fig": null,
+      "sec": null,
+      "refs": [
+        {
+          "n": null,
+          "internal": false,
+          "text": "Planck Collaboration, Planck 2018 results VI. Cosmological parameters (A&A 641, A6, 2020)",
+          "urls": [
+            "https://doi.org/10.1051/0004-6361/201833910"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "Resumen; resultados base ΛCDM: H₀=67,4±0,5 km/s/Mpc; Ωm=0,315±0,007; Ωbh²≈0,0224",
+          "lim": "Inferencia dependiente de ΛCDM; no observación directa de la edad ni de la sustancia de la energía oscura.",
+          "key": "Agh18",
+          "year": "2020"
+        },
+        {
+          "n": null,
+          "internal": false,
+          "text": "Fields, Molaro y Sarkar, Big Bang Nucleosynthesis, PDG 2025",
+          "urls": [
+            "https://pdg.lbl.gov/2025/reviews/rpp2025-rev-bbang-nucleosynthesis.pdf"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "§24.2; §24.3, ec.24.2; §24.4; §24.5; §24.6",
+          "lim": "BBN permite una reconstrucción contrastada alrededor del primer segundo; no demuestra una historia observada hasta Planck.",
+          "key": "PDG25",
+          "year": "2025"
+        },
+        {
+          "n": null,
+          "internal": false,
+          "text": "Archivo de Fred Hoyle, Into the Public Eye",
+          "urls": [
+            "https://hoyle.org.uk/A-Singular-Life/Into-the-Spotlight/"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "Párrafo emisión28-mar-1949, BBC Third Programme",
+          "lim": "Documenta la emisión; no se ha localizado ni autenticado aquí su grabación original. No atribuir intención burlesca.",
+          "key": "HOYLE",
+          "year": ""
+        }
+      ],
+      "origin": "dictamen AlbaView 1oAUCFEWu_hxHl1dlfzrP48tbD01BXujS §4 · F01"
+    },
+    "inventario": {
+      "title": "De qué está hecho el universo",
+      "kind": "Parámetros inferidos en ΛCDM",
+      "claim": "En el ajuste de referencia de Planck, aproximadamente el 68,5 % de la densidad de energía actual corresponde a energía oscura, el 26,5 % a materia oscura y el 4,9 % a materia ordinaria.",
+      "aporta": "Valores del análisis final de Planck (Ω_Λ = 0,6847 ± 0,0073; Ω_m = 0,3153 ± 0,0073). Una comparación independiente (ACT DR6 con DESI DR2) da 69,97 / 25,07 / 4,82 % dentro del mismo marco.",
+      "limites": "Fracciones de densidad de energía actual inferidas dentro del modelo de referencia; no porcentajes de volumen. Son parámetros de un modelo (ΛCDM) ajustado a observaciones: «energía oscura» y «materia oscura» nombran lo que se mide por sus efectos, no sustancias identificadas. Ilustración 11: fracciones aproximadas de la densidad de energía actual · modelo ΛCDM, Planck 2018. Los puntos representan proporciones, no partículas contadas; la red evoca la expansión, no la forma de la energía oscura.",
+      "fecha": "Planck, 2018 · Louis et al., 2025",
+      "fig": "inventory",
+      "sec": "III.6",
+      "refs": [
+        {
+          "n": 49,
+          "internal": false,
+          "text": "Planck 2018 VI (Ω_Λ = 0,6847 ± 0,0073; Ω_m = 0,3153 ± 0,0073).",
+          "urls": [
+            "https://doi.org/10.1051/0004-6361/201833910"
+          ],
+          "type": "fuente académica o institucional"
+        },
+        {
+          "n": 50,
+          "internal": false,
+          "text": "Thibaut Louis et al., «The Atacama Cosmology Telescope: DR6 power spectra, likelihoods and ΛCDM parameters», Journal of Cosmology and Astroparticle Physics 2025, n.º 11 (2025): 062, https://doi.org/10.1088/1475-7516/2025/11/062 (ACT DR6 + DESI DR2: 69,97 % / 25,07 % / 4,82 %, mismo marco ΛCDM).",
+          "urls": [
+            "https://doi.org/10.1088/1475-7516/2025/11/062"
+          ],
+          "type": "fuente académica o institucional"
+        },
+        {
+          "n": null,
+          "internal": false,
+          "text": "Michael S. Turner, Dark Matter and Dark Energy in the Universe, 1998; uso documentado del nombre, no valores actuales.",
+          "urls": [
+            "https://arxiv.org/abs/astro-ph/9811454"
+          ],
+          "type": "atribución histórica documentada"
+        },
+        {
+          "n": null,
+          "internal": false,
+          "text": "Fritz Zwicky, 1933: materia oscura en el cúmulo de Coma; traducción de Heinz Andernach de 2017. No se atribuye la primera acuñación del término.",
+          "urls": [
+            "https://arxiv.org/abs/1711.01693"
+          ],
+          "type": "fuente original traducida"
+        }
+      ]
+    },
+    "AV-F19": {
+      "title": "Qué contiene el modelo cosmológico y qué sigue abierto",
+      "kind": "Ficha de AlbaView",
+      "claim": "ΛCDM combina una constante cosmológica, representada por Λ, con materia oscura fría y materia ordinaria. Es un modelo de referencia porque relaciona con pocos parámetros muchas observaciones: el fondo de microondas, la expansión y la distribución de estructuras, entre otras. Su éxito no identifica por sí mismo qué es la materia oscura ni explica físicamente el valor de Λ.",
+      "aporta": "Con los resultados de Planck de 2018, las fracciones aproximadas actuales son 68,5 % de energía oscura, 26,5 % de materia oscura y 4,9 % de materia ordinaria. Son fracciones de la densidad total de energía en ese modelo, no porcentajes del número de objetos. Suman 99,9 % por redondeo. La materia oscura se infiere por efectos gravitatorios en galaxias, lentes y el fondo de microondas. La energía oscura nombra aquí el componente con que el modelo explica la aceleración, cuya causa física sigue abierta.\n\nLas observaciones de supernovas lejanas condujeron en 1998 al descubrimiento de la expansión acelerada, reconocido con el Nobel de Física de 2011 a Saul Perlmutter, Brian Schmidt y Adam Riess. Aceleración del factor de escala no significa necesariamente que la constante de Hubble esté aumentando.\n\nH₀ describe la tasa actual de expansión por distancia. Planck infiere 67,4 ± 0,5 km/s/Mpc al interpretar el universo temprano con ΛCDM. La escalera de distancias SH0ES, calibrada con cefeidas y supernovas, publicó en 2022 73,04 ± 1,04 km/s/Mpc. La discrepancia entre esos dos análisis es cercana a cinco errores combinados. Hay más métodos y no todos dan el mismo resultado. Se investigan errores sistemáticos y modificaciones del modelo, incluida energía oscura temprana; ninguna de esas posibilidades se declara aquí resuelta.",
+      "limites": "",
+      "paras": [
+        "ΛCDM combina una constante cosmológica, representada por Λ, con materia oscura fría y materia ordinaria. Es un modelo de referencia porque relaciona con pocos parámetros muchas observaciones: el fondo de microondas, la expansión y la distribución de estructuras, entre otras. Su éxito no identifica por sí mismo qué es la materia oscura ni explica físicamente el valor de Λ.",
+        "Con los resultados de Planck de 2018, las fracciones aproximadas actuales son 68,5 % de energía oscura, 26,5 % de materia oscura y 4,9 % de materia ordinaria. Son fracciones de la densidad total de energía en ese modelo, no porcentajes del número de objetos. Suman 99,9 % por redondeo. La materia oscura se infiere por efectos gravitatorios en galaxias, lentes y el fondo de microondas. La energía oscura nombra aquí el componente con que el modelo explica la aceleración, cuya causa física sigue abierta.",
+        "Las observaciones de supernovas lejanas condujeron en 1998 al descubrimiento de la expansión acelerada, reconocido con el Nobel de Física de 2011 a Saul Perlmutter, Brian Schmidt y Adam Riess. Aceleración del factor de escala no significa necesariamente que la constante de Hubble esté aumentando.",
+        "H₀ describe la tasa actual de expansión por distancia. Planck infiere 67,4 ± 0,5 km/s/Mpc al interpretar el universo temprano con ΛCDM. La escalera de distancias SH0ES, calibrada con cefeidas y supernovas, publicó en 2022 73,04 ± 1,04 km/s/Mpc. La discrepancia entre esos dos análisis es cercana a cinco errores combinados. Hay más métodos y no todos dan el mismo resultado. Se investigan errores sistemáticos y modificaciones del modelo, incluida energía oscura temprana; ninguna de esas posibilidades se declara aquí resuelta."
+      ],
+      "fecha": "2011 · 2020 · 2022",
+      "fig": null,
+      "sec": null,
+      "refs": [
+        {
+          "n": null,
+          "internal": false,
+          "text": "Planck Collaboration, Planck 2018 results VI. Cosmological parameters (A&A 641, A6, 2020)",
+          "urls": [
+            "https://doi.org/10.1051/0004-6361/201833910"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "Resumen; resultados base ΛCDM: H₀=67,4±0,5 km/s/Mpc; Ωm=0,315±0,007; Ωbh²≈0,0224",
+          "lim": "Inferencia dependiente de ΛCDM; no observación directa de la edad ni de la sustancia de la energía oscura.",
+          "key": "Agh18",
+          "year": "2020"
+        },
+        {
+          "n": null,
+          "internal": false,
+          "text": "Riess et al., A Comprehensive Measurement of the Local Value of the Hubble Constant… (ApJL934,L7,2022)",
+          "urls": [
+            "https://doi.org/10.3847/2041-8213/ac5c5b"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "Resumen:73,04±1,04 km/s/Mpc; diferencia≈5σ con Planck ΛCDM",
+          "lim": "Dos rutas representativas; no todos los métodos tardíos dan el mismo resultado, ni son las únicas rutas.",
+          "key": "Rie21",
+          "year": "2022"
+        },
+        {
+          "n": null,
+          "internal": false,
+          "text": "Nobel Foundation, The Nobel Prize in Physics 2011, Press release",
+          "urls": [
+            "https://www.nobelprize.org/prizes/physics/2011/press-release/"
+          ],
+          "type": "fuente académica o institucional",
+          "loc": "Descubrimiento de 1998; Perlmutter, Schmidt y Riess",
+          "lim": "El reconocimiento histórico no resuelve la naturaleza física de la energía oscura.",
+          "key": "NOBEL11",
+          "year": "2011"
+        }
+      ],
+      "origin": "dictamen AlbaView 1oAUCFEWu_hxHl1dlfzrP48tbD01BXujS §4 · F19"
+    },
+    "h0-planck": {
+      "title": "Ritmo de expansión · universo temprano",
+      "kind": "Modelo",
+      "claim": "La luz más antigua, con un modelo, da H₀ = 67,4 ± 0,5 km/s/Mpc.",
+      "aporta": "Planck infiere el ritmo de expansión actual a partir del fondo de microondas, suponiendo el modelo ΛCDM.",
+      "limites": "Es una inferencia dentro de un modelo, no una medida directa de galaxias cercanas.",
+      "fecha": "Planck Collaboration, 2018",
+      "fig": "h0",
+      "sec": "III.6",
+      "refs": [
+        {
+          "n": 51,
+          "internal": false,
+          "text": "Planck 2018 VI (H₀ = 67,36 ± 0,54 km/s/Mpc; en pantalla, 67,4 ± 0,5).",
+          "urls": [
+            "https://doi.org/10.1051/0004-6361/201833910"
+          ],
+          "type": "fuente académica o institucional"
+        }
+      ]
+    },
+    "h0-shoes": {
+      "title": "Ritmo de expansión · universo cercano",
+      "kind": "Medición",
+      "claim": "La escalera de distancias da H₀ = 73,04 ± 1,04 km/s/Mpc.",
+      "aporta": "El equipo SH0ES encadena distancias: paralajes, cefeidas y supernovas, con el telescopio Hubble.",
+      "limites": "Otras medidas tardías independientes apuntan en la misma dirección (lentes gravitacionales: 73,3; megamáseres: 73,9 ± 3,0).",
+      "fecha": "Riess et al., 2022",
+      "fig": "h0",
+      "sec": "III.6",
+      "refs": [
+        {
+          "n": 52,
+          "internal": false,
+          "text": "Adam G. Riess et al., «A Comprehensive Measurement of the Local Value of the Hubble Constant with 1 km s⁻¹ Mpc⁻¹ Uncertainty from the Hubble Space Telescope and the SH0ES Team», The Astrophysical Journal Letters 934 (2022): L7, https://doi.org/10.3847/2041-8213/ac5c5b (73,04 ± 1,04).",
+          "urls": [
+            "https://doi.org/10.3847/2041-8213/ac5c5b"
+          ],
+          "type": "fuente académica o institucional"
+        },
+        {
+          "n": 53,
+          "internal": false,
+          "text": "Kenneth C. Wong et al., «H0LiCOW XIII. A 2.4 per cent measurement of H₀ from lensed quasars: 5.3σ tension between early- and late-Universe probes», MNRAS (2020), https://doi.org/10.1093/MNRAS/STZ3094 (73,3 +1,7/−1,8); Dominic W. Pesce et al., «The Megamaser Cosmology Project. XIII. Combined Hubble Constant Constraints», The Astrophysical Journal Letters (2020), https://doi.org/10.3847/2041-8213/ab75f0 (73,9 ± 3,0).",
+          "urls": [
+            "https://doi.org/10.1093/MNRAS/STZ3094",
+            "https://doi.org/10.3847/2041-8213/ab75f0"
+          ],
+          "type": "fuente académica o institucional"
+        }
+      ]
+    },
+    "h0-tension": {
+      "title": "Dos medidas que no se promedian",
+      "kind": "Pregunta abierta",
+      "claim": "Las dos medidas del ritmo de expansión no coinciden, y AlbaView no las promedia.",
+      "aporta": "La diferencia entre Planck y SH0ES es del orden de 5σ. Mostrarlas separadas, con su método y su margen, deja ver la pregunta.",
+      "limites": "La separación no identifica por sí sola su causa: puede venir de los métodos o de física nueva. Promediarlas fingiría un acuerdo que no existe. Ilustración 12: esquema de la incertidumbre · no muestra mediciones en directo. Comparación esquemática; los valores y sus incertidumbres están en esta ficha.",
+      "fecha": "Planck, 2018 · Riess et al., 2022 · Wong et al., 2020",
+      "fig": "h0",
+      "sec": "III.6",
+      "refs": [
+        {
+          "n": 51,
+          "internal": false,
+          "text": "Planck 2018 VI (H₀ = 67,36 ± 0,54 km/s/Mpc; en pantalla, 67,4 ± 0,5).",
+          "urls": [
+            "https://doi.org/10.1051/0004-6361/201833910"
+          ],
+          "type": "fuente académica o institucional"
+        },
+        {
+          "n": 52,
+          "internal": false,
+          "text": "Adam G. Riess et al., «A Comprehensive Measurement of the Local Value of the Hubble Constant with 1 km s⁻¹ Mpc⁻¹ Uncertainty from the Hubble Space Telescope and the SH0ES Team», The Astrophysical Journal Letters 934 (2022): L7, https://doi.org/10.3847/2041-8213/ac5c5b (73,04 ± 1,04).",
+          "urls": [
+            "https://doi.org/10.3847/2041-8213/ac5c5b"
+          ],
+          "type": "fuente académica o institucional"
+        },
+        {
+          "n": 53,
+          "internal": false,
+          "text": "Kenneth C. Wong et al., «H0LiCOW XIII. A 2.4 per cent measurement of H₀ from lensed quasars: 5.3σ tension between early- and late-Universe probes», MNRAS (2020), https://doi.org/10.1093/MNRAS/STZ3094 (73,3 +1,7/−1,8); Dominic W. Pesce et al., «The Megamaser Cosmology Project. XIII. Combined Hubble Constant Constraints», The Astrophysical Journal Letters (2020), https://doi.org/10.3847/2041-8213/ab75f0 (73,9 ± 3,0).",
+          "urls": [
+            "https://doi.org/10.1093/MNRAS/STZ3094",
+            "https://doi.org/10.3847/2041-8213/ab75f0"
+          ],
+          "type": "fuente académica o institucional"
+        }
+      ]
+    }
+  },
+  "book_source_apparatus": [
+    {
+      "row_id": "C08.say.casi-setenta-ciento",
+      "book_locator": "AV-A-202",
+      "section": "08",
+      "section_title": "Hoy",
+      "recorded_state": "ACTIVA",
+      "source_apparatus": {
+        "Verificaciones AlbaView (estado · qué verificar · fuente concreta vía Undermind · veredicto)": "PENDIENTE · Verificar: (1) fracciones Planck 2018 en ΛCDM: energía oscura ≈ 68–69 %, materia oscura ≈ 26–27 %, materia bariónica ≈ 5 %; (2) la energía oscura como nombre de la causa de la aceleración, de naturaleza desconocida; (3) las curvas de rotación de las galaxias como prueba de materia oscura (Rubin y otros), junto a lentes gravitacionales y fondo de microondas. Preparar el texto ampliado del «?» sobre el modelo ΛCDM. · Fuente: — · Veredicto: —",
+        "Ampliar con el icono de Fuentes (libro abierto) · qué explicar cuando la voz dice «el modelo», «la teoría», «hipótesis»…": "FUENTES (libro abierto) ACTIVO · Qué es el modelo ΛCDM (constante cosmológica Λ + materia oscura fría): por qué es el modelo estándar, de dónde salen las fracciones (Planck 2018), qué es la energía oscura y qué pruebas hay de la materia oscura (rotación de galaxias, lentes gravitacionales, fondo de microondas)."
+      }
+    },
+    {
+      "row_id": "C08.say.hay-pregunta-abierta",
+      "book_locator": "AV-A-205",
+      "section": "08",
+      "section_title": "Hoy",
+      "recorded_state": "ACTIVA",
+      "source_apparatus": {
+        "Verificaciones AlbaView (estado · qué verificar · fuente concreta vía Undermind · veredicto)": "PENDIENTE · Verificar: método del universo temprano (fondo de microondas, Planck 2018, extrapolado con ΛCDM: H₀ ≈ 67 km/s/Mpc) y método local (escalera de distancias: cefeidas y supernovas tipo Ia, SH0ES: H₀ ≈ 73 km/s/Mpc); la analogía del coche como simplificación aceptable. · Fuente: — · Veredicto: —",
+        "Ampliar con el icono de Fuentes (libro abierto) · qué explicar cuando la voz dice «el modelo», «la teoría», «hipótesis»…": "FUENTES (libro abierto) ACTIVO · Qué es la constante de Hubble y cómo funcionan los dos métodos (fondo de microondas + modelo ΛCDM; escalera de distancias con cefeidas y supernovas), con las cifras de cada uno."
+      }
+    },
+    {
+      "row_id": "C08.say.no-promedian-diferencia",
+      "book_locator": "AV-A-208",
+      "section": "08",
+      "section_title": "Hoy",
+      "recorded_state": "ACTIVA",
+      "source_apparatus": {
+        "Verificaciones AlbaView (estado · qué verificar · fuente concreta vía Undermind · veredicto)": "PENDIENTE · Verificar: la tensión de Hubble persiste con medidas independientes (≈ 5 σ; JWST ha confirmado medidas de cefeidas) y las explicaciones abiertas: errores sistemáticos o física nueva más allá de ΛCDM. · Fuente: — · Veredicto: —",
+        "Ampliar con el icono de Fuentes (libro abierto) · qué explicar cuando la voz dice «el modelo», «la teoría», «hipótesis»…": "FUENTES (libro abierto) ACTIVO · Qué es la tensión de Hubble, desde cuándo se conoce y qué explicaciones se estudian (sistemáticos; energía oscura temprana; otras)."
+      }
+    },
+    {
+      "row_id": "C08.recap.hoy-unico-lugar",
+      "book_locator": "AV-A-209",
+      "section": "08",
+      "section_title": "Hoy",
+      "recorded_state": "ACTIVA",
+      "source_apparatus": {
+        "Verificaciones AlbaView (estado · qué verificar · fuente concreta vía Undermind · veredicto)": "PENDIENTE · Verificar: formulación de lo sabido (composición según ΛCDM; expansión acelerada) y de lo no sabido (naturaleza de la energía oscura; tensión de Hubble). · Fuente: — · Veredicto: —",
+        "Ampliar con el icono de Fuentes (libro abierto) · qué explicar cuando la voz dice «el modelo», «la teoría», «hipótesis»…": "FUENTES (libro abierto) ACTIVO · «Nuestro mejor modelo»: remite al texto ampliado sobre ΛCDM de la fila 202."
+      }
+    }
+  ],
+  "book_rows": [
+    "C08.show.hoy",
+    "C08.cue.clear",
+    "C08.cue.arrive-now",
+    "C08.say.aqui-estamos-hoy",
+    "C08.cue.now-between",
+    "C08.say.detras-queda-borde",
+    "C08.cue.inventory",
+    "C08.show.planck-2018-partes",
+    "C08.say.casi-setenta-ciento",
+    "C08.say.todo-vemos-estrellas",
+    "C08.cue.h0-dial",
+    "C08.say.hay-pregunta-abierta",
+    "C08.show.planck-sh0es-tension",
+    "C08.say.dos-son-muy",
+    "C08.say.no-promedian-diferencia",
+    "C08.recap.hoy-unico-lugar",
+    "C08.act.mira-hacia-futuro"
+  ]
+}
