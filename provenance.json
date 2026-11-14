@@ -62,8 +62,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3254,
-      "sha256": "ee42bd9df9f5238fe5403bce2021d4c8579ec1f047a62b45dc6466d1560b5210"
+      "bytes": 3542,
+      "sha256": "1c199e324ab75261322972516a260e65665b248760aa09588ed967dbefe744d1"
     },
     {
       "path": "assets/archive.css",
@@ -277,8 +277,8 @@
     },
     {
       "path": "process/implementation/2026-11-14_archive-viewer.md",
-      "bytes": 1720,
-      "sha256": "046b011ed6555542adc0469b846b514ac1c11500eaff460aab3e074c09e66a0b"
+      "bytes": 1942,
+      "sha256": "eab90f192036f3cde776c4cbc04945f0949a42f580d2888e4b7c6e2af8d71b07"
     },
     {
       "path": "process/implementation/2026-11-14_initial-import.md",
@@ -292,8 +292,8 @@
     },
     {
       "path": "process/tests/2026-11-14_archive-viewer.md",
-      "bytes": 1557,
-      "sha256": "7cf53eaebe46229ca6f56bc211642d61e71adae7b32a5169538daf08c3d0b040"
+      "bytes": 3584,
+      "sha256": "fa6c48ea5dedcd6c0599cd50a1c14a8cfb060fe6b9eb42ff85eeeb054c2d0f24"
     },
     {
       "path": "process/tests/README.md",
@@ -311,8 +311,14 @@
     "added_on": "2026-11-14",
     "entrypoint": "index.html",
     "hosting": "GitHub Pages; main; /(root)",
-    "deployment_status": "ACTIVATION_NOT_VERIFIED",
+    "deployment_status": "LIVE_VERIFIED",
     "source_data": "existing archived JSON; no duplicated catalog",
-    "unassigned_source_cards": 4
+    "unassigned_source_cards": 4,
+    "live_url": "https://rarityfunnel.github.io/rarity-funnel-process/",
+    "verified_on": "2026-11-14",
+    "tested_commit": "26d5d87db78f1efc8c298b8d5f66564f07bc8983",
+    "deployment_run_id": 43622679561,
+    "deployment_run_url": "https://github.com/RarityFunnel/rarity-funnel-process/actions/runs/43622679561",
+    "browser_validation": "process/tests/2026-11-14_archive-viewer.md"
   }
 }

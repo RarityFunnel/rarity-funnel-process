@@ -6,9 +6,9 @@ An archive of Rarity Funnel’s sources, findings, and development process, orga
 
 The repository now includes a read-only archive viewer (`index.html`) with a dark documentation interface, search, door/section navigation and tabs for sources, findings, checks, book–experience correspondences and provenance. The viewer reads the existing JSON files directly. Source wording is preserved in Spanish.
 
-**Hosting setup:** GitHub Pages → Deploy from a branch → `main` → `/(root)`. Save to activate hosting. The presence of this code is not evidence that Pages has been activated; deployment must be checked separately. No custom domain or extra data service is required. Source-data updates committed to this branch will be included in the next Pages deployment, once enabled. This does not synchronize Drive with GitHub.
+**[Open the public archive](https://rarityfunnel.github.io/rarity-funnel-process/).** GitHub Pages was activated from `main` / `/(root)` and verified live on 14 November 2026. [The initial deployment succeeded](https://github.com/RarityFunnel/rarity-funnel-process/actions/runs/43622679561) for viewer commit `26d5d87db78f1efc8c298b8d5f66564f07bc8983`. No custom domain or extra data service is required. Source-data updates committed to this branch are included in subsequent Pages deployments. This does not synchronize Drive with GitHub.
 
-Viewer links use URL fragments, for example `#door=albaview&section=04&tab=sources`; individual source cards can also be linked. The immersive website can link to the published viewer after its live URL has been verified.
+Viewer links use URL fragments, for example `#door=albaview&section=04&tab=sources`; individual source cards can also be linked. The immersive website can use the public archive URL for its source access. Adding that link to the immersive website is a separate task and has not been performed by this repository update. [Browser validation record](process/tests/2026-11-14_archive-viewer.md).
 
 - [AlbaView: twelve journey sections](doors/albaview/README.md)
 - [LineageMoment](doors/lineage-moment/README.md) · [PresentFront](doors/present-front/README.md) · [Sanity Portrait](doors/sanity-portrait/README.md)
